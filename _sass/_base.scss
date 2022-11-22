@@ -135,11 +135,10 @@ blockquote {
 
 
 // Navbar customization
-
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: rgb(87, 6, 140);
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
@@ -163,26 +162,36 @@ blockquote {
     }
 }
 .navbar.navbar-light {
+  .header-image {
+    width: 50px;
+    height: 100%;
+    background-image: url("../assets/img/rai.png");
+    background-repeat: no-repeat;
+  }
+  img {
+    width: 50px;
+    height: 100%;
+  }
   a {
     &:hover {
       text-decoration: none;
     }
   }
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--header-theme-color);
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--header-theme-color);
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--header-hover-color);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
-      color: var(--global-theme-color);
+      color: var(--header-theme-color);
       &:hover {
-        color: var(--global-hover-color);
+        color: var(--header-hover-color);
       }
   }
   .navbar-brand.social {
