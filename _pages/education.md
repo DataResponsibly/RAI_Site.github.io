@@ -5,7 +5,7 @@ permalink: /education/
 description: Educational initiatives at RAI
 nav: true
 nav_order: 3
-display_categories: [internal, external]
+display_categories: [comics, nyu_classes, public_facing]
 horizontal: false
 ---
 
