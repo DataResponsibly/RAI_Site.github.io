@@ -4,8 +4,8 @@ title: education
 permalink: /education/
 description: Educational initiatives at RAI
 nav: true
-nav_order: 3
-display_categories: [comics, nyu_classes, public_facing]
+nav_order: 4
+display_categories: [comics, nyu_classes, reports, tools]
 horizontal: false
 ---
 
