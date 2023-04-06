@@ -11,7 +11,8 @@ categories: newsletter
 Our research team recently audited two popular commercial AI systems that compute “personality profiles” from resumes and social media profiles of job applicants. 
 [**Read on to learn about what we uncovered!**](https://airesponsibly.net/2022/09/28/personality-prediction-ai-for-hiring/)
 
-<div class="row mt-3">
+<div class="row mt-3">   
+
     <div class="col-sm mt-10 mt-md-0">
         {% include figure.html path="assets/img/p1.webp" class="img-fluid rounded z-depth-1" %}
     </div>
