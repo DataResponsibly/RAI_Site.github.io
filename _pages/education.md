@@ -1,6 +1,6 @@
 ---
 layout: page
-title: education
+title: Education
 permalink: /education/
 description: Educational initiatives at RAI
 nav: true

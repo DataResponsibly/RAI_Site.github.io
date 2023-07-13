@@ -25,7 +25,6 @@ Job seekers and employees have the right to know what qualifications and charact
     </div>
 </div>
 
-
 ### Responsible AI Research Program – Fall 2022 Project Showcase. 
 As part of a continuing effort led by R/AI to support Ukrainian students, 13 research fellows from the Ukrainian Catholic University and other universities in Ukraine collaborated with faculty and graduate students from New York University, the University of Washington, and the University of Edinburgh on 6 research projects on Responsible AI through the Fall 2022 semester.  Watch the Fall 2022 project showcase and stay tuned for future updates from this program!
 

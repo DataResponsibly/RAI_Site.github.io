@@ -13,3 +13,121 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// #banner {
+//   background: url(M1-banner.png) no-repeat center center;
+//   background-size: cover;
+//   height: 300px; /* Set the height as per your requirement */
+//   width: 100%;
+// }
+#banner {
+  background: url(M1-banner.png) no-repeat center center;
+  background-size: cover;
+  height: 300px; 
+  width: 100vw;  /* Use vw (viewport width) units */
+  position: relative;  /* Added */
+  left: 50%;  /* Added */
+  right: 50%;  /* Added */
+  margin-left: -50vw;  /* Added */
+  margin-right: -50vw;  /* Added */
+  margin-bottom: 20px;  /* Added */
+  margin-top: -10px;  /* Added */
+}
+
+
+
+.publications-div {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+  font-family: Arial, sans-serif; /* Set the font-family */
+  color: #333; /* Set the color of the text */
+  line-height: 1.6; /* Set the line-height */
+  max-height: 200px; /* Set the max-height */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 1em; /* Add some padding */
+  border: 1px dashed #ccc; /* Add a border */
+  margin-top: 2rem;
+  text-align: left; /* Ensures the text within li is left-aligned */
+  padding-left: 0; /* Removes left padding */
+  margin-left: 0; /* Removes left margin */
+
+  ol.bibliography {
+    list-style: none;
+    padding: 10px;
+    margin-top: 0;
+
+    li {
+      
+      margin-bottom: 1rem;
+      .preview {
+        width: 100%;
+        min-width: 80px;
+        max-width: 200px;
+      }
+      .title {
+        font-weight: bolder;
+      }
+      .author {
+        font-style: normal;
+        color: var(--global-text-color-light);
+        a {
+          border-bottom: 1px dashed var(--global-theme-color);
+          &:hover {
+              border-bottom-style: solid;
+              text-decoration: none;
+          }
+        }
+      }
+      .links {
+        a.btn {
+          color: var(--global-text-color);
+          border: 1px solid var(--global-text-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          padding-top: 0.25rem;
+          padding-bottom: 0.25rem;
+          &:hover {
+            color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
+          }
+        }
+      }
+      .hidden {
+        font-size: 0.875rem;
+        max-height: 0px;
+        overflow: hidden;
+        text-align: justify;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+        -o-transition: 0.15s ease;
+        transition: all 0.15s ease;
+
+        p {
+          line-height: 1.4em;
+          margin: 10px;
+        }
+        pre {
+          font-size: 1em;
+          line-height: 1.4em;
+          padding: 10px;
+        }
+      }
+      .hidden.open {
+        max-height: 100em;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+        -o-transition: 0.15s ease;
+        transition: all 0.15s ease;
+      }
+      div.abstract.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+      div.abstract.hidden.open {
+        border-color: var(--global-text-color);
+      }
+    }
+  }
+}

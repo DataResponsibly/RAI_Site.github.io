@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /events/
-title: events
+title: Collaboration
 description: Events that relevant to RAI.
 nav: true
 nav_order: 5

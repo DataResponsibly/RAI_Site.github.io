@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /policy/
-title: policy
+title: Policy
 description: Policy initiatives at RAI
 nav: true
 nav_order: 4
