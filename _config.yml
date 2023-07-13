@@ -6,7 +6,7 @@ title: Center for Responsible AI # the website title (if blank, full name will b
 first_name: Center 
 middle_name: for
 last_name: Responsible AI
-email: you@example.com
+email: responsibleai@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Center for Responsible AI at NYU.
 footer_text: >
