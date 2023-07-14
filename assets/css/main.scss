@@ -35,6 +35,18 @@ $max-content-width: {{ site.max_width }};
   margin-top: -10px;  /* Added */
 }
 
+#banner-other {
+  background-size: cover;
+  height: 300px; 
+  width: 100vw;  /* Use vw (viewport width) units */
+  position: relative;  /* Added */
+  left: 50%;  /* Added */
+  right: 50%;  /* Added */
+  margin-left: -50vw;  /* Added */
+  margin-right: -50vw;  /* Added */
+  margin-bottom: 20px;  /* Added */
+  margin-top: -10px;  /* Added */
+}
 
 
 .publications-div {

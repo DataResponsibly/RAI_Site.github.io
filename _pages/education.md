@@ -2,57 +2,48 @@
 layout: page
 title: Education
 permalink: /education/
-description: Educational initiatives at RAI
 nav: true
 nav_order: 4
 display_categories: [comics, nyu_classes, reports, tools]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M5-banner.png" | relative_url }}');"></div>
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+Education stands as the cornerstone of our work at the Center for Responsible AI. Understanding the profound implications of AI on society necessitates a comprehensive and inclusive approach to education. We conduct cutting-edge research, offer a wide range of courses, and develop educational material geared towards students, professionals, and the broader community. Our goal is to empower learners with the knowledge and critical thinking skills to actively shape the trajectory of AI technology.
+
+### Material
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comics/weareai1-cover.webp" class="img-fluid rounded z-depth-1" %}
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comics/weareai2-cover.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comics/weareai3-cover.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+<div class="caption">
+    Comics
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comics/weareai4-cover.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comics/weareai5-cover.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comics/FairFriends_Cover.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comics
+</div>
+
+### Material
+
+

@@ -7,6 +7,12 @@ years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]  # replace with yo
 nav: false
 nav_order: 2
 ---
+Here you can dive into the heart of our work at the Center for Responsible AI - our research. 
+
+Our ongoing investigations are organized around five major themes: Explainability, Fairness, Privacy, Data-centric approaches, and Education in AI. Below, you will find an extensive compilation of our academic publications, providing a window into our scholarly contributions. Each entry includes an external link to the full text of the paper for a comprehensive understanding. 
+
+In addition, you can explore our ongoing projects, complete with detailed descriptions and direct links to the project repositories. We hope that this collection of resources will serve as a valuable tool for researchers, students, and the broader community to engage with our work.
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
