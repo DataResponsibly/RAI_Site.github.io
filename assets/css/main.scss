@@ -21,9 +21,10 @@ $max-content-width: {{ site.max_width }};
 //   width: 100%;
 // }
 #banner {
-  background: url(M1-banner.png) no-repeat center center;
-  background-size: cover;
-  height: 300px; 
+  background: url(People_Puppets.png) no-repeat center center;
+  // background-size: cover;
+  background-size: auto 600px;
+  height: 600px; 
   width: 100vw;  /* Use vw (viewport width) units */
   position: relative;  /* Added */
   left: 50%;  /* Added */
