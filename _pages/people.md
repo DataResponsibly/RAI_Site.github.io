@@ -23,7 +23,7 @@ A change!
 
 {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" title="rodrigo" class="img-fluid rounded z-depth-1" %}
 
-Rodrigo Kreis de Paula is a Graduate Research Assistant and an incoming Ph.D. student at NYU advised by Julia Stoyanovich and working closely with Armanda Lewis and Chloe Zheng. Rodrigo’s primary research focuses on developing comprehensive and accessible educational materials on Responsible AI. His work strives to address crucial questions on the most effective methods of teaching Responsible AI to diverse audiences, ranging from AI/ML experts to corporate executives and the general public.
+Rodrigo Kreis de Paula is a Graduate Research Assistant and an incoming Ph.D. student at NYU advised by Julia Stoyanovich and working closely with Armanda Lewis and Chloe Zheng. Rodrigo’s primary research focuses on developing comprehensive and accessible educational materials on Responsible AI. His work strives to address crucial questions on the most effective methods of teaching Responsible AI to diverse audiences, ranging from AI/ML experts to corporate executives and the general public. 
 
 Rodrigo attained his Master of Science in Data Science from NYU in May 2023. He currently works for the Financial Department of the City of São Paulo, where he spearheads the AI and ML projects and assumes responsibility for evaluating algorithmic biases and mitigating potential risks. In addition to his master's degree, Rodrigo holds a bachelor’s degree from Fundacao Getulio Vargas (2007) and a post-graduation degree in Artificial Intelligence and Machine Learning from
 PUC-MG (2022).
@@ -37,6 +37,21 @@ Rodrigo likes to play guitar, snowboard, and scuba dive.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/people/rodrigo_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+### Andrew Bell
+
+**PhD Candidate** -- *____ (at) nyu.edu* --
+
+{% include figure.html people-profile=true path="assets/img/people/andrew.png" title="andrew" class="img-fluid rounded z-depth-1" %}
+
+Andrew Bell is a Computer Science Ph.D. Candidate being co-advised by Prof. Julia Stoyanovich and Dr. Oded Nov. Andrew is a recipient of the National Science Foundation Graduate Research Fellowship (NSF GRFP). His research interests lie at the intersection of machine learning and public policy and are more narrowly focused on the fairness and explainability of algorithmic decision systems. In Spring 2023, Andrew was a visiting research fellow at the Center for AI (CENTAI) in Turin, Italy.
+
+In the past, he was a researcher at Data Science for Social Good (DSSG), where he worked on major policy projects like working with a European country’s National Institute of Public Health to develop predictive models that can identify children at risk of not being vaccinated for Measles, Mumps and Rubella. Andrew has also worked at Solve for Good, and the policy research institute MDRC. He graduated from the Calhoun Honors College at Clemson University with a Bachelor's degree in Mathematics in 2015. Andrew's interests outside of work include traveling and art.
+
+**Selected publications**
+<div class="publications-div">
+  {% bibliography -f papers -q @*[author ^= *Andrew]%}
 </div>
 
 ***
@@ -71,6 +86,36 @@ He was formerly a member of the [Microsoft AI rotational program](https://www.mi
 <div class="publications-div">
   {% bibliography -f papers -q @*[author ^= *Lucas]%}
 </div>
+
+***
+### Ian René Solano-Kamaiko 
+
+**Visiting Research Scholar** -- *__ (at) nyu.edu* -- [Personal Website](https://iansolano.com/)
+
+{% include figure.html people-profile=true path="assets/img/people/ian.jpeg" title="ian" class="img-fluid rounded z-depth-1" %}
+ 
+Ian is a Visiting Research Scholar at NYU advised by Dr. Julia Stoyanovich. He graduated from NYU with an M.S. in Computer Science in 2022 and is currently a PhD student at Cornell Tech. His research is focused on building and evaluating computing technologies that aim to improve the lives of marginalized and underserved populations. In particular, he is interested in community and in-home healthcare, mental health, climate resilience, and responsible artificial intelligence. Outside of academic activities, he is an avid Muay Thai practitioner, enjoys reading, and loves to cook — plus he has been known to eat.
+
+**Selected publications**
+<div class="publications-div">
+  {% bibliography -f papers -q @*[author ^= *Solano]%}
+</div>
+
+***
+### Aradhita Bhandari
+
+**Research Assistant** -- *__ (at) nyu.edu* -- 
+
+{% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" title="aradhita" class="img-fluid rounded z-depth-1" %}
+ 
+Aradhita is a Master's student at NYU CDS advised by Julia Stoyanovich. Her work aims to answer open questions on the impact of using synthetic data that violates integrity constraints. 
+Aradhita graduated from Vellore Institute of Technology, India in 2022. She enjoys knitting and is an avid reader.
+
+rg
+
+e
+
+re
 
 ***
 <h1 class="category" id="past">Past Members</h1>

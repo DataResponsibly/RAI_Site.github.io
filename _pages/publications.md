@@ -21,7 +21,7 @@ In addition, you can explore our ongoing projects, complete with detailed descri
   <!-- Add your category specific text here -->
   {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness]* %}
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness && keywords ^= *fair]* %}
   {% endfor %}
   
   <h2 class="category" id="privacy">Privacy</h2>
@@ -29,7 +29,7 @@ In addition, you can explore our ongoing projects, complete with detailed descri
   <!-- Add your category specific text here -->
   {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy] %}
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy && keywords ^= *priv] %}
   {% endfor %}
 
   <h2 class="category" id="explainability">Explainability</h2>
