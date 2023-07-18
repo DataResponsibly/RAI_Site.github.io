@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title:  RAI Newsletter - Research Highlights Issue, February 2023
 date:   2023-02-22 20:40:16
 description: february, newsletter

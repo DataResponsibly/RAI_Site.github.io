@@ -1,135 +1,110 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title:
 description: 
 nav: false
 years: [2023, 2022, 2021, 2020]
 nav_order: 1
 ---
+
 <!-- Note about our lab culture, etc. -->
-***
 <h1 class="category" id="current">Current Members</h1>
 ***
-### Julia Stoyanovich
-...Julia Bio...
-
-A change!
-
-***
-### Rodrigo Kreis de Paula
-
-**Incoming PhD Candidate** -- * __ (at) nyu.edu* -- [LinkedIn](https://www.linkedin.com/in/rodrigokreis/)
-
-{% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" title="rodrigo" class="img-fluid rounded z-depth-1" %}
-
-Rodrigo Kreis de Paula is a Graduate Research Assistant and an incoming Ph.D. student at NYU advised by Julia Stoyanovich and working closely with Armanda Lewis and Chloe Zheng. Rodrigo’s primary research focuses on developing comprehensive and accessible educational materials on Responsible AI. His work strives to address crucial questions on the most effective methods of teaching Responsible AI to diverse audiences, ranging from AI/ML experts to corporate executives and the general public. 
-
-Rodrigo attained his Master of Science in Data Science from NYU in May 2023. He currently works for the Financial Department of the City of São Paulo, where he spearheads the AI and ML projects and assumes responsibility for evaluating algorithmic biases and mitigating potential risks. In addition to his master's degree, Rodrigo holds a bachelor’s degree from Fundacao Getulio Vargas (2007) and a post-graduation degree in Artificial Intelligence and Machine Learning from
-PUC-MG (2022).
-
-Rodrigo likes to play guitar, snowboard, and scuba dive.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/rodrigo_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/rodrigo_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-### Andrew Bell
-
-**PhD Candidate** -- *____ (at) nyu.edu* --
-
-{% include figure.html people-profile=true path="assets/img/people/andrew.png" title="andrew" class="img-fluid rounded z-depth-1" %}
-
-Andrew Bell is a Computer Science Ph.D. Candidate being co-advised by Prof. Julia Stoyanovich and Dr. Oded Nov. Andrew is a recipient of the National Science Foundation Graduate Research Fellowship (NSF GRFP). His research interests lie at the intersection of machine learning and public policy and are more narrowly focused on the fairness and explainability of algorithmic decision systems. In Spring 2023, Andrew was a visiting research fellow at the Center for AI (CENTAI) in Turin, Italy.
-
-In the past, he was a researcher at Data Science for Social Good (DSSG), where he worked on major policy projects like working with a European country’s National Institute of Public Health to develop predictive models that can identify children at risk of not being vaccinated for Measles, Mumps and Rubella. Andrew has also worked at Solve for Good, and the policy research institute MDRC. He graduated from the Calhoun Honors College at Clemson University with a Bachelor's degree in Mathematics in 2015. Andrew's interests outside of work include traveling and art.
-
-**Selected publications**
-<div class="publications-div">
-  {% bibliography -f papers -q @*[author ^= *Andrew]%}
-</div>
-
-***
-### Lucius Bynum
-
-**PhD Candidate** -- *____ (at) nyu.edu* -- [Personal Website](https://www.luciusbynum.com/)
-
-{% include figure.html people-profile=true path="assets/img/people/lucius.png" title="lucius" class="img-fluid rounded z-depth-1" %}
-
-Lucius is a PhD Candidate at the [NYU Center for Data Science](https://cds.nyu.edu/) advised by [Julia Stoyanovich](https://stoyanovich.org/) as part of the Center for Responsible AI and working closely with [Joshua Loftus](https://joshualoftus.com/) at the London School of Economics. His research focuses on the intersection between responsible data science, causal inference, and inequality—looking at statistical aspects of inequality problems, the modeling of social categories like race and gender, and techniques that can aid in the responsible and transparent use and analysis of data. His research is generously supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/).
-
-Prior to NYU, he worked as a researcher at Pacific Northwest National Laboratory in their Applied Statistics and Computational Modeling group. Lucius holds a B.Sc. in Data Science from Harvey Mudd College
-
-**Selected publications**
-<div class="publications-div">
-  {% bibliography -f papers -q @*[author ^= *Lucius]%}
+    <a href="/people/falaah">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Falaah Arif Khan</b><br>
+              PhD Candidate
+          </div>
+      </div>
+    </a>
+    <a href="/people/andrew">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/andrew.png" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Andrew Bell</b><br>
+              PhD Candidate
+          </div>
+      </div>
+    </a>
+    <a href="/people/aradhita">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Aradhita Bhandari</b><br>
+              Research Assistant
+          </div>
+      </div>
+    </a>
 </div>
 
 ***
-### Lucas Rosenblatt
 
-**PhD Candidate** -- *lr2872 (at) nyu.edu* -- [Personal Website](https://www.lucasrosenblatt.com/)
-
-{% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" title="lucas" class="img-fluid rounded z-depth-1" %}
-
-Lucas is a third year PhD candidate at NYU advised by [Julia Stoyanovich](/) and working closely with [Christoper Musco](https://www.chrismusco.com/) and [Bill Howe (of UW)](https://faculty.washington.edu/billhowe/). He is supported by a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). His work aims to answer open questions on data privacy, algorithmic fairness and AI safety, with an eye towards improving society and doing social good. 
-
-He was formerly a member of the [Microsoft AI rotational program](https://www.microsoftnewengland.com/maidap/), working out of the New England Research and Development lab (and remotely during COVID!). He graduated from Brown University in 2019. 
-<!-- He owns a [school bus](). -->
-
-**Selected publications**
-<div class="publications-div">
-  {% bibliography -f papers -q @*[author ^= *Lucas]%}
+<div class="row mt-3">
+    <a href="/people/lucius">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/lucius.png" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Lucius Bynum</b><br>
+              PhD Candidate
+          </div>
+      </div>
+    </a>
+    <a href="/people/rodrigo">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Rodrigo Kreis de Paula</b><br>
+              Incoming PhD Candidate
+          </div>
+      </div>
+    </a>
+    <a href="/people/raphael">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Raphael Meyer</b><br>
+              PhD Candidate
+          </div>
+      </div>
+    </a>
 </div>
 
 ***
-### Ian René Solano-Kamaiko 
 
-**Visiting Research Scholar** -- *__ (at) nyu.edu* -- [Personal Website](https://iansolano.com/)
-
-{% include figure.html people-profile=true path="assets/img/people/ian.jpeg" title="ian" class="img-fluid rounded z-depth-1" %}
- 
-Ian is a Visiting Research Scholar at NYU advised by Dr. Julia Stoyanovich. He graduated from NYU with an M.S. in Computer Science in 2022 and is currently a PhD student at Cornell Tech. His research is focused on building and evaluating computing technologies that aim to improve the lives of marginalized and underserved populations. In particular, he is interested in community and in-home healthcare, mental health, climate resilience, and responsible artificial intelligence. Outside of academic activities, he is an avid Muay Thai practitioner, enjoys reading, and loves to cook — plus he has been known to eat.
-
-**Selected publications**
-<div class="publications-div">
-  {% bibliography -f papers -q @*[author ^= *Solano]%}
+<div class="row mt-3">
+    <a href="/people/lucas">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Lucas Rosenblatt</b><br>
+              PhD Candidate
+          </div>
+      </div>
+    </a>
+    <a href="/people/ian">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Ian Solano-Kamaiko</b><br>
+              Visiting Research Scholar
+          </div>
+      </div>
+    </a>
+    <a href="/people/julia">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/julia.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Julia Stoyanovich</b><br>
+              RAI Director & Principal Investigator
+          </div>
+      </div>
+    </a>
 </div>
-
-***
-### Aradhita Bhandari
-
-**Research Assistant** -- *__ (at) nyu.edu* -- 
-
-{% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" title="aradhita" class="img-fluid rounded z-depth-1" %}
- 
-Aradhita is a Master's student at NYU CDS advised by Julia Stoyanovich. Her work aims to answer open questions on the impact of using synthetic data that violates integrity constraints. 
-Aradhita graduated from Vellore Institute of Technology, India in 2022. She enjoys knitting and is an avid reader.
-
-rg
-
-e
-
-re
 
 ***
 <h1 class="category" id="past">Past Members</h1>
-### Template
-
-{% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" title="lucas" class="img-fluid rounded z-depth-1" %}
-
-**(title)** -- *email (at) nyu.edu* -- [Link to personal site if available](/)
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-***
-<h1 class="category" id="affiliates">Affiliates</h1>

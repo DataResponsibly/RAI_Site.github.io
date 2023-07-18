@@ -14,7 +14,7 @@ AI presents challenges and opportunities that require an interdisciplinary appro
 <h1 class="category" id="ucu">Ukrainian Catholic University</h1>
 The ongoing war in Ukraine has displaced hundreds of thousands of people, including many university students. The Ukrainian Catholic University (UCU) in Lviv, has been active in their attempts to keep the students engaged and to allow them to successfully complete the academic year. To support these efforts, NYU’s Center for Responsible AI (R/AI) collaborated with UCU to recruit 18 research fellows–Ukrainian graduate and advanced undergraduate students– and host a 6-week long Summer Research Program.
 <div class="row mt-3">
-    <a href="">
+    <a href="/ucu">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/temp.png" class="img-fluid rounded z-depth-1" %}
         </div>
