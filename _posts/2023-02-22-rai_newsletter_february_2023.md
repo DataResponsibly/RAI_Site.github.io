@@ -5,7 +5,10 @@ date:   2023-02-22 20:40:16
 description: february, newsletter
 tags: february newsletter lab publications events
 categories: newsletter
+newsletter: true
+preview: /assets/img/newsletters/february/PostingLabel.webp
 ---
+<!-- http://127.0.0.1:4000/ -->
 
 ## New York City’s Local Law 144 is not only about bias in hiring!
 Job seekers and employees have the right to know what qualifications and characteristics the tools are screening for and picking up! We need nutritional labels for job postings and decisions!  Read Julia Stoyanovich’s testimony before the New York City Department of Consumer and Worker Protection on January 23.  Julia spoke at the virtual hearing from her Responsible Data Science classroom.

@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**Incoming PhD Candidate** -- * __ (at) nyu.edu* -- [LinkedIn](https://www.linkedin.com/in/rodrigokreis/)
+**Incoming PhD Student** -- * __ (at) nyu.edu* -- [LinkedIn](https://www.linkedin.com/in/rodrigokreis/)
 
 {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" title="rodrigo" class="img-fluid rounded z-depth-1" %}
 

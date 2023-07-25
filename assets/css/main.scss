@@ -20,9 +20,10 @@ $max-content-width: {{ site.max_width }};
 //   height: 300px; /* Set the height as per your requirement */
 //   width: 100%;
 // }
+// adjust
 #banner {
-  background: url(People_Puppets.png) no-repeat center center;
-  // background-size: cover;
+  background: url(Landing_Banner_V1.png) no-repeat center center;
+  // resize background scale
   background-size: auto 600px;
   height: 600px; 
   width: 100vw;  /* Use vw (viewport width) units */
@@ -47,6 +48,7 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 20px;  /* Added */
   margin-top: -10px;  /* Added */
 }
+
 
 
 .publications-div {

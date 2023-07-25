@@ -54,6 +54,15 @@ nav_order: 1
           </div>
       </div>
     </a>
+    <a href="/people/denys">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/denys.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Denys Herasymuk</b><br>
+              Visiting Research Fellow
+          </div>
+      </div>
+    </a>
     <a href="/people/rodrigo">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" %}
@@ -63,6 +72,11 @@ nav_order: 1
           </div>
       </div>
     </a>
+</div>
+
+***
+
+<div class="row mt-3">
     <a href="/people/raphael">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -72,11 +86,15 @@ nav_order: 1
           </div>
       </div>
     </a>
-</div>
-
-***
-
-<div class="row mt-3">
+    <a href="/people/venetia">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Venetia Pliatsika</b><br>
+              PhD Student
+          </div>
+      </div>
+    </a>
     <a href="/people/lucas">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -86,6 +104,11 @@ nav_order: 1
           </div>
       </div>
     </a>
+</div>
+
+***
+
+<div class="row mt-3">
     <a href="/people/ian">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" %}

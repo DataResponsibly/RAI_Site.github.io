@@ -138,7 +138,7 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: rgb(87, 6, 140);
+  background-color: $theme-pink-color; /*** purple-color, rgb(87, 6, 140 ***/
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
@@ -366,10 +366,15 @@ footer.sticky-bottom {
   }
 }
 
+.post-title {
+  font-size: 1.5rem;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
+  font-size: 1.5rem;
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
@@ -377,12 +382,12 @@ footer.sticky-bottom {
     padding-bottom: 2rem;
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      // font-size: 0.875rem;
       margin-bottom: 0;
     }
     .post-tags {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      // font-size: 0.875rem;
       padding-top: 0.25rem;
       padding-bottom: 0;
     }
@@ -642,6 +647,16 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post{
+  .post-title {
+    font-size: 1.25rem;
+  }
+  .preview {
+    // insert css here
+    float: left;
+    max-width: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
   .post-meta{
     color: var(--global-text-color-light);
     font-size: 0.875rem;
@@ -722,3 +737,35 @@ progress {
      display: block;
      height: inherit;
  }
+
+.featured-posts {
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    .card-text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    &:hover {
+      color: var(--global-theme-color);
+
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card-item {
+    margin-bottom: 10px;
+  }
+
+  .post-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+  }
+}
