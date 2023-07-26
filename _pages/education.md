@@ -48,9 +48,31 @@ Education stands as the cornerstone of our work at the Center for Responsible AI
 <h1 class="category" id="practitioners">Practitioners</h1>
 We collaborate with Meta on a series of workshops based on our popular 'We Are AI' course for Meta employees. These workshops aim to demystify AI and foster responsible AI use. Together, we're bringing education on AI ethics and practices to a targeted audience, promoting a more informed and inclusive technical workforce.
 
+<div class="row mt-3">
+    <a href="">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/temp.png" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </a>
+</div>
+<div class="caption">
+    Optional caption
+</div>
+
 ***
 
 <h1 class="category" id="university">University</h1>
 Each Spring, Julia runs a Responsible Data Science course at NYU's Center for Data Science. This course delves into the technical, ethical, legal, and societal implications of data science and machine learning, promoting responsible practices in data collection, analysis, and interpretation. Under Julia's expert guidance, students gain the necessary skills to navigate the data science field responsibly and effectively.
+
+<div class="row mt-3">
+    <a href="">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/temp.png" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </a>
+</div>
+<div class="caption">
+    Optional caption
+</div>
 
 ***

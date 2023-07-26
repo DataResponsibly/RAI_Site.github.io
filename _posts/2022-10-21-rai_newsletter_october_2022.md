@@ -5,6 +5,7 @@ date:   2023-02-15 18:49:16
 description: October, newsletter
 tags: october newsletter lab publications events
 categories: newsletter
+newsletter: true
 ---
 
 ## Personality prediction AI used for pre-hiring screening is shockingly bad!

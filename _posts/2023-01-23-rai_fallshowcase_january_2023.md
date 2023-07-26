@@ -5,6 +5,7 @@ date:   2023-01-23 23:09:16
 description: R/AI Rockstar Series
 tags: 
 categories: 
+event: true
 ---
 As part of a continuing effort led by the Director of R/AI, Dr. Julia Stoyanovich, 13 research fellows from the Ukrainian Catholic University and other universities from Ukraine collaborated with faculty and graduate students from New York University, the University of Washington, and the University of Edinburgh in 6 research projects on Responsible AI through the Fall 2022 semester.
 The semester concluded with a virtual showcase of the research projects.

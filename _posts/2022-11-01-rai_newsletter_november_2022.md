@@ -5,6 +5,7 @@ date:   2022-11-01 23:09:16
 description: R/AI Rockstar Series
 tags: 
 categories: 
+newsletter: true
 ---
 The RAI Rockstar series aims to improve the representation of women and members of historically under-represented groups in AI careers.  We do this by bringing role models who work on RAI topics and contribute to the diversity of voices in this area of research, education, and practice. Our first RAI Rockstar, [**Dr. Sihem Amer-Yahia**](https://lig-membres.imag.fr/amery/), will visit NYU R/AI in November 2022. She will give talks and participate in a fireside chat with NYU students.  
 
