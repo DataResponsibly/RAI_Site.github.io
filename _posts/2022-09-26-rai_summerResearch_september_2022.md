@@ -2,6 +2,7 @@
 layout: post
 title:  NYU R/AI Summer Research Program 2022
 date:   2022-10-19 18:49:16
+preview: /assets/Holovenko.webp
 ---
 The ongoing war in Ukraine has displaced hundreds of thousands of people, including many university students. The Ukrainian Catholic University (UCU) in Lviv, has been active in their attempts to keep the students engaged and to allow them to successfully complete the academic year. To support these efforts, NYU’s Center for Responsible AI (R/AI) collaborated with UCU to recruit 18 research fellows–Ukrainian graduate and advanced undergraduate students– and host a 6-week long Summer Research Program.
 

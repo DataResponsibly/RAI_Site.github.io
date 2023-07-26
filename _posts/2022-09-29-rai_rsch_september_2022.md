@@ -3,6 +3,7 @@ layout: post
 title:  Research Seminar - On the Tradeoff Between Explainability and Privacy in Databases
 date:   2022-10-19 18:49:16
 event: true
+preview: /assets/amir-gilad.webp
 ---
 Explanations for query results have been the subject of extensive research. The advantages of such explanations are evident, as they allow users to validate and justify the results of the query and deepen their knowledge about the data. However, when the query is proprietary and needs to remain confidential or when the data is cloaked by privacy restrictions, such explanations may be detrimental to the privacy desiderata. This tradeoff raises the question “can we provide useful explanations while maintaining the privacy requirements of the query and data?”
 
