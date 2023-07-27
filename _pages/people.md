@@ -44,7 +44,7 @@ nav_order: 1
 </div>
   
 <div class="row mt-3">
-    <a href="/people/aradhita">
+    <a href="/people/falaah">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">

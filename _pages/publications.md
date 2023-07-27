@@ -16,31 +16,7 @@ In addition, you can explore our ongoing projects, complete with detailed descri
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  <h2 class="category" id="fairness">Fairness</h2>
-  Insert a blurb about fairness here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness && keywords ^= *fair]* %}
-  {% endfor %}
-  
-  <h2 class="category" id="privacy">Privacy</h2>
-  Insert a blurb about privacy here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy && keywords ^= *priv] %}
-  {% endfor %}
-
-  <h2 class="category" id="explainability">Explainability</h2>
-  Insert a blurb about explainability here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *explainability]* %}
-  {% endfor %}
-
-  <h2 class="category" id="data-centric">Data-centric</h2>
+  <h2 class="category" id="data-centric">Data-centric AI and responsible data management</h2>
   Insert a blurb about data-centric here.
   <!-- Add your category specific text ahere -->
   {% for y in page.years %}
@@ -53,6 +29,47 @@ In addition, you can explore our ongoing projects, complete with detailed descri
   <!-- Add your category specific text here -->
   {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *education]* %}
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
   {% endfor %}
+
+  <h2 class="category" id="explainability">Explainability</h2>
+  Insert a blurb about explainability here.
+  <!-- Add your category specific text here -->
+  {% for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *explainability]* %}
+  {% endfor %}
+
+  <h2 class="category" id="fairness">Fairness</h2>
+  Insert a blurb about fairness here.
+  <!-- Add your category specific text here -->
+  {% for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness && keywords ^= *fair]* %}
+  {% endfor %}
+
+  <h2 class="category" id="privacy">Policy</h2>
+  Insert a blurb about privacy here.
+  <!-- Add your category specific text here -->
+  {% for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *policy]* %}
+  {% endfor %}
+  
+  <h2 class="category" id="privacy">Privacy</h2>
+  Insert a blurb about privacy here.
+  <!-- Add your category specific text here -->
+  {% for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy && keywords ^= *priv] %}
+  {% endfor %}
+
+  <h2 class="category" id="privacy">Ranking</h2>
+  Insert a blurb about privacy here.
+  <!-- Add your category specific text here -->
+  {% for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *ranking && keywords ^= *rank] %}
+  {% endfor %}
+
 </div>
