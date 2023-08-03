@@ -6,6 +6,7 @@ description: Publications by categories in reversed chronological order. generat
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
 years_priv: [2023, 2022, 2020, 2018, 2017]  # replace with your own years
 years_rank: [2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
+years_edu: [2023, 2022, 2021, 2020]  # replace with your own years
 nav: false
 nav_order: 2
 ---
@@ -58,7 +59,7 @@ we build.
   <h2 class="category" id="education">Education</h2>
 Insert a blurb about education here.
   <!-- Add your category specific text here -->
-  {% for y in page.years %}
+  {% for y in page.years_edu %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
   {% endfor %}
