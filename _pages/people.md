@@ -170,3 +170,48 @@ nav_order: 1
 <h1 class="category" id="alumni">Alumni</h1>
 
 <!-- plase add everyone under Alumni at https://airesponsibly.net/, plus Chloe Zheng, Mona Sloane, Joy Rankin, Janina Zakrezewski, Meghana Shanbhogue -->
+
+##### STEVEN KUYAN, Director & Co-Founder,
+Co-Founder at Culina Health
+
+##### ALENE RHEA, Graduate Research Fellow,
+Data Scientist at Democratic National Committee
+
+##### KELSEY MARKEY, Graduate Research Fellow,
+Data Scientist at Medidata
+
+##### LAUREN D’ARINZO, Graduate Research Fellow,
+Senior Data Scientist at The Mitre Corporation
+
+##### RAONI LOURENCO, Postdoctoral Research Fellow,
+Senior Backend Developer at Accern
+
+##### ELENI MANIS, Affiliate,
+Research Director at S.T.O.P (Surveillance Technology Oversight Project)
+
+##### MARIA GRILLO, Project Associate,
+Project Associate at NYU Tandon IIIE
+
+##### ERIC CORBETT, CUSP Post Doctoral Research Fellow,
+Research Scientist, Google Research Responsible AI
+
+##### JIN ISHIZUKA, Graduate Research Fellow,
+Master's of Data Science at NYU
+
+##### ELENA WUELLHORST, Visiting Researcher – Summer 2022, 
+BS in Mathematics & Philosophy at King’s College, London
+
+##### CHLOE ZHENG, Graduate Research Fellow,
+Master's of Data Science at NYU
+
+##### MONA SLOANE, Senior Research Scientist,
+Research Assistant Professor at NYU, Fellow NYU Institute for Public Knowledge
+
+##### JOY RANKIN, Senior Research Scientist,
+Research Associate Professor at New York University
+
+##### JANINA ZAKREZEWSKI, Visiting Researcher,
+Doctoral Candidate at Weizenbaum Institute for the Networked Society
+
+##### MEGHANA SHANBHOGUE, Project Associate,
+Master's of Integrated Design & Media at NYU

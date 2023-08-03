@@ -13,63 +13,90 @@ Our ongoing investigations are organized around five major themes: Explainabilit
 
 In addition, you can explore our ongoing projects, complete with detailed descriptions and direct links to the project repositories. We hope that this collection of resources will serve as a valuable tool for researchers, students, and the broader community to engage with our work.
 
+<div class="categories">
+  <button onclick="showCategory('data-centric')">Data-centric AI</button>
+  <button onclick="showCategory('education')">Education</button>
+  <button onclick="showCategory('explainability')">Explainability</button>
+  <button onclick="showCategory('fairness')">Fairness</button>
+  <button onclick="showCategory('policy')">Policy</button>
+  <button onclick="showCategory('privacy')">Privacy</button>
+  <button onclick="showCategory('ranking')">Ranking</button>
+</div>
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  <h2 class="category" id="data-centric">Data-centric AI and responsible data management</h2>
-  Insert a blurb about data-centric here.
-  <!-- Add your category specific text ahere -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *data]* %}
-  {% endfor %}
+  <div id="data-centric" class="category">
+    <h2>Data-centric AI and responsible data management</h2>
+    Insert a blurb about data-centric here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *data]* %}
+    {% endfor %}
+  </div>
 
-  <h2 class="category" id="education">Education</h2>
-  Insert a blurb about education here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
-  {% endfor %}
+  <div id="education" class="category hidden">
+    <h2>Education</h2>
+    Insert a blurb about education here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
+    {% endfor %}
+  </div>
 
-  <h2 class="category" id="explainability">Explainability</h2>
-  Insert a blurb about explainability here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *explainability]* %}
-  {% endfor %}
+  <div id="explainability" class="category hidden">
+    <h2>Explainability</h2>
+    Insert a blurb about explainability here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *explainability]* %}
+    {% endfor %}
+  </div>
 
-  <h2 class="category" id="fairness">Fairness</h2>
-  Insert a blurb about fairness here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness && keywords ^= *fair]* %}
-  {% endfor %}
+  <div id="fairness" class="category hidden">
+    <h2>Fairness</h2>
+    Insert a blurb about fairness here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness && keywords ^= *fair]* %}
+    {% endfor %}
+  </div>
 
-  <h2 class="category" id="privacy">Policy</h2>
-  Insert a blurb about privacy here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *policy]* %}
-  {% endfor %}
-  
-  <h2 class="category" id="privacy">Privacy</h2>
-  Insert a blurb about privacy here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy && keywords ^= *priv] %}
-  {% endfor %}
+  <div id="policy" class="category hidden">
+    <h2>Policy</h2>
+    Insert a blurb about policy here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *policy]* %}
+    {% endfor %}
+  </div>
 
-  <h2 class="category" id="privacy">Ranking</h2>
-  Insert a blurb about privacy here.
-  <!-- Add your category specific text here -->
-  {% for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *ranking && keywords ^= *rank] %}
-  {% endfor %}
+  <div id="privacy" class="category hidden">
+    <h2>Privacy</h2>
+    Insert a blurb about privacy here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy && keywords ^= *priv]* %}
+    {% endfor %}
+  </div>
+
+  <div id="ranking" class="category hidden">
+    <h2>Ranking</h2>
+    Insert a blurb about ranking here.
+    {% for y in page.years %}
+      <h2 class="year">{{y}}</h2>
+      {% bibliography -f papers -q @*[year={{y}} && keywords ^= *ranking && keywords ^= *rank]* %}
+    {% endfor %}
+  </div>
 
 </div>
+
+<script>
+  function showCategory(id) {
+    var categories = document.querySelectorAll('.category');
+    categories.forEach(function(category) {
+      category.classList.add('hidden');
+    });
+    document.getElementById(id).classList.remove('hidden');
+  }
+</script>

@@ -14,6 +14,25 @@ $max-content-width: {{ site.max_width }};
   "distill"
 ;
 
+.categories button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+
+.category {
+  max-height: 400px; /* Adjust as needed */
+  overflow-y: scroll;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.hidden {
+  display: none;
+}
+
 // #banner {
 //   background: url(M1-banner.png) no-repeat center center;
 //   background-size: cover;

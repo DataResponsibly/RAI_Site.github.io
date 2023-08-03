@@ -4,7 +4,7 @@ title: About
 permalink: /
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -18,4 +18,16 @@ We conduct innovative research to that end, in the hopes of navigating the compl
 
 **We aim to create a future where AI serves humanity, building technologies that respect and enhance our shared values.**
 -->
-
+## Supporters
+<!-- add logos here -->
+<img src="/assets/logos/nsf.png" alt="National Science Foundation Logo" width="150" style="padding-right: 20px;"/>
+<img src="/assets/logos/the-govlab-logo.png" alt="The GovLab Logo" width="150" style="padding-right: 20px;"/>
+<img src="/assets/logos/ability_project.png" alt="NYU Ability Project Logo" width="200" style="padding-right: 20px;"/>
+<img src="/assets/logos/adm_logo.png" alt="ADM+S Center Logo" width="200" style="padding-right: 20px;"/>
+<img src="/assets/logos/meta_logo.png" alt="Meta RAI Logo" width="150" style="padding-right: 20px;"/>
+<img src="/assets/logos/pivotal.svg" alt="Pivotal Ventures Logo" width="150" style="padding-right: 20px;"/>
+<img src="/assets/logos/casmi.png" alt="Center for Advancing Safety of Machine Learning Intelligence Logo" width="250" style="padding-right: 20px;"/>
+<img src="/assets/logos/jpmorgan.png" alt="JP Morgan Chase & Co. Logo" width="250" style="padding-right: 20px;"/>
+<img src="/assets/logos/northeast.jpeg" alt="Northeast Big Data Innovation Hub Logo" width="150" style="padding-right: 20px;"/>
+<img src="/assets/logos/qpl.jpeg" alt="The Queens Public Library Logo" width="150" style="padding-right: 20px;"/>
+<img src="/assets/logos/p2pu.png" alt="Peer 2 Peer University Logo" width="100" style="padding-right: 20px;"/>
