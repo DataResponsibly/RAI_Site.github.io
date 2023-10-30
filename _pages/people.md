@@ -124,7 +124,7 @@ nav_order: 1
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">
-              <b>Joao da Fonesca</b><br>
+              <b>Joao Fonseca</b><br>
               Visiting Scholar
           </div>
       </div>
