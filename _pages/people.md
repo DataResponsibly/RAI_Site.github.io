@@ -85,6 +85,16 @@ nav_order: 1
       </div>
     </a>
 
+ <a href="/people/raphael">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Raphael Meyer</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
+
     <a href="/people/venetia">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -94,6 +104,10 @@ nav_order: 1
           </div>
       </div>
     </a>
+</div>
+
+<div class="row mt-3">
+
     <a href="/people/lucas">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -104,9 +118,20 @@ nav_order: 1
       </div>
     </a>
 
+    <a href="/people/meghana">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/meghana.jpg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Meghana Shanbhogue</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
+
+
 </div>
 
-<h1 class="category" id="affiliates">Visitors & Affiliates</h1>
+<h1 class="category" id="affiliates">Visitors</h1>
 
 <div class="row mt-3">
 
@@ -143,16 +168,6 @@ nav_order: 1
 </div>
 
 <div class="row mt-3">
-
-    <a href="/people/raphael">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
-          <div class="caption">
-              <b>Raphael Meyer</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
-    </a>
 
    <a href="/people/ian">
       <div class="col-sm mt-3 mt-md-0">
