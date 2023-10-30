@@ -8,9 +8,6 @@ children:
     - title: Data-centric AI
       permalink: /research/#data-centric
     - title: divider
-    - title: Education
-      permalink: /research/#education
-    - title: divider
     - title: Explainability
       permalink: /research/#explainability
     - title: divider
@@ -25,6 +22,9 @@ children:
     - title: divider
     - title: Ranking
       permalink: /research/#ranking
+    - title: divider
+    - title: RAI education
+      permalink: /research/#education
    
   
 ---
