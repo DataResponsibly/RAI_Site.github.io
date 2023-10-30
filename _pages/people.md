@@ -10,7 +10,7 @@ nav_order: 1
 
 <!-- Note about our lab culture, etc. -->
 
-<h1 class="category" id="team">Team</h1>
+<h1 class="category" id="team">Team</h1> 
 ***
 
 <div class="row mt-3">
@@ -32,7 +32,7 @@ nav_order: 1
           </div>
      </div>
   </a>
-  <a href="/people/armanda">
+  <a href="https://www.linkedin.com/in/armanda-lewis-708a96b8/">
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">
@@ -49,7 +49,7 @@ nav_order: 1
           {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">
               <b>Falaah Arif Khan</b><br>
-              Graduate Research Fellow<br>Artist-in-residence
+              Graduate Research Fellow
           </div>
       </div>
     </a>
@@ -84,28 +84,7 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/joao">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" %}
-          <div class="caption">
-              <b>Joao da Fonesca</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
-    </a>
-    <a href="/people/rodrigo">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" %}
-          <div class="caption">
-              <b>Rodrigo Kreis de Paula</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
-    </a>
-</div>
 
-
-<div class="row mt-3">
     <a href="/people/venetia">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -124,49 +103,69 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/ian">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" %}
-          <div class="caption">
-              <b>Ian Solano-Kamaiko</b><br>
-              Graduate Research	Fellow
-          </div>
-      </div>
-    </a>
 
 </div>
 
-<h1 class="category" id="affiliates">Affiliates</h1>
+<h1 class="category" id="affiliates">Visitors & Affiliates</h1>
 
 <div class="row mt-3">
+
 <a href="/people/daniel">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/daniel.png" class="img-fluid rounded z-depth-1" %}
           <div class="caption">
               <b>Daniel Dominguez</b><br>
-              Visiting Researcher
+              Visiting Scholar
           </div>
       </div>
     </a>
-<a href="/people/denys">
+
+   <a href="https://novaresearch.unl.pt/en/persons/jo%C3%A3o-fonseca-2">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/denys.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">
-              <b>Denys Herasymuk</b><br>
-              Visiting Research Fellow, UCU
+              <b>Joao da Fonesca</b><br>
+              Visiting Scholar
           </div>
       </div>
     </a>
-    <a href="/people/raphael">
+
+
+    <a href="/people/rodrigo">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">
-              <b>Raphael Meyer</b><br>
+              <b>Rodrigo Kreis de Paula</b><br>
+             Visiting Scholar
           </div>
       </div>
     </a>
 </div>
 
-<h1 class="category" id="alumni">Alumni</h1>
+<div class="row mt-3">
+
+    <a href="/people/raphael">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Raphael Meyer</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
+
+   <a href="/people/ian">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Ian Solano-Kamaiko</b><br>
+             Visiting Scholar
+          </div>
+      </div>
+    </a>
+
+</div>
+
+<!-- <h1 class="category" id="alumni">Alumni</h1> -->
 
 <!-- plase add everyone under Alumni at https://airesponsibly.net/, plus Chloe Zheng, Mona Sloane, Joy Rankin, Janina Zakrezewski, Meghana Shanbhogue -->

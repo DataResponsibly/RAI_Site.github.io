@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**PhD Candidate** -- *____ (at) nyu.edu* --
+**PhD Candidate** -- *alb9742(at) nyu.edu* --
 
 {% include figure.html people-profile=true path="assets/img/people/andrew.png" title="andrew" class="img-fluid rounded z-depth-1" %}
 

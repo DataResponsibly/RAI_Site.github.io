@@ -8,9 +8,6 @@ children:
     - title: Team
       permalink: /people/#team
     - title: divider
-    - title: Affiliates
+    - title: Visitors & Affiliates
       permalink: /people/#affiliates
-    - title: divider
-    - title: Alumni
-      permalink: /people/#alums
 ---

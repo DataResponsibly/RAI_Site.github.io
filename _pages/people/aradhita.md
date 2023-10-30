@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**Research Assistant** -- *__ (at) nyu.edu* -- 
+**Research Assistant** -- *ab10888 (at) nyu.edu* -- 
 
 {% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" title="aradhita" class="img-fluid rounded z-depth-1" %}
  

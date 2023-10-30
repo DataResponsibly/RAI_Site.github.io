@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**PhD Candidate** -- *____ (at) nyu.edu* -- [Personal Website](https://www.luciusbynum.com/)
+**PhD Candidate** -- *lucius(at) nyu.edu* -- [Personal Website](https://www.luciusbynum.com/)
 
 {% include figure.html people-profile=true path="assets/img/people/lucius.png" title="lucius" class="img-fluid rounded z-depth-1" %}
 

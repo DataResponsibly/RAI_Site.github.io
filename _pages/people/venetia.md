@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**PhD Student** -- * __ (at) nyu.edu* 
+**PhD Student** -- * venetia (at) nyu.edu* 
 
 {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" title="venetia" class="img-fluid rounded z-depth-1" %}
 
