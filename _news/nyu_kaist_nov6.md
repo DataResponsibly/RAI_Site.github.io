@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NYU-KAIST Inclusive AI Workshop
-date: 2023-11-06 09:00:00-0400
+date: 2023-10-29 09:00:00-0400
 inline: false
 ---
 

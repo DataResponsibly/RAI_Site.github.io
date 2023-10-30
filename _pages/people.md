@@ -32,7 +32,7 @@ nav_order: 1
           </div>
      </div>
   </a>
-  <a href="https://www.linkedin.com/in/armanda-lewis-708a96b8/">
+  <a href="/people/armanda">
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" %}
           <div class="caption">

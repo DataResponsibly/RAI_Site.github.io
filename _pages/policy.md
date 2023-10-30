@@ -1,13 +1,15 @@
 ---
 layout: page
 permalink: /policy/
-title: Policy
-description: Policy initiatives at RAI
+title: 
+description:
 nav: false
 nav_order: 4
 ---
 
 <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M3-banner.png" | relative_url }}');"></div>
+
+<h1 class="category" id="policy">Policy</h1>
 
 We believe our commitment to responsible AI extends beyond academic research and into the policy landscape. 
 
