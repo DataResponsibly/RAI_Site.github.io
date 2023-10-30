@@ -58,24 +58,6 @@ we build.
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *data]* %}
   {% endfor %}
 
-  <h2 class="category" id="education">Education</h2>
-<!-- Add your category specific text here -->
-We cannot understand the impact – and especially the risks – of AI
-systems without active and thoughtful participation of everyone in
-society, either directly or through their trusted representatives.  To
-think otherwise is to go against our democratic values. To enable
-broad participation, we have been developing responsible AI curricula
-and methodologies for different stakeholders: university students,
-working practitioners, and the public at large. In this section, you
-will find our publication on responsible AI education.  Take a look at
-the <a href="/education">education</a> area of the site to access our
-courses and other open-source materials we have developed.
-
-  {% for y in page.years_edu %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
-  {% endfor %}
-
   <h2 class="category" id="explainability">Explainability</h2>
   <!-- Add your category specific text here -->
 
@@ -141,6 +123,24 @@ systems.
   {% for y in page.years_rank %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *ranking && keywords ^= *rank] %}
+  {% endfor %}
+
+  <h2 class="category" id="education">Responsible AI Education</h2>
+<!-- Add your category specific text here -->
+We cannot understand the impact – and especially the risks – of AI
+systems without active and thoughtful participation of everyone in
+society, either directly or through their trusted representatives.  To
+think otherwise is to go against our democratic values. To enable
+broad participation, we have been developing responsible AI curricula
+and methodologies for different stakeholders: university students,
+working practitioners, and the public at large. In this section, you
+will find our publication on responsible AI education.  Take a look at
+the <a href="/education">education</a> area of the site to access our
+courses and other open-source materials we have developed.
+
+  {% for y in page.years_edu %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
   {% endfor %}
 
 </div>
