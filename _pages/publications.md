@@ -48,26 +48,49 @@ appropriate?). Our work on data-centric responsible AI and on
 responsible data management is based on the observation that the
 decisions we make during data collection and preparation profoundly
 impact the robustness, fairness, and interpretability of the systems
-we build. 
+we build.
 
-  <!-- Add your category specific text ahere -->
   {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *data]* %}
   {% endfor %}
 
   <h2 class="category" id="education">Education</h2>
-Insert a blurb about education here.
-  <!-- Add your category specific text here -->
+<!-- Add your category specific text here -->
+We cannot understand the impact – and especially the risks – of AI
+systems without active and thoughtful participation of everyone in
+society, either directly or through their trusted representatives.  To
+think otherwise is to go against our democratic values. To enable
+broad participation, we have been developing responsible AI curricula
+and methodologies for different stakeholders: university students,
+working practitioners, and the public at large. In this section, you
+will find our publication on responsible AI education.  Take a look at
+the <a href="/education">education</a> area of the site to access our
+courses and other open-source materials we have developed.
+
   {% for y in page.years_edu %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *edu ]* %}
   {% endfor %}
 
   <h2 class="category" id="explainability">Explainability</h2>
-  Insert a blurb about explainability here.
   <!-- Add your category specific text here -->
-  {% for y in page.years %}
+
+There is a variety of terms associated with this topic: transparency,
+interpretability, explainability, intelligibility.  But let’s not get
+too tangled up in terminology.  The main point is that we need to
+allow people to understand the data, the operation, and the decisions
+or predictions of an AI system, and to also understand why these
+decisions or predictions are made.  This understanding is critical
+because it allows people to exercise agency and take control over
+their interactions with AI systems.  And so, no matter what
+terminology we use, the overarching idea behind transparency & friends
+is to expose the “knobs of responsibility” to people, as a means to
+support the responsible design, development, use, and oversight of AI
+systems.
+
+
+{% for y in page.years %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *explainability]* %}
   {% endfor %}

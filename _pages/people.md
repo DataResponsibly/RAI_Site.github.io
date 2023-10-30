@@ -131,7 +131,7 @@ nav_order: 1
 
 </div>
 
-<h1 class="category" id="affiliates">Visitors</h1>
+<h1 class="category" id="visitors">Visitors</h1>
 
 <div class="row mt-3">
 
