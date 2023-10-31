@@ -16,7 +16,7 @@ nav_order: 1
 <div class="row mt-3">
     <a href="/people/julia">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/julia.jpg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/julia.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Julia Stoyanovich</b><br>
               Director
@@ -25,7 +25,7 @@ nav_order: 1
    </a>
   <a href="https://amyhurst.com/">
      <div class="col-sm mt-3 mt-md-0">
-     {% include figure.html people-profile=true path="assets/img/people/amy.jpg" class="img-fluid rounded z-depth-1" %}
+     {% include figure.html people-profile=true path="assets/img/people/amy.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
      <div class="caption">
               <b>Amy Hurst</b><br>
               Affiliated Faculty
@@ -34,7 +34,7 @@ nav_order: 1
   </a>
   <a href="/people/armanda">
     <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Armanda Lewis</b><br>
               Senior Research Scientist
@@ -46,7 +46,7 @@ nav_order: 1
 <div class="row mt-3">
     <a href="/people/falaah">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Falaah Arif Khan</b><br>
               Graduate Research Fellow
@@ -55,7 +55,7 @@ nav_order: 1
     </a>
    <a href="/people/andrew">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/andrew.png" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/andrew.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Andrew Bell</b><br>
               Graduate Research Fellow 
@@ -64,7 +64,7 @@ nav_order: 1
     </a>
     <a href="/people/aradhita">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Aradhita Bhandari</b><br>
               Graduate Research Fellow 
@@ -77,7 +77,7 @@ nav_order: 1
 <div class="row mt-3">
     <a href="/people/lucius">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/lucius.png" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/lucius.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Lucius Bynum</b><br>
               Graduate Research Fellow
@@ -87,7 +87,7 @@ nav_order: 1
 
  <a href="/people/raphael">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Raphael Meyer</b><br>
               Graduate Research Fellow
@@ -97,7 +97,7 @@ nav_order: 1
 
     <a href="/people/venetia">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Venetia Pliatsika</b><br>
               Graduate Research	Fellow
@@ -110,7 +110,7 @@ nav_order: 1
 
     <a href="/people/lucas">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Lucas Rosenblatt</b><br>
 	      Graduate Research	Fellow
@@ -120,7 +120,7 @@ nav_order: 1
 
     <a href="/people/meghana">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/meghana.jpg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/meghana.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Meghana Shanbhogue</b><br>
               Graduate Research Fellow
@@ -137,7 +137,7 @@ nav_order: 1
 
 <a href="/people/daniel">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/daniel.png" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/daniel.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Daniel Dominguez</b><br>
               Visiting Scholar
@@ -147,7 +147,7 @@ nav_order: 1
 
    <a href="https://novaresearch.unl.pt/en/persons/jo%C3%A3o-fonseca-2">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Joao Fonseca</b><br>
               Visiting Scholar
@@ -158,7 +158,7 @@ nav_order: 1
 
     <a href="/people/rodrigo">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Rodrigo Kreis de Paula</b><br>
              Visiting Scholar
@@ -171,7 +171,7 @@ nav_order: 1
 
    <a href="/people/ian">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Ian Solano-Kamaiko</b><br>
              Visiting Scholar

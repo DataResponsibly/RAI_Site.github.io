@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Welcome to the Center for Responsible AI at New York University # the website title (if blank, full name will be used instead)
+title: <h5>Welcome to the <b>Center for Responsible AI</b> at New York University</h5> # the website title (if blank, full name will be used instead)
 first_name: Center 
 middle_name: for
 last_name: Responsible AI at New York University!
