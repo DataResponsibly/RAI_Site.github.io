@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title:  R/AI Newsletter - Research Highlights Issue, October 2022
 date:   2023-02-15 18:49:16
 description: October, newsletter
