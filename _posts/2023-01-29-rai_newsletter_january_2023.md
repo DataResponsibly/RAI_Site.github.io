@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title:  R/AI Rockstar Series – Moshe Y. Vardi
 date:   2023-01-29 23:09:16
 description: R/AI Rockstar Series
