@@ -3,10 +3,13 @@ layout: page
 permalink: /research/
 title: 
 description: 
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
-years_priv: [2023, 2022, 2020, 2018, 2017]  # replace with your own years
-years_rank: [2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
-years_edu: [2023, 2022, 2021, 2020]  # replace with your own years
+#years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
+years_priv: [2023, 2022, 2020, 2018, 2017]  
+years_rank: [2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015]  
+years_edu: [2023, 2022, 2021, 2020]  
+years_fair: [2023, 2022, 2021, 2020, 2019, 2017]  
+years_expl: [2023, 2022, 2020, 2019]  
+years_pol: [2023, 2022, 2020, 2019, 2018, 2017]  
 nav: false
 nav_order: 2
 ---
@@ -53,7 +56,7 @@ decisions we make during data collection and preparation profoundly
 impact the robustness, fairness, and interpretability of the systems
 we build.
 
-  {% for y in page.years %}
+  {% for y in page.years_expl %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *data]* %}
   {% endfor %}
@@ -75,29 +78,45 @@ support the responsible design, development, use, and oversight of AI
 systems.
 
 
-{% for y in page.years %}
+{% for y in page.years_expl %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *explainability]* %}
   {% endfor %}
 
   <h2 class="category" id="fairness">Fairness</h2>
-  Insert a blurb about fairness here.
+  Algorithmic fairness is a central topic in responsible AI.  Fairness is a complex concept, and we
+treat it through a socio-legal-technical lens, in ways that are domain- and context-specific. We always start
+with a statement of the normative criteria (what are we trying to accomplish and why?), and propose technical solutions only as appropriate, in ways that align with the 
+normative criteria. 
+Highlights of our work include fairness in ranking, connections between equality of opportunity from political philosophy
+and algoroithmic fairness, and investigating the trade-offs between fairness and other normative dimensions of responsible AI.   
+
   <!-- Add your category specific text here -->
-  {% for y in page.years %}
+  {% for y in page.years_fair %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *fairness && keywords ^= *fair]* %}
   {% endfor %}
 
   <h2 class="category" id="policy">Policy</h2>
-  Insert a blurb about privacy here.
+  We engage in <a href="../policy/">technology policy</a> work in the US and internationally.   
+  These practical engagements are based
+  on our research, highlighted below.
+
   <!-- Add your category specific text here -->
-  {% for y in page.years %}
+  {% for y in page.years_pol %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *policy]* %}
   {% endfor %}
   
   <h2 class="category" id="privacy">Privacy</h2>
-  Insert a blurb about privacy here.
+  Our work in privacy includes peer-reviewed papers, as well as tools and benchmarks.
+  Take a look at the <a href="https://github.com/DataResponsibly/DataSynthesizer">Data Synthesizer</a> tool
+  that we've been using to teach differentially private data synthesis.  
+  And check out our latest DP synethetic data benchmarking package,
+  <a href="https://github.com/DataResponsibly/SynRD">SynRD</a>, posing the question: 
+  "Can a DP synthesizer produce private (tabular) data that preserves scientific findings?" 
+  In other words, do DP synthesizers satisfy epistemic parity?
+
   <!-- Add your category specific text here -->
   {% for y in page.years_priv %}
     <h2 class="year">{{y}}</h2>
