@@ -5,12 +5,18 @@ nav: true
 nav_order: 4
 dropdown: true
 children: 
-    - title: Public
-      permalink: /education/#public
+    - title: Responsible data science
+      permalink: /education/#rds
     - title: divider
-    - title: Practitioners
-      permalink: /education/#practitioners
+    - title: Causal inference
+      permalink: /education/#playground
     - title: divider
-    - title: University
-      permalink: /education/#university
+    - title: Algorithmic transparency
+      permalink: /education/#playbook
+    - title: divider
+    - title: We are AI
+      permalink: /education/#weareai
+    - title: divider
+    - title: Comics
+      permalink: /education/#comics
 ---

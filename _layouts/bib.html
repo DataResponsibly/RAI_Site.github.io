@@ -137,12 +137,6 @@
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
           {%- endif %}
-          {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">read online</a>
-          {%- endif %}
-          {%- if entry.site %}
-            <a href="{{ entry.site }}" class="btn btn-sm z-depth-0" role="button">online resource</a>
-          {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
@@ -150,7 +144,13 @@
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
           {%- endif %}
-          {%- if entry.supp %}
+          {%- if entry.html %}
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">read online</a>
+          {%- endif %}
+          {%- if entry.site %}
+            <a href="{{ entry.site }}" class="btn btn-sm z-depth-0" role="button">online resource</a>
+          {%- endif %}
+            {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
             <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
             {%- else -%}
