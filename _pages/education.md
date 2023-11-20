@@ -10,11 +10,11 @@ horizontal: false
 
 <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M5-banner.png" | relative_url }}');"></div>
 
-<h1 class="category" id="education">Education</h1>
+<h2 class="category" id="education"><b>Education</b></h2>
 
 Education stands as the cornerstone of our work at the Center for Responsible AI. Understanding the profound implications of AI on society necessitates a comprehensive and inclusive approach to education. We conduct cutting-edge research, offer a wide range of courses, and develop educational material geared towards students, professionals, and the broader community. Our goal is to empower learners with the knowledge and critical thinking skills to actively shape the trajectory of AI technology.
 
-<h1 class="category" id="public">Students</h1>
+<h3 class="category" id="public">Students</h3>
 
 <div class="row mt-3">
     <a href="https://lbynum.github.io/interactive-causal-inference/">
@@ -23,7 +23,7 @@ Education stands as the cornerstone of our work at the Center for Responsible AI
         </div>
     </a>
 </div>
-
+<br>
 #### An Interactive Introduction to Causal Inference:
 
 [An interactive adventure through foundational causal inference concepts](https://lbynum.github.io/interactive-causal-inference/). By the end, you should have a good intuition for Causal Inference and be able to use the ‘Causal Inference Playground’ in the conclusion to reinforce causal inference concepts. It's also fun!
