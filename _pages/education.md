@@ -86,8 +86,6 @@ reinforce causal inference concepts. It's also fun!
     </a>
 </div>
 
-***
-
 <h1 class="category" id="practitioners">Practitioners</h1>
 
 <div class="row mt-3">
