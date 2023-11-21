@@ -50,7 +50,7 @@ materials are publicly available online.
 What is causal inference? And how can we use causal inference
 techniques to answer questions about the real world?  Take a tour
 through our [Causal inference
-playground](https://lbynum.github.io/interactive-causal-inference/)
+playground](https://r-ai.co/ci-playground)
 for a rigorous and fun introduction to this topic!
 
 <h5><b>Read more about this course</b></h5>
@@ -94,7 +94,7 @@ with [P2PU](https://www.p2pu.org/en/), a public education non-profit,
 and with the [Queens Public
 Library](https://www.queenslibrary.org/about-us/news-media/blog/2482)
 to develop [We are AI: Taking control of
-technology](https://dataresponsibly.github.io/we-are-ai/), a **public
+technology](https://r-ai.co/We-are-AI), a **public
 education course on AI**.
 
 This course is designed to be run as a learning circle: a facilitated
@@ -106,6 +106,12 @@ The goal of the course is to introduce the basics of AI, discuss some
 of the social and ethical dimensions of the use of AI in modern life,
 and empower individuals to engage with how AI is used and governed.
 
+We have also partnered with the [NYU Tandon Ability
+Project](http://ability.nyu.edu/) to improve the accessibility of AI
+education across abilities and levels of expertise.  The result of
+this work is our [All Aboard! primer](http://r-ai.co/AllAboard) on
+making AI education accessible.
+
 <h5><b>Read more about this course</b></h5>
 
 <div class="publications"> 
@@ -113,6 +119,27 @@ and empower individuals to engage with how AI is used and governed.
 </div>
 
 <h4 class="category" id="comics">Responsible AI comics</h4>
+
+Responsible AI is an intimidating topic.  We have been developing
+comics for AI enthusiasts, practitiners and the public at large, to
+bring humor into the conversation, and help us -- humans -- take
+ownership of the debate about the role that AI should play in our
+lives.
+
+You can read the complete [We are AI
+comics](https://r-ai.co/WeAreAI_ComicsSeries) in English and Spanish.
+The first volume of We are AI is also available in
+[Greek](https://dataresponsibly.github.io/comics/we-are-ai/Vol1_gk.pdf). Our
+[Data, Responsibly comics](https://dataresponsibly.github.io/comics/)
+are available in English
+([vol. 1](https://dataresponsibly.github.io/comics/vol1/mirror_en.pdf)
+and
+[vol. 2](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf)),
+[French](https://dataresponsibly.github.io/comics/vol1/mirror_fr.pdf),
+[Spanish](https://dataresponsibly.github.io/comics/vol1/mirror_es.pdf),
+and [Brazilian
+Portugueze](https://dataresponsibly.github.io/comics/vol1/mirror_br.pdf).
+
 
 <h5><b>Read the comics (English)</b></h5>
 
@@ -128,5 +155,5 @@ and empower individuals to engage with how AI is used and governed.
 <p><h5><b>Read the comics (other languages)</b></h5>
 
 <div class="publications-div"> 
-{% bibliography -f papers -q @*[keywords ^= *comics && keywords ^= *otherlang]%}
+{% bibliography -f papers -q @*[keywords ^= *comics && keywords ^= *other]%}
 </div>
