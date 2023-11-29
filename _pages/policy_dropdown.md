@@ -4,13 +4,16 @@ title: Policy
 nav: true
 nav_order: 4
 dropdown: true
-children: 
-    - title: Legal
-      permalink: /policy/#legal
+children:
+    - title: Overview
+      permalink: /policy/#
     - title: divider
-    - title: Institutional
-      permalink: /policy/#institutional
+    - title: AI governance
+      permalink: /policy/#governance
     - title: divider
-    - title: Industry
-      permalink: /policy/#industry
+    - title: Algorithmic hiring
+      permalink: /policy/#hiring
+    - title: divider
+    - title: Other work
+      permalink: /policy/#lwas
 ---

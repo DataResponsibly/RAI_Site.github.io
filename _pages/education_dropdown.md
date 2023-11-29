@@ -5,6 +5,9 @@ nav: true
 nav_order: 4
 dropdown: true
 children: 
+    - title: Overview
+      permalink: /education/#
+    - title: divider
     - title: Responsible data science
       permalink: /education/#rds
     - title: divider

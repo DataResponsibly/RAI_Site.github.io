@@ -9,7 +9,9 @@ display_categories: [students, practitioners, public, comics]
 horizontal: false
 ---
 
-<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M5-banner.png" | relative_url }}');"></div>
+<!-- <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M5-banner.png" | relative_url }}');"></div> -->
+
+<h3 class="category" id="education">Education</h3>
 
 Education stands as the cornerstone of our work at the Center for
 Responsible AI. Understanding the profound implications of AI on
@@ -39,7 +41,7 @@ slides, lab notebooks, and readers on the [course
 website](https://dataresponsibly.github.io/rds/).  All course
 materials are publicly available online.
 
-<h5><b>Read more about this course</b></h5>
+<h5>Read more about this course</h5>
 
 <div class="publications"> 
 {% bibliography -f papers -q @*[keywords ^= *rds]%}
@@ -53,7 +55,7 @@ through our [Causal inference
 playground](https://r-ai.co/ci-playground)
 for a rigorous and fun introduction to this topic!
 
-<h5><b>Read more about this course</b></h5>
+<h5>Read more about this course</h5>
 
 <div class="publications"> 
 {% bibliography -f papers -q @*[keywords ^= *playground]%}

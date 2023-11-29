@@ -4,7 +4,10 @@ title: Research
 nav: true
 nav_order: 2
 dropdown: true
-children: 
+children:
+    - title: Overview
+      permalink: /research/#
+    - title: divider
     - title: Data-centric AI
       permalink: /research/#data-centric
     - title: divider

@@ -14,7 +14,7 @@ nav: false
 nav_order: 2
 ---
 
-<h1 class="category" id="research">Research</h1>
+<h3 class="category" id="research">Research</h3>
 
 Here you can dive into the heart of our work at the Center for Responsible AI -- our research. 
 
@@ -39,8 +39,9 @@ the broader community to engage with our work.
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  <h2 class="category" id="data-centric">Data-centric AI and
-responsible data management</h2> Incorporating ethics and legal
+<h4 class="category" id="data-centric">Data-centric AI and responsible data management</h4>
+
+Incorporating ethics and legal
 compliance into data-driven algorithmic systems has been attracting
 significant attention from the computing research community, most
 notably under the umbrella of fair and interpretable machine

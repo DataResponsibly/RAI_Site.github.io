@@ -1,0 +1,19 @@
+<a href="/people/falaah">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Falaah Arif Khan</b><br>
+	      Graduate Research Fellow & Artist in Residence
+          </div>
+    </div>
+  </a>
+
+  <a href="/people/amyhurst">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/amyhurst.jpeg" class="img-fluid rounded z-depth-1" %}
+          <div class="caption">
+              <b>Amy Hurst</b><br>
+              Director of the [NYU Ability Project](http://ability.nyu.edu/)
+          </div>
+      </div>
+    </a>
