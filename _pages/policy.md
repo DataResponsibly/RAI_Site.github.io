@@ -7,7 +7,7 @@ nav: false
 nav_order: 4
 ---
 
-<!-- <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M3-banner.png" | relative_url }}');"></div> -->
+<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Policy.png" | relative_url }}');"></div>
 
 <h3 class="category" id="policy">Policy</h3>
 

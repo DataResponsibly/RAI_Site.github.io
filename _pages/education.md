@@ -9,7 +9,7 @@ display_categories: [students, practitioners, public, comics]
 horizontal: false
 ---
 
-<!-- <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/M5-banner.png" | relative_url }}');"></div> -->
+<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Education.png" | relative_url }}');"></div>
 
 <h3 class="category" id="education">Education</h3>
 
