@@ -20,9 +20,24 @@ $max-content-width: {{ site.max_width }};
 //   height: 300px; /* Set the height as per your requirement */
 //   width: 100%;
 // }
-// adjust
-#banner {
+
+.banner-light {
   background: url(Landing_Banner_V1.png) no-repeat center center;
+  // resize background scale
+  background-size: auto 600px;
+  height: 600px; 
+  width: 100vw;  /* Use vw (viewport width) units */
+  position: relative;  /* Added */
+  left: 50%;  /* Added */
+  right: 50%;  /* Added */
+  margin-left: -50vw;  /* Added */
+  margin-right: -50vw;  /* Added */
+  margin-bottom: 20px;  /* Added */
+  margin-top: -10px;  /* Added */
+}
+
+.banner-dark {
+  background: url(Landing_Banner_V2.png) no-repeat center center;
   // resize background scale
   background-size: auto 600px;
   height: 600px; 
@@ -48,8 +63,6 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 20px;  /* Added */
   margin-top: -10px;  /* Added */
 }
-
-
 
 .publications-div {
   list-style: none;
