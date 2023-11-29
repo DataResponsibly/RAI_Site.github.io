@@ -3,7 +3,7 @@ layout: page
 title:
 permalink: /education/
 nav: false
-nav_order: 4
+nav_order: 3
 #display_categories: [comics, nyu_classes, reports, tools]
 display_categories: [students, practitioners, public, comics]
 horizontal: false
