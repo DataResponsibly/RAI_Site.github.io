@@ -11,7 +11,7 @@ horizontal: false
 
 <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Education.png" | relative_url }}');"></div>
 
-<h3 class="category" id="education">Education</h3>
+<!-- <h3 class="category" id="education">Education</h3> -->
 
 Education stands as the cornerstone of our work at the Center for
 Responsible AI. Understanding the profound implications of AI on

@@ -16,7 +16,7 @@ nav_order: 2
 
 <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Research.png" | relative_url }}');"></div>
 
-<h3 class="category" id="research">Research</h3>
+<!-- <h3 class="category" id="research">Research</h3> -->
 
 Here you can dive into the heart of our work at the Center for Responsible AI -- our research. 
 

@@ -9,7 +9,7 @@ nav_order: 4
 
 <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Policy.png" | relative_url }}');"></div>
 
-<h3 class="category" id="policy">Policy</h3>
+<!-- <h3 class="category" id="policy">Policy</h3> -->
 
 Our commitment to responsible AI extends beyond academic research and
 into the policy landscape. Meaningful change comes from a robust

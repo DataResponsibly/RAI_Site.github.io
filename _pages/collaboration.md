@@ -9,7 +9,7 @@ nav_order: 5
 
 <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Collaboration.png" | relative_url }}');"></div>
 
-<h3 class="category" id="collaboration">Collaboration</h3> 
+<!-- <h3 class="category" id="collaboration">Collaboration</h3> -->
 
 AI presents challenges and opportunities that require an
 interdisciplinary approach, and that's where our strength lies. At the
