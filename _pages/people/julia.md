@@ -9,7 +9,7 @@ nav: false
 
 **Associate Professor and Director of R/AI** -- *stoyanovich (at) nyu.edu* -- [Personal Website](http://stoyanovich.org/)
 
-[CV](~/assets/pdf/Julia_CV.pdf)
+[CV](../../assets/pdf/Julia_CV.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=UhJRkaIAAAAJ&hl=en)
 [DBLP](https://dblp.uni-trier.de/search?q=stoyanovich)
 [LinkedIn](https://www.linkedin.com/in/julia-stoyanovich-b184851/) 
