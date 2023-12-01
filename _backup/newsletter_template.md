@@ -13,7 +13,7 @@ preview: /assets/img/...
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/PostingLabel.webp" class="img-fluid rounded z-depth-1" my-style=true %}
+        {% include figure.html path="assets/img/newsletters/february/PostingLabel.webp" class="img-fluid rounded z-depth-1" newsletter-image=true %}
     </div>
 </div>
 

@@ -14,8 +14,8 @@ preview: /assets/img/newsletters/february/PostingLabel.webp
 Job seekers and employees have the right to know what qualifications and characteristics the tools are screening for and picking up! We need nutritional labels for job postings and decisions!  [**Read Julia Stoyanovich’s testimony**](https://rules.cityofnewyork.us/wp-content/uploads/2022/12/Stoyanovich_144_Jan23_2023.pdf) before the New York City Department of Consumer and Worker Protection on January 23. Julia spoke at the virtual hearing from her [**Responsible Data Science**](https://dataresponsibly.github.io/rds23/) classroom.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/PostingLabel.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/PostingLabel.webp" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 
@@ -23,8 +23,8 @@ Job seekers and employees have the right to know what qualifications and charact
 ## What we’ve been up to:
 ### Responsible AI Research Program – Fall 2022 Project Showcase.
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/lightbulb.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/lightbulb.png" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 
@@ -36,8 +36,8 @@ As part of a continuing effort led by R/AI to support Ukrainian students, 13 res
 ### The RAI Rockstar Series welcomed its first speaker, Sihem Amer-Yahia
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/Sihem2.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/Sihem2.png" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 
@@ -52,8 +52,8 @@ She also engaged with the NYU community through a fireside chat and shared her e
 ## What we’re looking forward to:
 ### Moshe Vardi, the second RAI Rockstar to visit NYU, arrives this Friday!
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/Moshe.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/Moshe.webp" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 The RAI Rockstar series continues with a visit by Moshe Vardi, University Professor and George Distinguished Service Professor in Computational Engineering at Rice University. Moshe is the recipient of several awards, including the ACM SIGACT Goedel Prize, the ACM Kanellakis Award, the IEEE Computer Society Goode Award, and the EATCS Distinguished Achievements Award. He is a Senior Editor of Communications of the ACM, the premier publication in computing. The talk “**How to be an Ethical Computer Scientist**,” will be held on at 11am on Friday, February 10, 2023, at 60 5th Avenue, Room 150, New York, NY 10011
@@ -67,8 +67,8 @@ The RAI Rockstar series continues with a visit by Moshe Vardi, University Profes
 In 2023 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI’23**)
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/strange.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/strange.webp" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 
@@ -82,8 +82,8 @@ Counterfactuals are often described as ‘retrospective’ because they focus on
 
 In 2023 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI’23**)
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/distribution.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/distribution.webp" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 
@@ -95,8 +95,8 @@ Making fair decisions is crucial to ethically implementing machine learning algo
 
 Members of R/AI spoke in the press about our recent research results and the recent developments in AI regulation.  
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/newsletters/february/press.webp" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/newsletters/february/press.png" class="img-fluid rounded z-depth-1" newsletter-image="true" %}
     </div>
 </div>
 
