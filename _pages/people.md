@@ -120,7 +120,7 @@ nav_order: 1
 
     <a href="/people/meghana">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/meghana.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/meghana.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Meghana Shanbhogue</b><br>
               Graduate Research Fellow
