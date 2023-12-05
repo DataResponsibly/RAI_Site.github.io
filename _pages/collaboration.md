@@ -7,7 +7,8 @@ nav: false
 nav_order: 5
 ---
 
-<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Collaboration.png" | relative_url }}');"></div>
+<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Collaboration_Banner.png" | relative_url }}');"></div>
+<br>
 
 <!-- <h3 class="category" id="collaboration">Collaboration</h3> -->
 
@@ -17,7 +18,7 @@ Center for Responsible AI, we foster an environment of collaboration
 where diverse minds come together, leveraging the richness of their
 varied perspectives. Whatever your academic or policy background,
 there are numerous ways to engage with us.
-
+<br>
 <h4 class="category" id="ucu">Responsible AI research program with Ukrainian Catholic University</h4>
 
 The ongoing war in Ukraine has displaced hundreds of thousands of
