@@ -24,24 +24,24 @@ community engagement.
 
 <!-- ADS Task force, compotroller report -->
 
-<!-- <h5><b>Read more about our work</b></h5> -->
+<!-- <h5><b>Peer-reviewed research and reports</b></h5> -->
 
-<div class="publications"> 
+<div class="publications">
 {% bibliography -f reports -q @*[keywords ^= *governance]%}
 </div>
 
-<h5><b>Recent press coverage</b></h5>
+<h5><b>Popular press</b></h5>
 
 <div class="container">
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-    <a href="https://www.vox.com/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias">
-    {% include figure.html path="assets/img/policy/vox_oct_2022.png" class="img-fluid rounded z-depth-1" %}
+    <a href="https://www.latimes.com/opinion/story/2023-09-24/google-antitrust-monopoly-trial-justice-department-digital-ads-facebook">
+    {% include figure.html path="/assets/img/press/lat_0923.png" class="img-fluid rounded z-depth-1" %}
     </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-    <a href="https://www.wsj.com/articles/hiring-job-candidates-ai-11632244313">
-    {% include figure.html path="assets/img/policy/wsj_sept_2021.png" class="img-fluid rounded z-depth-1" %}
+    <a href="https://www.vox.com/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias">
+    {% include figure.html path="assets/img/press/vox_1022.png" class="img-fluid rounded z-depth-1" %}
     </a>
     </div>
   </div>
@@ -55,7 +55,33 @@ community engagement.
 {% bibliography -f reports -q @*[keywords ^= *hiring]%}
 </div>
 
-<!--<h5><b>Recent press coverage</b></h5>-->
+<h5><b>Popular press</b></h5>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.nytimes.com/2023/05/25/technology/ai-hiring-law-new-york.html">
+    {% include figure.html path="/assets/img/press/nyt_0523.png" class="img-fluid rounded z-depth-1" %}
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.wsj.com/articles/hiring-job-candidates-ai-11632244313">
+    {% include figure.html path="assets/img/press/wsj_0921.png" class="img-fluid rounded z-depth-1" %}
+    </a>
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.nytimes.com/2021/03/17/opinion/ai-employment-bias-nyc.html">
+    {% include figure.html path="/assets/img/press/nyt_0321.png" class="img-fluid rounded z-depth-1" %}
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    &nbsp;
+    </div>
+  </div>  
+</div>
+
 
 <!-- <h4 class="category" id="laws">Responsible AI for peace and security</h4>-->
 
