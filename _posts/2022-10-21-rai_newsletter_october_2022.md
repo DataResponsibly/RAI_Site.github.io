@@ -1,11 +1,12 @@
 ---
 layout: distill
 title:  R/AI Newsletter - Research Highlights Issue, October 2022
-date:   2023-02-15 18:49:16
-description: October, newsletter
-tags: october newsletter lab publications events
+date:   2022-10-10 18:49:16
+description: 
+tags: newsletter lab publications events
 categories: newsletter
 newsletter: true
+preview: /assets/img/newsletters/October_2022/Personality-prediction.png
 ---
 
 ## Personality prediction AI used for pre-hiring screening is shockingly bad!

@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  Research Seminar - On the Tradeoff Between Explainability and Privacy in Databases
+title:  Research Seminar - Amir Gilad
 date:   2022-10-19 18:49:16
 event: true
+categories: seminar
 ---
 Explanations for query results have been the subject of extensive research. The advantages of such explanations are evident, as they allow users to validate and justify the results of the query and deepen their knowledge about the data. However, when the query is proprietary and needs to remain confidential or when the data is cloaked by privacy restrictions, such explanations may be detrimental to the privacy desiderata. This tradeoff raises the question “can we provide useful explanations while maintaining the privacy requirements of the query and data?”
 
 NYU R/AI and NYU CUSP are proud to co-host a talk by Amir Gilad on the Trade-off between Explainability and Privacy in Databases.
 
 #### Event details:
+
+**Title: On the Trade-off between Explainability and Privacy in Databases**
 
 **Time & Date: Sept 30th, 12:00 pm to 1:00 pm ET**
 

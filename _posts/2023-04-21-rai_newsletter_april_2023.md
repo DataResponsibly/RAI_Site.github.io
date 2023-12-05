@@ -2,10 +2,11 @@
 layout: distill
 title:  R/AI Newsletter - Research Highlights Issue, April 2023
 date:   2023-04-21 18:49:16
-description: April, newsletter
+description: 
 tags: april newsletter lab publications events
 categories: newsletter
 newsletter: true
+preview: /assets/img/newsletters/April_2023/Algo-transparency.webp
 ---
 
 ## Introducing Contextual Transparency for Automated Decision Systems 

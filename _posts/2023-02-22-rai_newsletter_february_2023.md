@@ -2,13 +2,12 @@
 layout: distill
 title:  RAI Newsletter - Research Highlights Issue, February 2023
 date:   2023-02-22 20:40:16
-description: February, Newsletter
-tags: february newsletter lab publications events
+description: 
+tags:  newsletter lab publications events
 categories: newsletter
 newsletter: true
 preview: /assets/img/newsletters/february/PostingLabel.webp
 ---
-<!-- http://127.0.0.1:4000/ -->
 
 ## New York City’s Local Law 144 is not only about bias in hiring!
 Job seekers and employees have the right to know what qualifications and characteristics the tools are screening for and picking up! We need nutritional labels for job postings and decisions!  [**Read Julia Stoyanovich’s testimony**](https://rules.cityofnewyork.us/wp-content/uploads/2022/12/Stoyanovich_144_Jan23_2023.pdf) before the New York City Department of Consumer and Worker Protection on January 23. Julia spoke at the virtual hearing from her [**Responsible Data Science**](https://dataresponsibly.github.io/rds23/) classroom.
