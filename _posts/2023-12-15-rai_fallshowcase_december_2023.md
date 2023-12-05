@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  R/AI Research Program – Fall 2023 Project Showcase
-date:   2023-12-04 09:30:00
+date:   2023-12-04 23:30:00
 description: R/AI Research Program
 tags: 
 categories: seminar collaboration
