@@ -13,7 +13,4 @@ children:
     - title: divider
     - title: Algorithmic hiring
       permalink: /policy/#hiring
-    - title: divider
-    - title: Other work
-      permalink: /policy/#lwas
 ---

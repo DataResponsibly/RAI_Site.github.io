@@ -24,8 +24,6 @@ community engagement.
 
 <!-- ADS Task force, compotroller report -->
 
-<!-- <h5><b>Peer-reviewed research and reports</b></h5> -->
-
 <div class="publications">
 {% bibliography -f reports -q @*[keywords ^= *governance]%}
 </div>
@@ -45,6 +43,12 @@ community engagement.
     </a>
     </div>
   </div>
+</div>
+
+<h5><b>Peer-reviewed research</b></h5>
+
+<div class="publications">
+{% bibliography -f papers -q @*[keywords ^= *governance]%}
 </div>
 
 <h4 class="category" id="hiring">Algorithmic hiring</h4>
@@ -82,11 +86,16 @@ community engagement.
   </div>  
 </div>
 
+<h5><b>Peer-reviewed research</b></h5>
+
+<div class="publications">
+{% bibliography -f papers -q @*[keywords ^= *hiring]%}
+</div>
+
 
 <!-- <h4 class="category" id="laws">Responsible AI for peace and security</h4>-->
 
 <!-- ACM Code of Ethics, IEEE report -->
-
 
 
 
