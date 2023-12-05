@@ -14,7 +14,7 @@ nav: false
 nav_order: 2
 ---
 
-<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Research.png" | relative_url }}');"></div>
+<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/Research_Banner.png" | relative_url }}');"></div>
 
 <!-- <h3 class="category" id="research">Research</h3> -->
 
