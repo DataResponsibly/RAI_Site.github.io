@@ -76,7 +76,7 @@ nav_order: 1
 <div class="row mt-3">
    <a href="/people/andrew">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/andrew.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/andrew.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Andrew Bell</b><br>
               Graduate Research Fellow 
@@ -134,7 +134,7 @@ nav_order: 1
 </div>
 
 <div class="row mt-3">
-    <a href="/people/meghana">
+    <a href="https://www.linkedin.com/in/meghana-shanbhogue/">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/meghana.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
@@ -151,7 +151,7 @@ nav_order: 1
 
 <div class="row mt-3">
 
-<a href="/people/daniel">
+<a href="https://www.daniel-dominguez.com/">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/daniel.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
@@ -161,7 +161,7 @@ nav_order: 1
       </div>
     </a>
 
-   <a href="https://novaresearch.unl.pt/en/persons/jo%C3%A3o-fonseca-2">
+   <a href="/people/joao">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
