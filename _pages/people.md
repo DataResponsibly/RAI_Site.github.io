@@ -161,7 +161,7 @@ nav_order: 1
       </div>
     </a>
 
-   <a href="https://novaresearch.unl.pt/en/persons/jo%C3%A3o-fonseca-2">
+   <a href="/people/joao">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
