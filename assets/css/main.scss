@@ -21,6 +21,18 @@ $max-content-width: {{ site.max_width }};
 //   width: 100%;
 // }
 
+@media only screen and (max-width: 600px) {
+  .banner-light {
+    display: none;
+  }
+  .banner-dark {
+    display: none;
+  }
+  #banner-other {
+    display: none;
+  }
+}
+
 .banner-light {
   background: url(Landing_Banner_V1.png) no-repeat center center;
   // resize background scale
