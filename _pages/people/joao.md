@@ -9,6 +9,9 @@ nav: false
 
 **Visiting Research Scholar** -- *jpfonseca(at) novaims.unl.pt* -- [Personal Website](https://joaopfonseca.github.io/)
 
+[Google Scholar](https://scholar.google.com/citations?user=WcekujkAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/jpmrfonseca)
+
 {% include figure.html people-profile=true path="assets/img/people/joao.jpg" title="joao" class="img-fluid rounded z-depth-1" %}
 
 João Fonseca worked as a Research Intern at NYU during spring 2023,
@@ -20,3 +23,8 @@ open questions on algorithmic recourse, Explainable AI, and Synthetic Data
 Generation. 
 
 João likes to play guitar, padel tennis, bouldering and surfing.
+
+**Selected publications**
+<div class="publications-div">
+  {% bibliography -f papers -q @*[author ^= *Fonseca]%}
+</div>
