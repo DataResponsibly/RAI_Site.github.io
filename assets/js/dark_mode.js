@@ -17,6 +17,22 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
+window.addEventListener("load", setTimeout(loadCorrect, 1)); 
+
+function loadCorrect() {
+    const currentTheme = localStorage.getItem("theme");
+    const banner = document.getElementById("banner");
+    if (currentTheme === 'light') {
+        banner.classList.add('banner-light');
+        banner.classList.remove('banner-dark');
+    } else {
+        banner.classList.add('banner-dark');
+        banner.classList.remove('banner-light');
+    }
+
+}
+
+
 function toggleBannerClass(currentTheme) {
     const banner = document.getElementById("banner");
 
