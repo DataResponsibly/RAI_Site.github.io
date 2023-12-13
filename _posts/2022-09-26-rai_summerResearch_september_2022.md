@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  NYU R/AI Summer Research Program 2022
-date:   2022-10-19 18:49:16
+title:  R/AI Research Program – Summer 2022 Project Showcase
+date:   2022-08-19 18:49:16
+description: R/AI Research Program
+tags:
+categories: seminar collaboration
+event: true
+preview: /assets/img/newsletters/february/lightbulb.png
 ---
+
 The ongoing war in Ukraine has displaced hundreds of thousands of people, including many university students. The Ukrainian Catholic University (UCU) in Lviv, has been active in their attempts to keep the students engaged and to allow them to successfully complete the academic year. To support these efforts, NYU’s Center for Responsible AI (R/AI) collaborated with UCU to recruit 18 research fellows–Ukrainian graduate and advanced undergraduate students– and host a 6-week long Summer Research Program.
 
 As part of this initiative, that was spearheaded by Dr. Julia Stoyanovich—Director of NYU R/AI & Associate Professor of Computer Science & Engineering and of Data Science at NYU, Ukrainian students were exposed to a series of workshops and lectures on Data Science and Responsible AI. The students were also mentored by industry & academic experts on 8 research projects that culminated in several submissions to major conferences in computer science, such as one on [reproducibility as an evaluation metric for differential privacy](https://arxiv.org/pdf/2208.12700.pdf)to a major Conference on AI, and an [interactive introduction to Causal Inference](https://lbynum.github.io/interactive-causal-inference/), which has already been accepted to the VisxAI workshop at IEEE VIS 2022. The program concluded with a public virtual showcase where the students discussed and demonstrated their research and insights. 
