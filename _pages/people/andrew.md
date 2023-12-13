@@ -8,7 +8,7 @@ nav: false
 
 **PhD Candidate** -- *alb9742(at) nyu.edu* --
 
-{% include figure.html people-profile=true path="assets/img/people/andrew.png" title="andrew" class="img-fluid rounded z-depth-1" %}
+{% include figure.html people-profile=true path="assets/img/people/andrew.jpg" title="andrew" class="img-fluid rounded z-depth-1" %}
 
 Andrew Bell is a Computer Science Ph.D. Candidate being co-advised by Prof. Julia Stoyanovich and Dr. Oded Nov. Andrew is a recipient of the National Science Foundation Graduate Research Fellowship (NSF GRFP). His research interests lie at the intersection of machine learning and public policy and are more narrowly focused on the fairness and explainability of algorithmic decision systems. In Spring 2023, Andrew was a visiting research fellow at the Center for AI (CENTAI) in Turin, Italy.
 
