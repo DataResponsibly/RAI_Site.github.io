@@ -22,7 +22,7 @@ Here you can dive into the heart of our work at the Center for Responsible AI --
 
 Our ongoing investigations are organized around several major themes:
 [data-centric AI and responsible data management](#data-centric),
-[resonsible AI education and training](#education),
+[responsible AI education and training](#education),
 [explainability](#explainability), [algorithmic fairness](#fairness),
 [AI policy and regulation](#policy), [privacy and data
 protection](#privacy), and [responsible ranking design](#ranking).
