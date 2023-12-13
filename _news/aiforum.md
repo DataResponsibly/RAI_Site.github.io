@@ -5,4 +5,5 @@ inline: true
 ---
 
 Julia Stoyanovich participated in the US Senate AI Insight Forum on High Impact AI. :sparkles:<br>
-Read her statement [here](assets/pdf/Stoyanovich_AI_Forum_Statement_10_23_2023.pdf)
+[Read her statement and learn more about this event](/news_events/2023/schumer_forum).
+
