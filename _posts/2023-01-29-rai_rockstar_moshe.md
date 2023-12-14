@@ -6,7 +6,7 @@ description: R/AI Rockstar Series
 tags: 
 categories: rockstar seminar 
 event: true
-preview: /assets/img/events/Moshe.png
+preview: /assets/img/events/Moshe-rockstar.png 
 ---
 
 The R/AI Rockstar series aims to improve the representation of women and members of historically under-represented groups in AI careers. We do this by bringing role models who work on RAI topics and contribute to the diversity of voices in this area of research, education, and practice. The second Rockstar in this series, [**Dr. Moshe Y. Vardi**](https://profiles.rice.edu/faculty/moshe-y-vardi), will visit NYU R/AI in February 2023.  
