@@ -133,19 +133,6 @@ nav_order: 1
     </a>
 </div>
 
-<div class="row mt-3">
-    <a href="https://www.linkedin.com/in/meghana-shanbhogue/">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/meghana.png" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Meghana Shanbhogue</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
-    </a>
-</div>
-
-
 
 <h1 class="category" id="visitors">Visitors</h1>
 

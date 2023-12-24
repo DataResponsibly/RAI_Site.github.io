@@ -16,7 +16,7 @@ nav: false
 [Twitter](https://twitter.com/stoyanoj)
 
 
-{% include figure.html people-profile=true path="assets/img/people/julia.png" title="julia" class="img-fluid rounded z-depth-1" %}
+{% include figure.html people-profile=true path="assets/img/people/julia.jpg" title="julia" class="img-fluid rounded z-depth-1" %}
 
 Julia is an Institute Associate Professor of Computer Science and Engineering at the Tandon School of Engineering, Associate Professor of Data Science at the Center for Data Science, and Director of the Center for Responsible Ai. Julia’s goal is to make “Responsible AI” synonymous with “AI”.  She works towards this goal by engaging in academic research, education and technology policy, and by speaking about the benefits and harms of AI to practitioners and members of the public. 
 
