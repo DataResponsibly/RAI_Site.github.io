@@ -33,14 +33,24 @@ community engagement.
 <div class="container">
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+    <a href="https://thehill.com/opinion/technology/4373850-three-urgent-ai-red-flags-for-congress-to-address-in-2024/">
+    {% include figure.html path="/assets/img/press/thehill_1223.png" class="img-fluid rounded z-depth-1" %}
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     <a href="https://www.latimes.com/opinion/story/2023-09-24/google-antitrust-monopoly-trial-justice-department-digital-ads-facebook">
     {% include figure.html path="/assets/img/press/lat_0923.png" class="img-fluid rounded z-depth-1" %}
     </a>
-    </div>
+  </div>
+  </div>
+ <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
     <a href="https://www.vox.com/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias">
     {% include figure.html path="assets/img/press/vox_1022.png" class="img-fluid rounded z-depth-1" %}
     </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    &nbsp;
     </div>
   </div>
 </div>
