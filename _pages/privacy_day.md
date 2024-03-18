@@ -6,11 +6,11 @@ description:
 nav: false
 ---
 
-# Privacy Day 2024
+# Privacy Day (Spring 2024)
 
 {% include figure.html people-profile=false path="/assets/img/banner/privacy_robot.png" class="img-fluid" width="100px" robot=true %}
 <br>
-### Join us for the **next iteration** of NYC Privacy Day.  
+### Join us for the **next iteration** of NYC Privacy Day (Spring 2024).  
 ### When: **April 19, 2024** from **9:30 AM to 4:00 PM**  
 ### Where: **NYU Center for Data Science, 60 5th Ave (7th Floor)**  
 ### Who: **People who [RSVP](https://forms.gle/qxCkwxNwKHs1Yejb7)**  
@@ -79,7 +79,7 @@ When you RSVP, you will have the opportunity to register your interest in giving
 ***  
 
 ## RSVP  
-Please RSVP by no later than **April 10, 2024** to help us plan for catering and space.  
+Please RSVP by no later than **April 10, 2024** to help us plan for posters, catering and space.  
 
 <div class="registration-link">
 <a href="https://forms.gle/qxCkwxNwKHs1Yejb7">RSVP Here</a>
