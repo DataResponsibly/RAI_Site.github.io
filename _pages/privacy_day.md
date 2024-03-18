@@ -13,7 +13,7 @@ nav: false
 ### Join us for the **next iteration** of NYC Privacy Day.  
 ### When: **April 19, 2024** from **9:30 AM to 4:00 PM**  
 ### Where: **NYU Center for Data Science, 60 5th Ave (7th Floor)**  
-### Who: **People who [RSVP]()**  
+### Who: **People who [RSVP](https://forms.gle/qxCkwxNwKHs1Yejb7)**  
 [(Fall 2023 iteration)](https://rachelcummings.com/nyc-privacy-day/)
 <br>
 
@@ -31,7 +31,7 @@ nav: false
 
 - **10:30-12:05 PM**: Invited Talks 1
     - **Speaker 1**: Rachel Cummings (Columbia) (10:30-10:50 AM)
-    - **Speaker 2**: Katherine Strandburg (NYU) + Helen Nissenbaum (10:55-11:15 AM)
+    - **Speaker 2**: Katherine Strandburg (NYU) + Helen Nissenbaum (Cornell Tech) (10:55-11:15 AM)
     - **Speaker 3**: TBD (Google) (11:20-11:40 AM)
     - **Speaker 4**: TBD (11:45-12:05 PM)  
 <br>
@@ -72,15 +72,17 @@ When you RSVP, you will have the opportunity to register your interest in giving
 
 **We will be presenting a best poster award based on realtime votes from attendees.**
 
-*Further Details: We have limited space for posters, so depending on interest will make a selection so as to represent the greatest variety of submissions. We cannot accomodate poster print requests, so please bring your own poster.*
+**RSVP sooner to increase your chances of presenting a poster!**
+
+*Further Details: We have limited space for posters, so depending on interest will make a selection so as to represent the greatest variety of submissions. We cannot accomodate poster print requests, so please bring your own poster, but we will provide boards and easels.*
 
 ***  
 
 ## RSVP  
-Please RSVP by no later than **April 12, 2024** to help us plan for catering and space.  
+Please RSVP by no later than **April 10, 2024** to help us plan for catering and space.  
 
 <div class="registration-link">
-<a href="TBD">RSVP Here</a>
+<a href="https://forms.gle/qxCkwxNwKHs1Yejb7">RSVP Here</a>
 </div>
 
 ***  
