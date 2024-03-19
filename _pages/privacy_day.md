@@ -10,11 +10,11 @@ nav: false
 
 {% include figure.html people-profile=false path="/assets/img/banner/privacy_robot.png" class="img-fluid" width="100px" robot=true %}
 <br>
-### Join us for the **next iteration** of NYC Privacy Day (Spring 2024).  
+### Join us for the Spring 2024 NYC Privacy Day.
 ### When: **April 19, 2024** from **9:30 AM to 4:00 PM**  
 ### Where: **NYU Center for Data Science, 60 5th Ave (7th Floor)**  
 ### Who: **People who [RSVP](https://forms.gle/qxCkwxNwKHs1Yejb7)**  
-[(Fall 2023 iteration)](https://rachelcummings.com/nyc-privacy-day/)
+[(Fall 2023 NYC Privacy Day)](https://rachelcummings.com/nyc-privacy-day/)
 <br>
 
 ***   
