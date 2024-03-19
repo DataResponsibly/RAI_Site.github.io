@@ -1,9 +1,10 @@
 ---
 layout: post
-title: RAI@NYU Hosting the Next Iteration of NYC Privacy Day
+title: R/AI Hosting the Spring 2024 NYC Privacy Day
 date: 2024-03-17 17:39:00
 event: true
-preview: 
+preview: /assets/img/events/robot_sm.png
+categories: event 
 description: Visit the Privacy Day page to learn more and RSVP.
 redirect: https://airesponsibly.net/privacy_day/
 ---
