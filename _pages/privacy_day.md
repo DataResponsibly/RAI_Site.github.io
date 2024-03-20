@@ -59,7 +59,7 @@ NYC area privacy folks to chat and network with!
   
 - **1:00-2:20 PM**: Invited Talks 2
     - **Speaker 5**: Rachel Greenstadt (NYU) (1:00-1:15 PM)
-    - **Speaker 6**: TBD (1:20-1:35 PM)
+    - **Speaker 6**: Ruobin Gong (Rutgers) (1:20-1:35 PM)
     - **Speaker 7**: TBD (1:40-1:55 PM)
     - **Speaker 8**: Marshall Ball (NYU) (2:00 - 2:15 PM)   
 <br>   
