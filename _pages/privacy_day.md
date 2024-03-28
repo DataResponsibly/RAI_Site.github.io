@@ -50,7 +50,7 @@ NYC area privacy folks to chat and network with!
 - **10:30-11:55 AM**: Invited Talks 1
     - **Speaker 1**: Rachel Cummings (Columbia) (10:30-10:45 AM)
     - **Speaker 2**: Katherine Strandburg (NYU) + Helen Nissenbaum (Cornell Tech) (10:50-11:10 AM)
-    - **Speaker 3**: TBD (Google) (11:15-11:30 AM)
+    - **Speaker 3**: Alessandro Epasto (Google) (11:15-11:30 AM)
     - **Speaker 4**: TBD (11:35-11:50 PM)  
 <br>
 
