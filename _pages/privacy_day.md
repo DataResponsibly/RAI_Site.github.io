@@ -51,7 +51,7 @@ NYC area privacy folks to chat and network with!
     - **Speaker 1**: Rachel Cummings (Columbia) (10:30-10:45 AM)
     - **Speaker 2**: Katherine Strandburg (NYU) + Helen Nissenbaum (Cornell Tech) (10:50-11:10 AM)
     - **Speaker 3**: Alessandro Epasto (Google) (11:15-11:30 AM)
-    - **Speaker 4**: TBD (11:35-11:50 PM)  
+    - **Speaker 4**: Ananda Theertha Suresh (Google) (11:35-11:50 PM)  
 <br>
 
 - **12:00-1:00 PM**: Lunch Break  
