@@ -8,7 +8,7 @@ nav: false
 
 ## Privacy Day Recap
 Thanks to everyone who attended Spring '24 NYC Privacy Day!
-{% include figure.html people-profile=false path="/assets/img/banner/privacy_day_photo.jpg" class="img-fluid" width="400px" robot=true %}
+{% include figure.html people-profile=false path="/assets/img/banner/privacy_day_photo.jpg" class="img-fluid" width="800px" robot=true %}
 
 #### 🏆 Congratulations to the poster winners!
 Kaustav Bhattacharjee with *"Look before you Link: Interactive Visualization Workflows for Assessing Privacy-Utility Trade-offs in Linkable Open Data"* & Julia Jose with *"Evaluating Large Language Models on Propaganda Detection"*.
