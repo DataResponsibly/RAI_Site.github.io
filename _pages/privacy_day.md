@@ -6,6 +6,13 @@ description:
 nav: false
 ---
 
+## Privacy Day Recap
+Thanks to everyone who attended Spring '24 NYC Privacy Day!
+{% include figure.html people-profile=false path="/assets/img/banner/privacy_day_photo.jpg" class="img-fluid" width="400px" robot=true %}
+
+#### 🏆 Congratulations to the poster winners!
+Kaustav Bhattacharjee with *"Look before you Link: Interactive Visualization Workflows for Assessing Privacy-Utility Trade-offs in Linkable Open Data"* & Julia Jose with *"Evaluating Large Language Models on Propaganda Detection"*.
+
 ## NYC Privacy Day, Spring 2024
 
 {% include figure.html people-profile=false path="/assets/img/banner/privacy_robot.png" class="img-fluid" width="100px" robot=true %}
@@ -24,12 +31,12 @@ NYC area privacy folks to chat and network with!
 
 **Where:** [NYU Center for Data Sciece, 60 5th Avenue, 7th Floor, New York, NY 10011](https://www.google.com/maps/place/60+5th+Ave,+New+York,+NY+10011/@40.735016,-73.9973769,17z)
 
-**Who:** People who [RSVP](https://forms.gle/qxCkwxNwKHs1Yejb7).  Please **RSVP by April 10** to help us plan for posters, catering and space.
+**Who:**  Please **RSVP by April 10** to help us plan for posters, catering and space.
 
 <!--## Join us for the Spring 2024 NYC Privacy Day.
 ## When: **April 19, 2024** from **9:30 AM to 4:00 PM**  
 ## Where: **NYU Center for Data Science, 60 5th Ave (7th Floor)**  
-## Who: **People who [RSVP](https://forms.gle/qxCkwxNwKHs1Yejb7)**  
+## Who: **People who RSVP**  
 [(Fall 2023 NYC Privacy Day)](https://rachelcummings.com/nyc-privacy-day/) 
 <br> -->
 
@@ -55,7 +62,7 @@ NYC area privacy folks to chat and network with!
 <br>
 
 - **12:00-1:00 PM**: Lunch Break  
-  We'll provide everyone with a delicious lunch. Please let us know if you have any dietary restrictions through the [RSVP form](https://forms.gle/qxCkwxNwKHs1Yejb7).
+  We'll provide everyone with a delicious lunch. Please let us know if you have any dietary restrictions.
   
 - **1:00-2:20 PM**: Invited Talks 2
     - **Speaker 5**: Rachel Greenstadt (NYU) (1:00-1:15 PM)
@@ -101,9 +108,6 @@ When you RSVP, you will have the opportunity to register your interest in giving
 <!-- ### RSVP  
 Please RSVP by no later than **April 10, 2024** to help us plan for posters, catering and space.  
 
-<div class="registration-link">
-<a href="https://forms.gle/qxCkwxNwKHs1Yejb7">RSVP Here</a>
-</div>
 -->
 ***  
 
