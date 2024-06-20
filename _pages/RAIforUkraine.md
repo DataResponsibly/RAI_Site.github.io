@@ -37,12 +37,11 @@ Financial support for the program is provided by NYU R/AI, and by
 generous contributions from [Simons
 Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
-Programs](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/global-programs/OfficeOfGlobalPrograms.html).
-
+Programs](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/global-programs/OfficeOfGlobalPrograms.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
 
 <hr>
 
-<h4 class="category" id="showcases">Program showcases</h4>
+<h4 class="category" id="showcases">Program Showcases</h4>
 
 RAI Resarch Fellows present their findings in
 public virtual showcases. Many of their projects lead to
