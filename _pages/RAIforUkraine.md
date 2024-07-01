@@ -142,8 +142,8 @@ and sociology. But it was also practical because we were looking at data based o
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-      Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8">this form</a> no later than August 15, 2024, to apply to the program for the Fall
-      2024 cycle. Should you be selected to proceed to the next stage, we’ll contact you shortly after the deadline to invite you to attend a
+      <b>Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8">this form</a> no later than August 15, 2024, to apply to the program for the Fall
+      2024 cycle.</b> Should you be selected to proceed to the next stage, we’ll contact you shortly after the deadline to invite you to attend a
       project open house, and then be matched with a research project that aligns with your interests and skills.
     </div>
   </div>
@@ -179,7 +179,7 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    Fill out <a href="https://forms.gle/dSjjFfqVFd3Thgi4A"> this form</a> no later than August 15, 2024, to propose a research project.  By mentoring RAI Research Fellows, you  will play a crucial role in their academic and professional development. We are excited to hear from you!
+    <b>Fill out <a href="https://forms.gle/dSjjFfqVFd3Thgi4A"> this form</a> no later than August 15, 2024, to propose a research project.</b>  By mentoring RAI Research Fellows, you  will play a crucial role in their academic and professional development. We are excited to hear from you!
     </div>
   </div>
 </div>
@@ -193,7 +193,7 @@ your academic and professional profile.
     next generation of scholars during a critical time.
 
 - **Build a better future:** You will contribute to the development of
-    responsibel AI principles and practices that will shape the future
+    responsible AI principles and practices that will shape the future
     of technology and society.  Your contribution will help make
     "responsible AI" synonymous with "AI".
 
@@ -210,8 +210,8 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a>
-    to support #RAIforUkraine.  We greatly appreciate your generosity and commitment to empowering the next generation of Ukrainian scholars!
+    <b>Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a>
+    to support #RAIforUkraine.</b>  We greatly appreciate your generosity and commitment to empowering the next generation of Ukrainian scholars!
     </div>
   </div>
 </div>
