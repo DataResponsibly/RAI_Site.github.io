@@ -138,6 +138,49 @@ The event will feature morning refreshments and a catered lunch. Specific detail
 ***  
 
 ### Participants
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Michael E. Papka.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka, Ph.D., M.S. — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.</p> 
+        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Divesh Srivastava.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Divesh Srivastava, Ph.D. — Head of Database Research, AT&T Labs-Research </p> <p>Divesh Srivastava is the head of the Database Research Department at AT&T Labs-Research. He is on the board of trustees of the VLDB Endowment, the associate Editor-in-Chief of the IEEE Transactions on Knowledge and Data Engineering, and an associate editor of the ACM Transactions on Database Systems.</p>
+        <a href="https://divesh.net/">Personal Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Rayid Ghani.png" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Rayid Ghani, M.S. — Distinguished Career Professor, Carnegie Mellon University </p> <p> Rayid Ghani is a Professor in the Machine Learning Department (in the School of Computer Science) and the Heinz College of Information Systems and Public Policy at Carnegie Mellon University and leads the Data Science and Public Policy Group as well as the Data Science for Social Good Program. He’s also the co-lead of the Responsible AI Initiative at CMU.</p>
+        <a href="https://www.rayidghani.com/">Personal Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
