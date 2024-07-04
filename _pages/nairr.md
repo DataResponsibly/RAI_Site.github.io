@@ -46,26 +46,22 @@ This workshop is convened by the National Science Foundation (NSF) and brings to
 - **9:45 - 10:15 AM**: Introductions (Everyone)
 <br>
 
-- **10:15 - 10:45 AM**: NAIRR Task Force Panel (Fred, Daniela, Manish, Julia L, Dan Stanzione)  
+- **10:15 - 10:45 AM**: NAIRR Task Force Panel
 <br>
 
 - **10:45 - 11:00 AM**: Open Discussion
 <br>
 
-- **11:00 - 11:30 AM**: NAIRR Pilot Implementation Plan (Rob B)
+- **11:00 - 11:30 AM**: NAIRR Pilot Implementation Plan (Robert Beverly)
 <br>
 
-- **11:30 - 11:45 AM**: Overview of Afternoon Activities (Julia S), Open Discussion
+- **11:30 - 11:45 AM**: Overview of Afternoon Activities (Julia Stoyanovich), Open Discussion
 <br>
 
 - **12:00 - 1:00 PM**: Lunch
 <br>
 
-- **1:00 - 3:00 PM**: Breakout Sessions: Governance Principles and Best Practices  
-    - **Room 1 (Julia S, Julia L)**: What’s the charter for each committee, and what will they be asked to do? Who are the people who should be elected to these committees?  
-    - **Room 2 (Travis, another federal agency rep)**: What are the evaluation metrics for the Pilot? How do we define diversity and how are these definitions reflected in the governance structures for the Pilot?  
-    - **Room 3 (Lead: Ilkay, Scribe: …)**: What are the resource allocation policies? How do we allocate resources, what’s allocatable as a resource, and how is resource allocation governed? What are the governance models for the types of allocatable resources?  
-    - **Room 4 (Rob, Bob)**: Case studies and examples of governance structures. Where did things go wrong, where did we get things right?  
+- **1:00 - 3:00 PM**: Breakout Sessions
 <br>
 
 - **3:00 - 3:30 PM**: Coffee Break
@@ -85,20 +81,16 @@ This workshop is convened by the National Science Foundation (NSF) and brings to
 - **9:00 - 9:30 AM**: Arrival, Breakfast
 <br>
 
-- **9:30 - 9:45 AM**: Welcome Back and Recap (Julia S)
+- **9:30 - 9:45 AM**: Welcome Back and Recap 
 <br>
 
-- **9:45 - 10:15 AM**: NAIRR Partner and Contributor Panel (TBD)
+- **9:45 - 10:15 AM**: NAIRR Partner and Contributor Panel 
 <br>
 
-- **10:15 - 10:30 AM**: Overview of the Day’s Activities (Julia S), Open Discussion
+- **10:15 - 10:30 AM**: Overview of the Day’s Activities, Open Discussion
 <br>
 
-- **10:45 - 12:45 PM**: Breakout Sessions: Implementation of the Principles and Best Practices  
-    - **Room 1 (Julia L, Travis)**: What guidelines and policies should the NAIRR Pilot embrace to responsibly manage hosting, provision, and use of datasets, pre-trained models, and other data products made available to the research community through the Pilot?  
-    - **Room 2 (Julia S, Ilkay)**: What technical gaps should be addressed to support adherence to the guidelines and policies?  
-    - **Room 3 (Rob, another federal agency rep)**: Guidance for awardees: What policies and practices should the NAIRR Pilot integrate into its proposal review and project management processes to reinforce responsible approaches to AI research and appropriately manage risk?  
-    - **Room 4**: TBD  
+- **10:45 - 12:45 PM**: Breakout Sessions
 <br>
 
 - **1:00 - 2:00 PM**: Lunch
@@ -131,11 +123,6 @@ The event will feature morning refreshments and a catered lunch. Specific detail
 ***  
 -->
 
-### Breakout Groups
-
-#### TBD
-
-***  
 
 ### Participants
 
@@ -147,7 +134,7 @@ The event will feature morning refreshments and a catered lunch. Specific detail
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka, Ph.D., M.S. — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.</p> 
-        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a></p>
+        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a>
       </td>
     </tr>
   </table>
@@ -161,7 +148,7 @@ The event will feature morning refreshments and a catered lunch. Specific detail
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Divesh Srivastava, Ph.D. — Head of Database Research, AT&T Labs-Research </p> <p>Divesh Srivastava is the head of the Database Research Department at AT&T Labs-Research. He is on the board of trustees of the VLDB Endowment, the associate Editor-in-Chief of the IEEE Transactions on Knowledge and Data Engineering, and an associate editor of the ACM Transactions on Database Systems.</p>
-        <a href="https://divesh.net/">Personal Website</a></p>
+        <a href="https://divesh.net/">Personal Website</a>
       </td>
     </tr>
   </table>
@@ -175,7 +162,7 @@ The event will feature morning refreshments and a catered lunch. Specific detail
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Rayid Ghani, M.S. — Distinguished Career Professor, Carnegie Mellon University </p> <p> Rayid Ghani is a Professor in the Machine Learning Department (in the School of Computer Science) and the Heinz College of Information Systems and Public Policy at Carnegie Mellon University and leads the Data Science and Public Policy Group as well as the Data Science for Social Good Program. He’s also the co-lead of the Responsible AI Initiative at CMU.</p>
-        <a href="https://www.rayidghani.com/">Personal Website</a></p>
+        <a href="https://www.rayidghani.com/">Personal Website</a>
       </td>
     </tr>
   </table>
@@ -835,10 +822,6 @@ The event will feature morning refreshments and a catered lunch. Specific detail
   </table>
 </div>
 
-
-*** 
-
-### NIH Committee
 
 *** 
 
