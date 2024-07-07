@@ -6,107 +6,81 @@ description:
 nav: false
 ---
 
-## Community-Informed Policies and Best-Practices for the National Artificial Intelligence Research Resource Pilot
+### Community-Informed Policies and Best-Practices for the National Artificial Intelligence Research Resource (NAIRR) Pilot
 
 {% include figure.html people-profile=false path="/assets/img/banner/M5-banner.png" class="img-fluid" width="600px" robot=false %}
 <br>
 
-### Workshop Goals and Broad Overview
+#### Workshop Goals and Broad Overview
 
-The goal of this workshop is to explore and assess the governance landscape of the National AI Research Resource (NAIRR) by gathering expert input on opportunities and challenges with respect to the implementation and management of NAIRR. This interactive workshop aims to:
+On July 29-August 1, 2024, an in-person workshop of leading experts in
+responsible AI technology and policy will be convened at New York
+University, to obtain community feedback regarding policies and best
+practices, and inform the development of priorities and policies for
+the National AI Research Resource (NAIRR) Pilot. By convening a
+diverse group of stakeholders to offer their perspectives, the
+workshop will provide suggestions for improving the trustworthiness of
+the resources that are components of the Pilot, and for supporting the
+equitable use of these resources by a diverse group of researchers and
+students.
 
-- Develop governance principles and best practices for the NAIRR Pilot.
-- Identify evaluation metrics, resource allocation policies, and guidelines for responsible management of data and AI resources.
-- Discuss proposed governance structures, highlight case studies, and identify potential areas for improvement.
+This workshop is convened by <a
+href="https://airesponsibly.net/people/julia/">Prof. Julia
+Stoyanovich</a>, and is co-hosted by the <a
+href="https://r-ai.co/">NYU Tandon Center for Responsible AI</a> and
+the <a href="https://cds.nyu.edu/">NYU Center for Data
+Science</a>. This workshop is supported by <a
+href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432040">NSF
+Award No. 2432040</a> and by <a href="https://omidyar.com/">Omidyar
+Network</a>.
 
-This workshop is convened by the National Science Foundation (NSF) and brings together representatives from multiple agencies and sectors to collaborate on the NAIRR Implementation Plan. The NSF leads this initiative through scientific, technical, and operational collaboration with various stakeholders to ensure a robust and effective governance framework for the NAIRR.
+<!-- This workshop is convened by the National Science Foundation (NSF) and brings together representatives from multiple agencies and sectors to collaborate on the NAIRR Implementation Plan. The NSF leads this initiative through scientific, technical, and operational collaboration with various stakeholders to ensure a robust and effective governance framework for the NAIRR Pilot. -->
 
 
-### Agenda
+#### Resources
 
-#### July 29, 2024
+For background, please refer to the following resources
+
+- <a href="https://new.nsf.gov/focus-areas/artificial-intelligence/nairr">NAIRR Pilot website</a> 
+- <a href="https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf">NAIRR Task Force Report</a>
+- <a href="https://doi.org/10.6028/NIST.AI.100-1">NIST AI Risk Management Framework (AI RMF 1.0)</a>
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/">Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</a>
+- <a href="https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf">Blueprint for the AI Bill of Rights</a>
+
+#### Agenda
+
+##### July 29, 2024
 
 - **4:00 - 4:30 PM**: Arrival, Registration  
-  Welcome to the event! Check-in and get ready for the exciting sessions ahead.
-<br>
-
 - **4:30 - 6:30 PM**: Opening Reception  
-  Join us at NYU CDS, 7th floor open area for an evening of networking and refreshments.
-<br>
 
-#### July 30, 2024
+##### July 30, 2024
 
 - **9:00 - 9:30 AM**: Arrival, Registration, Breakfast  
-  Start your day with a light breakfast and complete your registration.
-<br>
-
-- **9:30 - 9:45 AM**: Welcome and Opening Remarks (Julia Stoyanovich)
-<br>
-
-- **9:45 - 10:15 AM**: Introductions (Everyone)
-<br>
-
+- **9:30 - 9:45 AM**: Welcome and Opening Remarks (Julia Stoyanovich, NYU)
+- **9:45 - 10:15 AM**: Introductions
 - **10:15 - 10:45 AM**: NAIRR Task Force Panel
-<br>
-
 - **10:45 - 11:00 AM**: Open Discussion
-<br>
-
-- **11:00 - 11:30 AM**: NAIRR Pilot Implementation Plan (Robert Beverly)
-<br>
-
-- **11:30 - 11:45 AM**: Overview of Afternoon Activities (Julia Stoyanovich), Open Discussion
-<br>
-
+- **11:00 - 11:30 AM**: NAIRR Pilot Implementation Plan (Robert Beverly, NSF)
+- **11:30 - 11:45 AM**: Overview of Afternoon Activities (Julia Stoyanovich, NYU), Open Discussion
 - **12:00 - 1:00 PM**: Lunch
-<br>
-
 - **1:00 - 3:00 PM**: Breakout Sessions
-<br>
-
 - **3:00 - 3:30 PM**: Coffee Break
-<br>
-
 - **3:30 - 4:30 PM**: Reports from Breakout Sessions
-<br>
-
 - **4:30 - 5:00 PM**: Open Discussion
-<br>
-
 - **6:00 - 8:00 PM**: Group Dinner
-<br>
 
-#### July 31, 2024
+##### July 31, 2024
 
 - **9:00 - 9:30 AM**: Arrival, Breakfast
-<br>
-
 - **9:30 - 9:45 AM**: Welcome Back and Recap 
-<br>
-
 - **9:45 - 10:15 AM**: NAIRR Partner and Contributor Panel 
-<br>
-
 - **10:15 - 10:30 AM**: Overview of the Day’s Activities, Open Discussion
-<br>
-
 - **10:45 - 12:45 PM**: Breakout Sessions
-<br>
-
 - **1:00 - 2:00 PM**: Lunch
-<br>
-
 - **2:00 - 3:00 PM**: Reports from Breakout Sessions
-<br>
-
 - **3:00 - 3:45 PM**: Open Discussion
-<br>
-
 - **3:45 - 4:00 PM**: Workshop Closing, Adjourn
-
-  
-- **3:30-4:00 PM**: Community Discussion 
-<!--  As with the first iteration, an open forum to discuss future iterations and format modifications. -->
 
 <div class="note">
 <strong>Note:</strong> The schedule and sessions are subject to change. Please check back for the latest updates.
@@ -115,16 +89,85 @@ This workshop is convened by the National Science Foundation (NSF) and brings to
 
 ***  
 
-<!--
-### Catering
 
-The event will feature morning refreshments and a catered lunch. Specific details about the menu will be announced soon.
+#### Workshop Leads
 
-***  
--->
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Julia Stoyanovich.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Julia Stoyanovich, Ph.D., M.S. — Associate Professor, Director of the Center for Responsible AI, New York University (NYU) </p> <p>
+        Julia Stoyanovich is an Associate Professor in the Department of Computer Science and Engineering at the Tandon School of Engineering, and the Center for Data Science. She’s also the Director of the Center for Responsible AI at New York University.
+        <br>
+        <a href="https://airesponsibly.net/people/julia/">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Ilkay Altintas.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş, Ph.D.— Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
+        <br>
+        <a href="https://words.sdsc.edu/ilkay/">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Robert Beverly.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly, Ph.D., M.S. — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
+        <br>
+        <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=rbeverly&org=OAC&from_org=OAC">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Julia Lane.png" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Julia Lane, Ph.D., M.A. — Professor, NYU Wagner Graduate School of Public Service </p> <p>Julia is a tenured full Professor at the NYU Wagner Graduate School of Public Service. She also serves on the Secretary of Labor’s Workforce Innovation Advisory Committee and the National Science Foundation’s Advisory Committee on Cyberinfrastructure.
+        <br>
+        <a href="https://julialane.org/">Personal Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Travis Hoppe.jpeg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Travis Hoppe, Ph.D., M.S. — Assistant Director of AI Research and Development, White House Office of Science and Technology Policy (OSTP) </p> <p>Travis Hoppe is the Assistant Director of AI Research and Development at the White House Office of Science and Technology Policy (OSTP). Previously, he served as Associate Director for Data Science and Analytics at the National Center for Health Statistics within the Centers for Disease Control.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-### Participants
+#### Participants
 
 <div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
   <table>
@@ -348,21 +391,6 @@ The event will feature morning refreshments and a catered lunch. Specific detail
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Julia Lane.png" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;">Julia Lane, Ph.D., M.A. — Professor, NYU Wagner Graduate School of Public Service </p> <p>Julia is a tenured full Professor at the NYU Wagner Graduate School of Public Service. She also serves on the Secretary of Labor’s Workforce Innovation Advisory Committee and the National Science Foundation’s Advisory Committee on Cyberinfrastructure.
-        <br>
-        <a href="https://julialane.org/">Personal Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
         {% include figure.html path="assets/img/people/nairr/Kristian J. Hammond.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
@@ -384,37 +412,6 @@ The event will feature morning refreshments and a catered lunch. Specific detail
         <p style="font-weight: bold; font-size: 1.1em;"> Chaitanya K. Baru, Ph.D. — Senior Advisor, National Science Foundation (NSF) </p> <p>Chaitanya Baru is Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate. He joined NSF in October 2022 after a 25-year career at the San Diego Supercomputer Center, University of California, San Diego.
         <br>
         <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=cbaru&org=NSF&from_org=">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Robert Beverly.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly, Ph.D., M.S. — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
-        <br>
-        <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=rbeverly&org=OAC&from_org=OAC">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Julia Stoyanovich.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Julia Stoyanovich, Ph.D., M.S. — Associate Professor, Director of the Center for Responsible AI, New York University (NYU) </p> <p>
-        Julia Stoyanovich is an Associate Professor in the Department of Computer Science and Engineering at the Tandon School of Engineering, and the Center for Data Science. She’s also the Director of the Center for Responsible AI at New York University.
-        <br>
-        <a href="https://stoyanovich.org/">Personal Website</a></p>
       </td>
     </tr>
   </table>
@@ -476,19 +473,6 @@ The event will feature morning refreshments and a catered lunch. Specific detail
         <p style="font-weight: bold; font-size: 1.1em;"> Bronson Messer, Ph.D. — Distinguished Scientist and Director of Science, Oak Ridge Leadership Computing Facility (OLCF) at ORNL / Professor, University of Tennessee </p> <p>Bronson Messer is a Distinguished Scientist and Director of Science at the Oak Ridge Leadership Computing Facility (OLCF) at Oak Ridge National Laboratory. He is also Joint Faculty Professor in the Department of Physics & Astronomy at the University of Tennessee.
         <br>
         <a href="https://www.olcf.ornl.gov/directory/staff-member/bronson-messer/">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Travis Hoppe.jpeg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Travis Hoppe, Ph.D., M.S. — Assistant Director of AI Research and Development, White House Office of Science and Technology Policy (OSTP) </p> <p>Travis Hoppe is the Assistant Director of AI Research and Development at the White House Office of Science and Technology Policy (OSTP). Previously, he served as Associate Director for Data Science and Analytics at the National Center for Health Statistics within the Centers for Disease Control.</p>
       </td>
     </tr>
   </table>
@@ -624,21 +608,6 @@ The event will feature morning refreshments and a catered lunch. Specific detail
         <p style="font-weight: bold; font-size: 1.1em;"> Katie Shilton, Ph.D., MLIS — Professor, Program Co-Director, College of Information Studies, University of Maryland </p> <p>Katie Shilton is a Professor and Program Co-Director of the Bachelor’s Program in Social Data Science at the University of Maryland. She also leads the Ethics & Values in Design (EViD) Lab and Principal Investigator of the PERVADE project, a multi-campus collaboration focused on big data research ethics.
         <br>
         <a href="https://ischool.umd.edu/directory/katie-shilton/">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Ilkay Altintas.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş, Ph.D.— Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
-        <br>
-        <a href="https://words.sdsc.edu/ilkay/">Institutional Website</a></p>
       </td>
     </tr>
   </table>
