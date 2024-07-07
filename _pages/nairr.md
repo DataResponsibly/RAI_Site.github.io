@@ -44,8 +44,9 @@ For background, please refer to the following resources
 - <a href="https://new.nsf.gov/focus-areas/artificial-intelligence/nairr">NAIRR Pilot website</a> 
 - <a href="https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf">NAIRR Task Force Report</a>
 - <a href="https://doi.org/10.6028/NIST.AI.100-1">NIST AI Risk Management Framework (AI RMF 1.0)</a>
-- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/">Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</a>
 - <a href="https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf">Blueprint for the AI Bill of Rights</a>
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/">Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</a>
+- <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf">Executive Office of the President, Office of Management and Budget (OMB) Memorandum on Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence</a>
 
 #### Agenda
 
