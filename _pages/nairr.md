@@ -13,7 +13,7 @@ nav: false
 
 #### Workshop Goals and Broad Overview
 
-On July 29-August 1, 2024, an in-person workshop of leading experts in
+On July 29-31, 2024, an in-person workshop of leading experts in
 responsible AI technology and policy will be convened at New York
 University, to obtain community feedback regarding policies and best
 practices, and inform the development of priorities and policies for
