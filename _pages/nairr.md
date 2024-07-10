@@ -143,21 +143,6 @@ For background, please refer to the following resources
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Julia Lane.png" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;">Julia Lane, Ph.D., M.A. — Professor, NYU Wagner Graduate School of Public Service </p> <p>Julia is a tenured full Professor at the NYU Wagner Graduate School of Public Service. She also serves on the Secretary of Labor’s Workforce Innovation Advisory Committee and the National Science Foundation’s Advisory Committee on Cyberinfrastructure.
-        <br>
-        <a href="https://julialane.org/">Personal Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
         {% include figure.html path="assets/img/people/nairr/Travis Hoppe.jpeg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
@@ -169,6 +154,21 @@ For background, please refer to the following resources
 
 
 #### Participants
+
+<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Julia Lane.png" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Julia Lane, Ph.D., M.A. — Professor, NYU Wagner Graduate School of Public Service </p> <p>Julia is a tenured full Professor at the NYU Wagner Graduate School of Public Service. She also serves on the Secretary of Labor’s Workforce Innovation Advisory Committee and the National Science Foundation’s Advisory Committee on Cyberinfrastructure.
+        <br>
+        <a href="https://julialane.org/">Personal Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
   <table>
@@ -639,21 +639,6 @@ For background, please refer to the following resources
         <p style="font-weight: bold; font-size: 1.1em;"> H V Jagadish, Ph.D. — Director of the Michigan Institute for Data Science, University of Michigan </p> <p>H V Jagadish is the Director of the Michigan Institute for Data Science and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at University of Michigan.
         <br>
         <a href="https://web.eecs.umich.edu/~jag/">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Robert Grossman.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Robert Grossman, Ph.D. — Frederick H. Rawson Professor of Medicine and Computer Science and Jim and Karen Frank Director of the Center for Translational Data Science (CTDS), University of Chicago </p> <p>Robert Grossman is Frederick H. Rawson Distinguished Service Professor of Medicine and Computer Science and the Jim and Karen Frank Director of the Center for Translational Data Science (CTDS) at the University of Chicago. He also serves as Chief of the Section of Biomedical Data Science in the Department of Medicine at the University of Chicago.
-        <br>
-        <a href="https://cs.uchicago.edu/people/robert-grossman/">Institutional Website</a></p>
       </td>
     </tr>
   </table>
