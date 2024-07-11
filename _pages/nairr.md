@@ -771,7 +771,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Christine Cutillo.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Christine Cutillo, MiM—Data Science Lead, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health </p> <p>Christine Cutillo is Data Science Lead at the National Center for Advancing Translational Sciences (NCATS) within the Office of Data Science Strategy at the National Institutes of Health (NIH).
+        <p style="font-weight: bold; font-size: 1.1em;"> Christine Cutillo — Data Science Lead, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health </p> <p>Christine Cutillo is Data Science Lead at the National Center for Advancing Translational Sciences (NCATS) within the Office of Data Science Strategy at the National Institutes of Health (NIH).
         <br>
         <a href="https://datascience.nih.gov/mentormonday-christine-cutillo">Institutional Website</a></p>
       </td>
