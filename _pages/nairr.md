@@ -91,7 +91,7 @@ For background, please refer to the following resources
 ***  
 
 
-#### Workshop Leads
+#### Workshop Lead
 
 <div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
   <table>
@@ -108,6 +108,8 @@ For background, please refer to the following resources
     </tr>
   </table>
 </div>
+
+#### Advisors
 
 <div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
   <table>
