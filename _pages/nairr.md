@@ -100,8 +100,8 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Julia Stoyanovich.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Julia Stoyanovich, Ph.D., M.S. — Associate Professor, Director of the Center for Responsible AI, New York University (NYU) </p> <p>
-        Julia Stoyanovich is an Associate Professor in the Department of Computer Science and Engineering at the Tandon School of Engineering, and the Center for Data Science. She’s also the Director of the Center for Responsible AI at New York University.
+        <p style="font-weight: bold; font-size: 1.1em;"> Julia Stoyanovich - Associate Professor and Director of the Center for Responsible AI, New York University (NYU) </p> <p>
+        Julia Stoyanovich is an Institute Associate Professor in the Department of Computer Science and Engineering at the Tandon School of Engineering, and an Associate Professor of Data Science at the Center for Data Science at New York University. She also directs the NYU Tandon Center for Responsible AI.
         <br>
         <a href="https://airesponsibly.net/people/julia/">Institutional Website</a></p>
       </td>
@@ -116,7 +116,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Ilkay Altintas.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş, Ph.D.— Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
+        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş — Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
         <br>
         <a href="https://words.sdsc.edu/ilkay/">Institutional Website</a></p>
       </td>
@@ -131,7 +131,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Robert Beverly.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly, Ph.D., M.S. — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
+        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
         <br>
         <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=rbeverly&org=OAC&from_org=OAC">Institutional Website</a></p>
       </td>
@@ -146,7 +146,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Travis Hoppe.jpeg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Travis Hoppe, Ph.D., M.S. — Assistant Director of AI Research and Development, White House Office of Science and Technology Policy (OSTP) </p> <p>Travis Hoppe is the Assistant Director of AI Research and Development at the White House Office of Science and Technology Policy (OSTP). Previously, he served as Associate Director for Data Science and Analytics at the National Center for Health Statistics within the Centers for Disease Control.</p>
+        <p style="font-weight: bold; font-size: 1.1em;"> Travis Hoppe — Assistant Director of AI Research and Development, White House Office of Science and Technology Policy (OSTP) </p> <p>Travis Hoppe is the Assistant Director of AI Research and Development at the White House Office of Science and Technology Policy (OSTP).</p>
       </td>
     </tr>
   </table>
@@ -162,7 +162,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Julia Lane.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;">Julia Lane, Ph.D., M.A. — Professor, NYU Wagner Graduate School of Public Service </p> <p>Julia is a tenured full Professor at the NYU Wagner Graduate School of Public Service. She also serves on the Secretary of Labor’s Workforce Innovation Advisory Committee and the National Science Foundation’s Advisory Committee on Cyberinfrastructure.
+        <p style="font-weight: bold; font-size: 1.1em;">Julia Lane — Professor, NYU Wagner Graduate School of Public Service </p> <p>Julia is a tenured full Professor at the NYU Wagner Graduate School of Public Service.  She recently served on the Advisory Committee on Data for Evidence Building and the National AI Research Resources Task Force.
         <br>
         <a href="https://julialane.org/">Personal Website</a></p>
       </td>
