@@ -8,7 +8,7 @@ nav: false
 
 ### Community-Informed Policies and Best-Practices for the National Artificial Intelligence Research Resource (NAIRR) Pilot
 
-{% include figure.html people-profile=false path="/assets/img/banner/M5-banner.png" class="img-fluid" width="600px" robot=false %}
+{% include figure.html people-profile=false path="/assets/img/banner/M5-banner.png" class="img-fluid" width="850px" robot=false %}
 <br>
 
 #### Workshop Goals and Broad Overview
@@ -41,7 +41,8 @@ Network</a>.
 
 For background, please refer to the following resources
 
-- <a href="https://new.nsf.gov/focus-areas/artificial-intelligence/nairr">NAIRR Pilot website</a> 
+- <a href="https://new.nsf.gov/focus-areas/artificial-intelligence/nairr">NAIRR website</a>
+- <a href="https://nairrpilot.org/about">NAIRR Pilot website</a>
 - <a href="https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf">NAIRR Task Force Report</a>
 - <a href="https://doi.org/10.6028/NIST.AI.100-1">NIST AI Risk Management Framework (AI RMF 1.0)</a>
 - <a href="https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf">Blueprint for the AI Bill of Rights</a>
@@ -60,17 +61,20 @@ For background, please refer to the following resources
 
 ##### July 29, 2024
 
-- **4:00 - 4:30 PM**: Arrival, Registration  
-- **4:30 - 6:30 PM**: Opening Reception  
+- **4:00 - 4:30 PM**: Arrival, registration  
+- **4:30 - 6:30 PM**: Opening reception  
 
 ##### July 30, 2024
 
 - **9:00 am - 9:30 am**: Arrival, registration, breakfast  
-- **9:30 am- 9:45 am**: Welcome and opening remarks (Julia Stoyanovich)
+- **9:30 am- 9:45 am**: Welcome and opening remarks
+   - Julia Stoyanovich
 - **9:45 am - 10:30 am**: Introductions
-- **10:30 am - 11:00 am**: NAIRR Task Force panel (Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar)
+- **10:30 am - 11:00 am**: NAIRR Task Force panel
+   - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar
 - **11:00 am - 11:15 am**: Open discussion
-- **11:15 am - 11:30 am**: NAIRR Pilot Implementation Plan (Robert Beverly and Alejandro Suarez)
+- **11:15 am - 11:30 am**: NAIRR Pilot Implementation Plan
+   - Robert Beverly and Alejandro Suarez
 - **11:30 am - 11:45 am**: Overview of afternoon activities, open discussion
 - **11:45 am - 12:00 pm**: Break
 - **12:00 pm - 2:30 pm**: Breakout sessions, with lunch
@@ -774,20 +778,6 @@ For background, please refer to the following resources
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Wendy Huntoon.jpeg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Wendy Huntoon — CI Team Lead, American Indian Higher Education Consortium (AIHEC) </p> <p>Wendy Huntoon is CI Team Lead at the American Indian Higher Education Consortium (AIHEC). She is also co-Principal Investigator on the NSF funded Women in IT Networking at SC (WINS), a project aimed at addressing the prevalent gender gap that exists in Information Technology (IT).</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
         {% include figure.html path="assets/img/people/nairr/William D. Gropp.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
@@ -833,19 +823,19 @@ For background, please refer to the following resources
 
 #### Local Organizers
 
-**Andrew Bell**, NYU Tandon School of Engineering <a href="https://airesponsibly.net/people/andrew/">Institutional Website</a>
+**Andrew Bell**, NYU Tandon School of Engineering <a href="https://airesponsibly.net/people/andrew/" target="new">Institutional Website</a>
 
 **Caterina Fuligni**, NYU Tandon School of Engineering
 
 **Chastity Hidalgo**, NYU Center for Data Science
 
-**Lucas Rosenblatt**, NYU Tandon School of Engineering  <a href="https://airesponsibly.net/people/lucas/">Institutional Website</a>
+**Lucas Rosenblatt**, NYU Tandon School of Engineering  <a href="https://airesponsibly.net/people/lucas/" target="new">Institutional Website</a>
 
-**Lucius Bynum**, NYU Center for Data Science  <a href="https://airesponsibly.net/people/lucius/">Institutional Website</a>
+**Lucius Bynum**, NYU Center for Data Science  <a href="https://airesponsibly.net/people/lucius/" target="new">Institutional Website</a>
 
 **Sarah Lawson**, NYU Tandon School of Engineering
 
-**Venetia Pliatskia**, NYU Tandon School of Engineering  <a href="https://airesponsibly.net/people/venetia/">Institutional Website</a>
+**Venetia Pliatskia**, NYU Tandon School of Engineering  <a href="https://airesponsibly.net/people/venetia/" target="new">Institutional Website</a>
 
 <h5>Questions?</h5>
 
