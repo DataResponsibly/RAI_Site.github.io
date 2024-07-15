@@ -6,23 +6,24 @@ description:
 nav: false
 ---
 
-### Community-Informed Policies and Best-Practices for the National Artificial Intelligence Research Resource (NAIRR) Pilot
+### Community-Informed Policies and Best-Practices for the National Artificial Intelligence Research Resource (NAIRR)
 
 {% include figure.html people-profile=false path="/assets/img/banner/M5-banner.png" class="img-fluid" width="850px" robot=false %}
 <br>
 
 #### Workshop Goals and Broad Overview
 
-On July 29-31, 2024, an in-person workshop of leading experts in
-responsible AI technology and policy will be convened at New York
-University.  The goals of this workshop are to to obtain community
+On July 29-31, 2024, an in-person workshop will be convened at New
+York University, bringing together leading experts in the
+cyberinfrastructure and AI policy / governance / responsible AI
+communities.  The goals of this workshop are to to obtain community
 feedback regarding policies and best practices, and inform the
 development of priorities and policies for the National AI Research
-Resource (NAIRR) Pilot. By convening a diverse group of stakeholders
-to offer their perspectives, the workshop will provide suggestions for
+Resource (NAIRR). By convening a diverse group of stakeholders to
+offer their perspectives, the workshop will provide suggestions for
 improving the trustworthiness of the resources that are components of
-the Pilot, and for supporting the equitable use of these resources by
-a diverse group of researchers and students. 
+the NAIRR, and for supporting the equitable use of these resources by
+a diverse group of researchers and students.
 
 This workshop is convened by <a
 href="https://airesponsibly.net/people/julia/">Prof. Julia
@@ -71,15 +72,15 @@ For background, please refer to the following resources
    - Julia Stoyanovich
 - **9:45 am - 10:30 am**: Introductions
 - **10:30 am - 11:00 am**: NAIRR Task Force panel
-   - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar
+<!--   - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar -->
 - **11:00 am - 11:15 am**: Open discussion
-- **11:15 am - 11:30 am**: NAIRR Pilot Implementation Plan
+- **11:15 am - 11:30 am**: Update on the NAIRR
    - Robert Beverly and Alejandro Suarez
 - **11:30 am - 11:45 am**: Overview of afternoon activities, open discussion
 - **11:45 am - 12:00 pm**: Break
 - **12:00 pm - 2:30 pm**: Breakout sessions, with lunch
-   - Pilot operations: Room 204
-   - Assessing Pilot performance: Room 206
+   - NAIRR operations: Room 204
+   - Assessing progress towards advancing trustworthy AI: Room 206
    - Community engagement: Room 446
    - Engaging with industry partners: Room 650
 - **2:30 pm - 3:00 pm**: Coffee break
@@ -91,13 +92,14 @@ For background, please refer to the following resources
 
 - **9:00 am - 9:30 am**: Arrival, breakfast
 - **9:30 am - 9:45 am**: Welcome back, recap, and overview of the day’s activities
-- **9:45 am - 10:15 am**: NAIRR Pilot partner and contributor panel <!-- (Christine Cutillo, Yacine Jernite, Govind Shivkumar) -->
+- **9:45 am - 10:15 am**: NAIRR Pilot partner and contributor panel
+<!-- - Bronson Messer, Carol Song, Christine Cutillo, Govind Shivkumar, Yacine Jernite -->
 - **10:15 am - 10:30 am**: Open discussion
 - **10:30 am - 12:30 pm**: Breakout sessions
    - Transparency: Room 204
-   - Equity: Room 206
+   - NAIRR as a Data Equity System: Room 206
    - Education and training: Room 446
-   - Generative AI: Room 650
+   - Responsible Development and USe of Generative AI: Room 650
 - **12:30 pm - 1:30 pm**: Plenary readout and discussion, with lunch   
 - **13:30 pm - 1:45 pm**: Open discussion
 - **1:45 pm - 2:00 pm**: Workshop closing, adjourn
@@ -109,7 +111,7 @@ For background, please refer to the following resources
 
 ***  
 
-#### Workshop Lead
+#### Workshop lead
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
@@ -126,52 +128,6 @@ For background, please refer to the following resources
     </tr>
   </table>
 </div>
-
-#### Advisors
-
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Ilkay Altintas.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş — Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
-        <br>
-        <a href="https://words.sdsc.edu/ilkay/">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Robert Beverly.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
-        <br>
-        <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=rbeverly&org=OAC&from_org=OAC">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Travis Hoppe.jpeg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Travis Hoppe — Assistant Director of AI Research and Development, White House Office of Science and Technology Policy (OSTP) </p> <p>Travis Hoppe is the Assistant Director of AI Research and Development at the White House Office of Science and Technology Policy (OSTP).</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 #### Participants
 
@@ -439,9 +395,24 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/H V Jagadish.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> H V Jagadish — Director of the Michigan Institute for Data Science, University of Michigan </p> <p>H V Jagadish is the Director of the Michigan Institute for Data Science and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at University of Michigan.
+        <p style="font-weight: bold; font-size: 1.1em;"> HV Jagadish — Director of the Michigan Institute for Data Science, University of Michigan </p> <p>HV Jagadish is the Director of the Michigan Institute for Data Science and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at University of Michigan.
         <br>
         <a href="https://web.eecs.umich.edu/~jag/">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Ilkay Altintas.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş — Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
+        <br>
+        <a href="https://words.sdsc.edu/ilkay/">Institutional Website</a></p>
       </td>
     </tr>
   </table>
@@ -632,7 +603,7 @@ For background, please refer to the following resources
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Pete Beckman — Senior Scientist, Argonne National Laboratory </p>
-	<p>Pete Beckman is a Senior Scientist at the ARgonne National Laboratory.  He was the founding co-director for the Northwestern University / Argonne Institute for Science and Engineering in 2012 and held that position for more than 12 years.
+	<p>Pete Beckman is a Senior Scientist at the Argonne National Laboratory.  He was the founding co-director for the Northwestern University / Argonne Institute for Science and Engineering in 2012 and held that position for more than 12 years.
         <br>
         <a href="https://www.anl.gov/profile/pete-beckman">Institutional Website</a></p>
       </td>
@@ -649,6 +620,21 @@ For background, please refer to the following resources
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Rayid Ghani — Distinguished Career Professor, Carnegie Mellon University </p> <p> Rayid Ghani is a Professor in the Machine Learning Department (in the School of Computer Science) and the Heinz College of Information Systems and Public Policy at Carnegie Mellon University and leads the Data Science and Public Policy Group as well as the Data Science for Social Good Program. He’s also the co-lead of the Responsible AI Initiative at CMU.</p>
         <a href="https://www.rayidghani.com/">Personal Website</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Robert Beverly.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
+        <br>
+        <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=rbeverly&org=OAC&from_org=OAC">Institutional Website</a></p>
       </td>
     </tr>
   </table>
@@ -763,6 +749,19 @@ For background, please refer to the following resources
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Travis Hoppe.jpeg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Travis Hoppe — Assistant Director of AI Research and Development, White House Office of Science and Technology Policy (OSTP) </p> <p>Travis Hoppe is the Assistant Director of AI Research and Development at the White House Office of Science and Technology Policy (OSTP).</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
         {% include figure.html path="assets/img/people/nairr/Varun Chandola.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
@@ -836,6 +835,8 @@ For background, please refer to the following resources
 **Sarah Lawson**, NYU Tandon School of Engineering
 
 **Venetia Pliatskia**, NYU Tandon School of Engineering  <a href="https://airesponsibly.net/people/venetia/" target="new">Institutional Website</a>
+
+#### Breakout sessions
 
 <h5>Questions?</h5>
 
