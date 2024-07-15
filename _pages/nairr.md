@@ -111,7 +111,7 @@ For background, please refer to the following resources
 
 #### Workshop Lead
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -129,7 +129,7 @@ For background, please refer to the following resources
 
 #### Advisors
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -144,7 +144,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -159,7 +159,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -175,7 +175,7 @@ For background, please refer to the following resources
 
 #### Participants
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -191,7 +191,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -207,7 +207,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -222,7 +222,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -237,7 +237,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -252,7 +252,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -267,7 +267,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -282,7 +282,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -297,7 +297,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -313,7 +313,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -328,7 +328,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -343,7 +343,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -358,7 +358,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -373,7 +373,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -387,7 +387,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -402,7 +402,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -417,7 +417,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -432,7 +432,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -447,7 +447,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -462,7 +462,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -477,7 +477,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -492,7 +492,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -507,7 +507,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -522,7 +522,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -537,7 +537,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -552,7 +552,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -565,7 +565,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -580,7 +580,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -595,7 +595,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -609,7 +609,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -624,7 +624,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -640,7 +640,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -654,7 +654,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -669,7 +669,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -684,7 +684,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -699,7 +699,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -714,7 +714,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -730,7 +730,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -746,7 +746,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -759,7 +759,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -774,7 +774,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -789,7 +789,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -804,7 +804,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #ffd5d5; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
