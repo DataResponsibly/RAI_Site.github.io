@@ -79,10 +79,10 @@ For background, please refer to the following resources
 - **11:30 am - 11:45 am**: Overview of afternoon activities, open discussion
 - **11:45 am - 12:00 pm**: Break
 - **12:00 pm - 2:30 pm**: Breakout sessions, with lunch
-   - NAIRR operations: Room 204
-   - Assessing progress towards advancing trustworthy AI: Room 206
-   - Community engagement: Room 446
-   - Engaging with industry partners: Room 650
+   - [NAIRR operations](#room1): Room 204
+   - [Assessing progress towards advancing trustworthy AI](#room2): Room 206
+   - [Community engagement](#room3): Room 446
+   - [Engaging with industry partners](#room4): Room 650
 - **2:30 pm - 3:00 pm**: Coffee break
 - **3:00 pm - 4:00 pm**: Plenary readout and discussion
 - **4:00 pm - 4:15 pm**: Summary remarks
@@ -96,10 +96,10 @@ For background, please refer to the following resources
 <!-- - Bronson Messer, Carol Song, Christine Cutillo, Govind Shivkumar, Yacine Jernite -->
 - **10:15 am - 10:30 am**: Open discussion
 - **10:30 am - 12:30 pm**: Breakout sessions
-   - Transparency: Room 204
-   - NAIRR as a Data Equity System: Room 206
-   - Education and training: Room 446
-   - Responsible Development and USe of Generative AI: Room 650
+   - [Transparency as an enabler of trustworthy AI](#room5): Room 204
+   - [The NAIRR as a data equity infrastructure](#room6): Room 206
+   - [Education and training](#room7): Room 446
+   - [Responsible development and use of generative AI](#room8): Room 650
 - **12:30 pm - 1:30 pm**: Plenary readout and discussion, with lunch   
 - **13:30 pm - 1:45 pm**: Open discussion
 - **1:45 pm - 2:00 pm**: Workshop closing, adjourn
@@ -111,7 +111,7 @@ For background, please refer to the following resources
 
 ***  
 
-#### Workshop lead
+#### Workshop Lead
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
   <table>
@@ -836,7 +836,97 @@ For background, please refer to the following resources
 
 **Venetia Pliatskia**, NYU Tandon School of Engineering  <a href="https://airesponsibly.net/people/venetia/" target="new">Institutional Website</a>
 
-#### Breakout sessions
+#### Breakout Sessions
+
+<h5 id=room1>Session 1: NAIRR operations</h5>
+
+**Summary:** The NAIRR is envisioned as a national cyberinfrastructure
+  to democratize and accelerate AI R&D.  Its success is predicated on
+  an effective operational strategy, which must align with the four
+  measurable goals of the NAIRR, and, specifically, with advancing
+  trustworthy AI - through its own operations and also as an enabler
+  of trustworthy AI research.
+
+
+<h5 id=room2>Session 2: Assessing progress towards trustworthy AI</h5>
+
+**Summary:** The NAIRR Task Force report presents a theory of change and
+proposes key performance indicators (KPIs) to assess progress towards
+the four measurable goals.  Yet, progress towards trustworthy AI is
+particularly challenging to assess, due to the complex socio-technical
+dynamics, and to the impacts that a cyberinfrastructure has that are
+outside the system’s direct control.  Developing assessment
+methodologies and defining performance indicators requires a robust
+dialogue between the responsible AI and cyberinfrastructure
+communities.
+
+<h5 id=room3>Session 3: Community engagement</h5>
+
+**Summary:** The NAIRR aims to democratize access to the AI innovation
+  ecosystem. The NAIRR Task Force report identifies US-based
+  researchers, educators, students, and small and medium-sized
+  businesses as its primary constituency.  Additionally, in alignment
+  with the goals of protecting privacy, civil rights and civil
+  liberties, and of ensuring that AI development benefits society at
+  large, there is a need to give a voice to the individuals and groups
+  whose data fuels the ecosystem.
+
+<h5 id=room4>Session 4: Engaging industry partners</h5>
+
+**Summary:** The White House Executive Order directs the NSF to
+  promote innovation by developing and strengthening “public-private
+  partnerships for advancing innovation, commercialization, and
+  risk-mitigation methods for AI” and by helping promote “safe,
+  responsible, fair, privacy-protecting and trustworthy AI systems.”
+  Thus, engaging industry partners is both a priority and a necessity
+  for the NAIRR.
+
+<h5 id=room5>Session 5: Transparency as an enabler of trustworthy AI</h5>
+
+**Summary:** Transparency is concerned with providing the information
+  that stakeholders need to make informed, responsible, and ethical
+  decisions for data and model development, sharing, and reuse.
+  Transparency is a big-tent concept that may be interpreted
+  differently depending on the stakeholders, the context of use, and
+  the applicable legal and ethical considerations.  In the context of
+  the NAIRR, an actionable interpretation of transparency centers on
+  the role of data, model, and lifecycle documentation as an enabler of
+  trustworthy AI.
+
+<h5 id=room6>Session 6: The NAIRR as a data equity infrastructure</h5>
+
+The NAIRR aims to democratize access to datasets and data products
+(most prominently, models) to accelerate AI R&D while facilitating
+their responsible sharing and use.  Data equity is concerned with the
+identification and, when possible, mitigation of biases in data and
+models.  Importantly, because data and models are created by complex
+multi-step processes, and are often re-purposed, bias detection and
+mitigation requires lifecycle-wide support.
+
+<h5 id=room7>Session 7: Education and training</h5>
+
+**Summary:** Education and training are essential for meeting all four
+measurable goals of the NAIRR.  As a cyberinfrastructure, the NAIRR
+will offers training capabilities to ensure that its users have the
+skills to use the resources.  However, to advance the goals of
+trustworthy AI, it is crucial to train researchers and students on the
+principles and techniques of responsible data engineering, algorithmic
+fairness, transparency, and privacy and data protection.  This type of
+training should also be offered to current data scientists,
+particularly those who work in small and medium-sized businesses,
+which typically cannot afford the necessary upskilling of their staff.
+ 
+<h5 id=room8>Session 8: Responsible development and use of generative AI</h5>
+
+**Summary:** Generative AI is seeing ever more research activity and
+  ever broader commercial adoption.  To put generative AI into safe
+  use as part of the NAIRR, it is essential to articulate robust
+  policies and best practices for assessing its performance, in terms
+  of veracity, safety, fairness, reproducibility, and legal
+  compliance.  Further, it is crucial to develop technical support for
+  the evaluation of systems of which generative AI models form part,
+  rather than of these models in isolation, to assess their impacts in
+  the context of design, development and use.
 
 <h5>Questions?</h5>
 
