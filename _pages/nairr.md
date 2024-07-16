@@ -245,9 +245,9 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Christine Cutillo.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Christine Cutillo — Data Science Lead, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health </p> <p>Christine Cutillo is Data Science Lead at the National Center for Advancing Translational Sciences (NCATS) within the Office of Data Science Strategy at the National Institutes of Health (NIH).
+        <p style="font-weight: bold; font-size: 1.1em;"> Christine Cutillo — Health Data Scientist for AI Ethics, Office of Data Science Strategy (ODSS), National Institutes of Health</p> <p>Christine Cutillo is a Health Data Scientist for AI Ethics in the Office of Data Science Strategy (ODSS), within the Integrated Infrastructure and Emerging Technologies (IIET) unit. She is responsible for multidisciplinary NIH-wide AI Ethics efforts – focusing on integrating ethics through the AI lifecycle in biomedical research applications.
         <br>
-        <a href="https://datascience.nih.gov/mentormonday-christine-cutillo">Institutional Website</a></p>
+        <a href="https://datascience.nih.gov/about/staff">Institutional Website</a></p>
       </td>
     </tr>
   </table>
@@ -647,9 +647,9 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Becky Boyles.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Rebecca Boyles — Founding Director, Center for Data Modernization Solutions, RTI International </p> <p>Rebecca Boyles is the Founding Director of the Center for Data Modernization Solutions at RTI International. Her mission is to transform and upgrade the data infrastructure of large public health and scientific agencies, enabling them to leverage data for better decision-making, research, and policy.
+        <p style="font-weight: bold; font-size: 1.1em;"> Rebecca Boyles — Deputy Director, Renaissance Computing Institute (RENCI), University of North Carolina at Chapel Hill</p> <p> Rebecca Boyles is the Deputy Director of the Renaissance Computing Institute at UNC Chapel Hill.  Prior to joining RENCI, she was the Founding Director of the Center for Data Modernization Solutions at RTI International. Her mission is to transform and upgrade the data infrastructure of large public health and scientific agencies, enabling them to leverage data for better decision-making, research, and policy.
         <br>
-        <a href="https://www.rti.org/expert/rebecca-boyles">Institutional Website</a></p>
+        <a href="https://renci.org/news/leading-data-science-expert-joins-renci-as-deputy-director/">Institutional Website</a></p>
       </td>
     </tr>
   </table>
