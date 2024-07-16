@@ -245,7 +245,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Christine Cutillo.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Christine Cutillo — Health Data Scientist for AI Ethics, Office of Data Science Strategy (ODSS), National Institutes of Health</p> <p>Christine Cutillo is a Health Data Scientist for AI Ethics in the Office of Data Science Strategy (ODSS), within the Integrated Infrastructure and Emerging Technologies (IIET) unit. She is responsible for multidisciplinary NIH-wide AI Ethics efforts – focusing on integrating ethics through the AI lifecycle in biomedical research applications.
+        <p style="font-weight: bold; font-size: 1.1em;"> Christine Cutillo — Health Data Scientist for AI Ethics, Office of Data Science Strategy (ODSS), National Institutes of Health (NIH)</p> <p>Christine Cutillo is a Health Data Scientist for AI Ethics in the Office of Data Science Strategy (ODSS), within the Integrated Infrastructure and Emerging Technologies (IIET) unit. She is responsible for multidisciplinary NIH-wide AI Ethics efforts – focusing on integrating ethics through the AI lifecycle in biomedical research applications.
         <br>
         <a href="https://datascience.nih.gov/about/staff">Institutional Website</a></p>
       </td>
