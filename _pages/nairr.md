@@ -318,7 +318,7 @@ For background, please refer to the following resources
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Dawn Thurman.jpg" class="img-fluid " nairr-people=true %}
+        {% include figure.html path="assets/img/people/nairr/Dawn.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Dawn Thurman — Associate Professor, Morgan State University </p> <p>Dawn Thurman is an Associate Professor at Morgan State University and a dedicated social work professional.
@@ -336,7 +336,8 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Divesh Srivastava.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Divesh Srivastava — Head of Database Research, AT&T Labs-Research </p> <p>Divesh Srivastava is the head of the Database Research Department at AT&T Labs-Research. He is on the board of trustees of the VLDB Endowment, the associate Editor-in-Chief of the IEEE Transactions on Knowledge and Data Engineering, and an associate editor of the ACM Transactions on Database Systems.</p>
+        <p style="font-weight: bold; font-size: 1.1em;"> Divesh Srivastava — Head of Database Research, AT&T</p> <p>
+Divesh Srivastava is the head of the Database Research Department at AT&T.  He is the President of the VLDB Endowment and co-chair of the ACM Publications Board.</p>
         <a href="https://divesh.net/">Personal Website</a>
       </td>
     </tr>
