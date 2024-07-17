@@ -72,7 +72,7 @@ For background, please refer to the following resources
    - Julia Stoyanovich
 - **9:45 am - 10:30 am**: Introductions
 - **10:30 am - 11:00 am**: NAIRR Task Force panel
-<!--   - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar -->
+  - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar
 - **11:00 am - 11:15 am**: Open discussion
 - **11:15 am - 11:30 am**: Update on the NAIRR
    - Robert Beverly and Alejandro Suarez
@@ -425,7 +425,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Jeanna Matthews.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Jeanna Matthews — Professor of Computer Science, Clarkson University / DuckDuckGo </p> <p>Jeanna Matthews is a full professor of computer science at Clarkson University and an affiliate at Data and Society. She is an ACM Distinguished Speaker, a Fulbright Specialist, founding co-chair of the ACM Technology Policy Subcommittee on Artificial Intelligence and Algorithm Accountability and a member of the ACM Technology Policy Committee.
+        <p style="font-weight: bold; font-size: 1.1em;"> Jeanna Matthews — Professor of Computer Science, Clarkson University / DuckDuckGo </p><p> Jeanna Matthews is a professor of computer science at Clarkson University. She is a a Chair of the IEEE-USA AI Policy Committee and a founding co-chair of the ACM Technology Policy Subcommittee on Artificial Intelligence and Algorithmic Accountability. She is a member of the NSF Computer and Information Science and Engineering Advisory Committee. 
         <br>
         <a href="https://www.clarkson.edu/people/jeanna-matthews">Institutional Website</a></p>
       </td>
@@ -570,11 +570,12 @@ For background, please refer to the following resources
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Michael E. Papka.jpg" class="img-fluid " nairr-people=true %}
+        {% include figure.html path="assets/img/people/nairr/MichaelGarris.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.</p> 
-        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a>
+        <p style="font-weight: bold; font-size: 1.1em;"> Michael Garris — Senior Principal AI and Autonomy Policy Analyst at MITRE</p><p>Michael Garris is a Senior Principal Artificial Intelligence and Autonomy Policy Analyst at MITRE.
+        <br>
+       </p>
       </td>
     </tr>
   </table>
@@ -590,6 +591,21 @@ For background, please refer to the following resources
         <p style="font-weight: bold; font-size: 1.1em;"> Michael Holland — Vice Chancellor for Science Policy and Research Strategies, University of Pittsburgh </p> <p>Michael Holland is the Vice Chancellor for Science Policy and Research Strategies at the University of Pittsburgh. Previously, he served as Executive Director of New York University’s Center for Urban Science and Progress.
         <br>
         <a href="https://www.research.pitt.edu/people/michael-holland">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Michael E. Papka.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.</p> 
+        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a>
       </td>
     </tr>
   </table>
@@ -677,7 +693,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Sergiu Sanielevici.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Sergiu Sanielevici — Director, Support for Scientific Applications, Pittsburgh Supercomputing Center (PSC) / co-PI, Carnegie Mellon University </p> <p>Sergiu Sanielevici is the Director of Support for Scientific Applications at the Pittsburgh Supercomputing Center (PSC). He currently serves as the Principal Investigator of the Bridges-2 project and as co- Principal Investigator of the Neocortex project at Carnegie Mellon University.
+        <p style="font-weight: bold; font-size: 1.1em;"> Sergiu Sanielevici — Director, Support for Scientific Applications, Pittsburgh Supercomputing Center (PSC), Carnegie Mellon University </p> <p>Sergiu Sanielevici is the Director of Support for Scientific Applications at the Pittsburgh Supercomputing Center (PSC). He currently serves as the Principal Investigator of the Bridges-2 project and as co-Principal Investigator of the Neocortex project at Carnegie Mellon University.
         <br>
         <a href="https://www.psc.edu/sergiu-sanielevici/">Institutional Website</a></p>
       </td>
@@ -780,7 +796,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/William D. Gropp.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> William D. Gropp — Director of the National Center for Supercomputing Applications, University of Illinois Urbana-Champaign </p> <p>William Douglas Gropp is the director of the National Center for Supercomputing Applications (NCSA) and Thomas M. Siebel Chair in the Department of Computer Science at the University of Illinois at Urbana–Champaign. He is also the founding Director of the Parallel Computing Institute.
+        <p style="font-weight: bold; font-size: 1.1em;"> William D. Gropp — Director of the National Center for Supercomputing Applications, University of Illinois Urbana-Champaign </p> <p>William Gropp is the director of the National Center for Supercomputing Applications (NCSA), holds a Grainger Distinguished Chair in Engineering, and is a professor in the Siebel School of Computing and Data at the University of Illinois at Urbana–Champaign.
         <br>
         <a href="https://wgropp.cs.illinois.edu/">Institutional Website</a></p>
       </td>
