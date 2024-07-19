@@ -75,7 +75,7 @@ For background, please refer to the following resources
   - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar
 - **11:00 am - 11:15 am**: Open discussion
 - **11:15 am - 11:30 am**: Update on the NAIRR
-   - Robert Beverly and Alejandro Suarez
+   - William Miller and Alejandro Suarez
 - **11:30 am - 11:45 am**: Overview of afternoon activities, open discussion
 - **11:45 am - 12:00 pm**: Break
 - **12:00 pm - 2:30 pm**: Breakout sessions, with lunch
@@ -96,10 +96,10 @@ For background, please refer to the following resources
 <!-- - Bronson Messer, Carol Song, Christine Cutillo, Govind Shivkumar, Yacine Jernite -->
 - **10:15 am - 10:30 am**: Open discussion
 - **10:30 am - 12:30 pm**: Breakout sessions
-   - [Transparency as an enabler of trustworthy AI](#room5): Room 204
-   - [The NAIRR as a data equity infrastructure](#room6): Room 206
+   - [The NAIRR as a data equity infrastructure](#room6): Room 204
+   - [Responsible development and use of generative AI](#room8): Room 206
    - [Education and training](#room7): Room 446
-   - [Responsible development and use of generative AI](#room8): Room 650
+   - [Transparency as an enabler of trustworthy AI](#room5): Room 650
 - **12:30 pm - 1:30 pm**: Plenary readout and discussion, with lunch   
 - **13:30 pm - 1:45 pm**: Open discussion
 - **1:45 pm - 2:00 pm**: Workshop closing, adjourn
@@ -348,6 +348,21 @@ Divesh Srivastava is the head of the Database Research Department at AT&T.  He i
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Elham.png" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Elham Tabassi —Associate Director for Emerging Technologies, Information Technology Laboratory, NIST</p><p>
+Elham Tabassi is a Senior Scientist at the National Institute of Standards and Technology (NIST) and the Associate Director for Emerging Technologies in the Information Technology Laboratory (ITL). She also leads NIST’s Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies.</p>
+        <a href="https://www.nist.gov/people/elham-tabassi">Institutional Website</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
         {% include figure.html path="assets/img/people/nairr/Fred Streitz.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
@@ -396,7 +411,7 @@ Divesh Srivastava is the head of the Database Research Department at AT&T.  He i
         {% include figure.html path="assets/img/people/nairr/H V Jagadish.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> HV Jagadish — Director of the Michigan Institute for Data Science, University of Michigan </p> <p>HV Jagadish is the Director of the Michigan Institute for Data Science and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at University of Michigan.
+        <p style="font-weight: bold; font-size: 1.1em;"> HV Jagadish — Director of the Michigan Institute for Data and AI in Society (MIDAS), University of Michigan </p> <p>HV Jagadish is the Director of the Michigan Institute for Data and AI in Society and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at University of Michigan.
         <br>
         <a href="https://web.eecs.umich.edu/~jag/">Institutional Website</a></p>
       </td>
