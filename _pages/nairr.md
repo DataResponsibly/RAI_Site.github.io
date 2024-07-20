@@ -947,7 +947,7 @@ mitigation requires lifecycle-wide support.
 
 <h5 id=room7>Session 7: Education and training</h5>
 
-**Moderators:** [Kristian Hammond](#KrisH) and TBD
+**Moderators:** [Kristian Hammond](#KrisH) and [Sergiu Sanielevici](#SergiuS)
 
 **Summary:** Education and training are essential for meeting all four
 measurable goals of the NAIRR.  As a cyberinfrastructure, the NAIRR
