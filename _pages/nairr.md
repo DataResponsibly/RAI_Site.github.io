@@ -25,17 +25,14 @@ improving the trustworthiness of the resources that are components of
 the NAIRR, and for supporting the equitable use of these resources by
 a diverse group of researchers and students.
 
-This workshop is convened by <a
-href="https://airesponsibly.net/people/julia/">Prof. Julia
-Stoyanovich</a>, and is co-hosted by the <a
+This workshop is convened by [Julia
+Stoyanovich](#JuliaS), and is co-hosted by the <a
 href="https://r-ai.co/">NYU Tandon Center for Responsible AI</a> and
 the <a href="https://cds.nyu.edu/">NYU Center for Data
 Science</a>. This workshop is supported by <a
 href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432040">NSF
 Award No. 2432040</a> and by <a href="https://omidyar.com/">Omidyar
 Network</a>.
-
-<!-- This workshop is convened by the National Science Foundation (NSF) and brings together representatives from multiple agencies and sectors to collaborate on the NAIRR Implementation Plan. The NSF leads this initiative through scientific, technical, and operational collaboration with various stakeholders to ensure a robust and effective governance framework for the NAIRR Pilot. -->
 
 
 #### Resources
@@ -69,13 +66,13 @@ For background, please refer to the following resources
 
 - **9:00 am - 9:30 am**: Arrival, registration, breakfast  
 - **9:30 am- 9:45 am**: Welcome and opening remarks
-   - Julia Stoyanovich
+   - [Julia Stoyanovich](#JuliaS)
 - **9:45 am - 10:30 am**: Introductions
 - **10:30 am - 11:00 am**: NAIRR Task Force panel
-  - Dan Stanzione, Daniela Braga, Fred Streitz, Julia Lane, and Manish Parashar
+  - [Dan Stanzione](#DanS), [Daniela Braga](#DanielaB), [Fred Streitz](#FredS), [Julia Lane](#JuliaL), and [Manish Parashar](#ManishP)
 - **11:00 am - 11:15 am**: Open discussion
 - **11:15 am - 11:30 am**: Update on the NAIRR
-   - William Miller and Alejandro Suarez
+   - [William Miller](#WilliamM) and [Alejandro Suarez](#AlejandroS)
 - **11:30 am - 11:45 am**: Overview of afternoon activities, open discussion
 - **11:45 am - 12:00 pm**: Break
 - **12:00 pm - 2:30 pm**: Breakout sessions, with lunch
@@ -93,6 +90,7 @@ For background, please refer to the following resources
 - **9:00 am - 9:30 am**: Arrival, breakfast
 - **9:30 am - 9:45 am**: Welcome back, recap, and overview of the day’s activities
 - **9:45 am - 10:15 am**: NAIRR Pilot partner and contributor panel
+     - [Bronson Messer](#BronsonM), [Carol Song](#CarolS), [Yacine Jernite](#YacineJ)
 <!-- - Bronson Messer, Carol Song, Christine Cutillo, Govind Shivkumar, Yacine Jernite -->
 - **10:15 am - 10:30 am**: Open discussion
 - **10:30 am - 12:30 pm**: Breakout sessions
@@ -113,7 +111,7 @@ For background, please refer to the following resources
 
 #### Workshop Lead
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=JuliaS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -131,7 +129,7 @@ For background, please refer to the following resources
 
 #### Participants
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=AlanB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -147,7 +145,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=AlejandroS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -163,7 +161,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=AlondraN>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -178,7 +176,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=AnitaN>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -193,7 +191,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=BronsonM>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -208,7 +206,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=CarolS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -223,7 +221,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=ChaitanB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -238,7 +236,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=ChristineC>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -253,7 +251,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DanS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -269,7 +267,7 @@ For background, please refer to the following resources
 </div>
 
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DanaeM>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -284,7 +282,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DanielaB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -299,7 +297,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DavidW>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -314,7 +312,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DawnT>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -329,7 +327,7 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DiveshS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -344,7 +342,7 @@ Divesh Srivastava is the head of the Database Research Department at AT&T.  He i
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=ElhamT>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -359,7 +357,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=FredS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -374,7 +372,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=GovindS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -389,7 +387,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=HelenN>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -404,7 +402,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=Jag>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -419,7 +417,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=IlkayA>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -434,7 +432,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=JeannaM>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -449,7 +447,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=JennW>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -464,7 +462,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=JoshT>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -479,7 +477,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=JoshG>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -494,7 +492,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=JuliaL>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -509,7 +507,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=KatieS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -524,7 +522,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=KrisH>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -539,7 +537,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=LauraC>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -552,7 +550,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=LeoP>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -567,7 +565,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=ManishP>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -582,7 +580,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=MichaelG>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -597,7 +595,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=MichaelH>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -613,7 +611,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
 </div>
 
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=MichaelP>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -627,7 +625,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=PeteB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -643,7 +641,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RayidG>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -657,7 +655,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RobertB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -672,7 +670,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=BeckyB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -687,14 +685,14 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RussellW>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
         {% include figure.html path="assets/img/people/nairr/Russell Wald.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Russel Wald — Deputy Director of Policy, Stanford’s Institute for Human-Centered Artificial Intelligence (HAI) </p> <p>Russell Wald is the Director of Policy for Stanford’s Institute for Human-Centered Artificial Intelligence (HAI). From 2020 - 2022 he served as HAI's first Director of Policy and later Managing Director for Policy and Society.
+        <p style="font-weight: bold; font-size: 1.1em;"> Russel Wald — Deputy Director, Stanford’s Institute for Human-Centered Artificial Intelligence (HAI) </p> <p>Russell Wald is the Deputy Director of Stanford’s Institute for Human-Centered Artificial Intelligence (HAI). From 2020 - 2022 he served as HAI's first Director of Policy and later Managing Director for Policy and Society.
         <br>
         <a href="https://hai.stanford.edu/people/russell-wald">Institutional Website</a></p>
       </td>
@@ -702,7 +700,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=SergiuS>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -717,7 +715,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=SolonB>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -732,7 +730,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=SriniP>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -748,7 +746,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=StefaanV>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -764,7 +762,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
 </div>
 
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=SuzetteK>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -777,7 +775,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=TravisH>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -790,7 +788,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=VarunC>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -805,7 +803,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=WilliamG>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -820,7 +818,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=WilliamM>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -835,7 +833,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;">
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=YacineJ>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
@@ -872,6 +870,8 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
 
 <h5 id=room1>Session 1: NAIRR operations</h5>
 
+**Moderators:** [Anita Nikolich](#AnitaN) and [Pete Beckman](#PeteB)
+
 **Summary:** The NAIRR is envisioned as a national cyberinfrastructure
   to democratize and accelerate AI R&D.  Its success is predicated on
   an effective operational strategy, which must align with the four
@@ -881,6 +881,8 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
 
 
 <h5 id=room2>Session 2: Assessing progress towards trustworthy AI</h5>
+
+**Moderators:**	[Ilkay Altintas](#IlkayA) and [Stefaan Verhulst](#StefaanV)
 
 **Summary:** The NAIRR Task Force report presents a theory of change and
 proposes key performance indicators (KPIs) to assess progress towards
@@ -894,6 +896,8 @@ communities.
 
 <h5 id=room3>Session 3: Community engagement</h5>
 
+**Moderators:** [Dawn Thurman](#DawnT) and [Danae Metaxa](#DanaeM)
+
 **Summary:** The NAIRR aims to democratize access to the AI innovation
   ecosystem. The NAIRR Task Force report identifies US-based
   researchers, educators, students, and small and medium-sized
@@ -905,6 +909,8 @@ communities.
 
 <h5 id=room4>Session 4: Engaging industry partners</h5>
 
+**Moderators:** [Solon Barocas](#SolonB) and [Julia Stoyanovich](#JuliaS) 
+
 **Summary:** The White House Executive Order directs the NSF to
   promote innovation by developing and strengthening “public-private
   partnerships for advancing innovation, commercialization, and
@@ -914,6 +920,8 @@ communities.
   for the NAIRR.
 
 <h5 id=room5>Session 5: Transparency as an enabler of trustworthy AI</h5>
+
+**Moderators:** [Jenn Wortman Vaughan](#JennW) and [Julia Stoyanovich](#JuliaS)
 
 **Summary:** Transparency is concerned with providing the information
   that stakeholders need to make informed, responsible, and ethical
@@ -927,6 +935,8 @@ communities.
 
 <h5 id=room6>Session 6: The NAIRR as a data equity infrastructure</h5>
 
+**Moderators:** [HV Jagadish](#Jag) and [Katie Shilton](#KatieS) 
+
 The NAIRR aims to democratize access to datasets and data products
 (most prominently, models) to accelerate AI R&D while facilitating
 their responsible sharing and use.  Data equity is concerned with the
@@ -936,6 +946,8 @@ multi-step processes, and are often re-purposed, bias detection and
 mitigation requires lifecycle-wide support.
 
 <h5 id=room7>Session 7: Education and training</h5>
+
+**Moderators:** [Kristian Hammond](#KrisH) and TBD
 
 **Summary:** Education and training are essential for meeting all four
 measurable goals of the NAIRR.  As a cyberinfrastructure, the NAIRR
@@ -949,6 +961,8 @@ particularly those who work in small and medium-sized businesses,
 which typically cannot afford the necessary upskilling of their staff.
  
 <h5 id=room8>Session 8: Responsible development and use of generative AI</h5>
+
+**Moderators:** [Yacine Jernite](#YacineJ) and [Jeanna Matthews](#JeannaM)
 
 **Summary:** Generative AI is seeing ever more research activity and
   ever broader commercial adoption.  To put generative AI into safe
