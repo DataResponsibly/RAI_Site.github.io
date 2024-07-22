@@ -90,8 +90,7 @@ For background, please refer to the following resources
 - **9:00 am - 9:30 am**: Arrival, breakfast
 - **9:30 am - 9:45 am**: Welcome back, recap, and overview of the day’s activities
 - **9:45 am - 10:15 am**: NAIRR Pilot partner and contributor panel
-     - [Bronson Messer](#BronsonM), [Carol Song](#CarolS), [Govind Shivkumar](#GovindS), [Yacine Jernite](#YacineJ)
-<!-- - Bronson Messer, Carol Song, Christine Cutillo, Govind Shivkumar, Yacine Jernite -->
+     - [Bronson Messer](#BronsonM), [Carol Song](#CarolS), [Christine Cutillo](#ChristineC), [Govind Shivkumar](#GovindS), [Yacine Jernite](#YacineJ)
 - **10:15 am - 10:30 am**: Open discussion
 - **10:30 am - 12:30 pm**: Breakout sessions
    - [The NAIRR as a data equity infrastructure](#room6): Room 204
