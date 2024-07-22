@@ -335,8 +335,9 @@ For background, please refer to the following resources
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Divesh Srivastava — Head of Database Research, AT&T</p> <p>
-Divesh Srivastava is the head of the Database Research Department at AT&T.  He is the President of the VLDB Endowment and co-chair of the ACM Publications Board.</p>
-        <a href="https://divesh.net/">Personal Website</a>
+Divesh Srivastava is the head of the Database Research Department at AT&T.  He is the President of the VLDB Endowment and co-chair of the ACM Publications Board.
+      <br>
+      <a href="https://divesh.net/">Personal Website</a></p>
       </td>
     </tr>
   </table>
@@ -350,8 +351,9 @@ Divesh Srivastava is the head of the Database Research Department at AT&T.  He i
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;">Elham Tabassi —Associate Director for Emerging Technologies, Information Technology Laboratory, NIST</p><p>
-Elham Tabassi is a Senior Scientist at the National Institute of Standards and Technology (NIST) and the Associate Director for Emerging Technologies in the Information Technology Laboratory (ITL). She also leads NIST’s Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies.</p>
-        <a href="https://www.nist.gov/people/elham-tabassi">Institutional Website</a>
+Elham Tabassi is a Senior Scientist at the National Institute of Standards and Technology (NIST) and the Associate Director for Emerging Technologies in the Information Technology Laboratory (ITL). She also leads NIST’s Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies.
+        <br>
+        <a href="https://www.nist.gov/people/elham-tabassi">Institutional Website</a></p>
       </td>
     </tr>
   </table>
@@ -416,6 +418,23 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
     </tr>
   </table>
 </div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=IlanS>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+	{% include figure.html path="assets/img/people/nairr/Ilan.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Ilan Strauss - Program Director of the AI Disclosures Project at the Social Science Research Council</p>
+	<p>Ilan Strauss is Program Director of the AI Disclosures Project at the Social Science Research Council (SSRC).
+        br>
+        <a href="https://www.ssrc.org/programs/ai-disclosures-project/people/">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=IlkayA>
   <table>
@@ -618,8 +637,9 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
         {% include figure.html path="assets/img/people/nairr/Michael E. Papka.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.</p> 
-        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a>
+        <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.
+	<br>
+        <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a></p>
       </td>
     </tr>
   </table>
@@ -648,8 +668,9 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
         {% include figure.html path="assets/img/people/nairr/Rayid Ghani.png" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Rayid Ghani — Distinguished Career Professor, Carnegie Mellon University </p> <p> Rayid Ghani is a Professor in the Machine Learning Department (in the School of Computer Science) and the Heinz College of Information Systems and Public Policy at Carnegie Mellon University and leads the Data Science and Public Policy Group as well as the Data Science for Social Good Program. He’s also the co-lead of the Responsible AI Initiative at CMU.</p>
-        <a href="https://www.rayidghani.com/">Personal Website</a>
+        <p style="font-weight: bold; font-size: 1.1em;"> Rayid Ghani — Distinguished Career Professor, Carnegie Mellon University </p> <p> Rayid Ghani is a Professor in the Machine Learning Department (in the School of Computer Science) and the Heinz College of Information Systems and Public Policy at Carnegie Mellon University and leads the Data Science and Public Policy Group as well as the Data Science for Social Good Program. He’s also the co-lead of the Responsible AI Initiative at CMU.
+	<br>
+        <a href="https://www.rayidghani.com/">Personal Website</a></p>
       </td>
     </tr>
   </table>
@@ -769,8 +790,25 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
         {% include figure.html path="assets/img/people/nairr/Suzette Kent.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Suzette Kent — Kent Advisory Services / former Federal Chief Information Officer of the United States  </p> <p>Suzette Kent is a global business transformation executive at Kent Advisory Services. Previously, she served as Federal Chief Information Officer of the United States from 2018 until 2020.</p>
+        <p style="font-weight: bold; font-size: 1.1em;"> Suzette Kent — Kent Advisory Services / former Federal Chief Information Officer of the United States  </p> <p>Suzette Kent is a global business transformation executive at Kent Advisory Services. Previously, she served as Federal Chief Information Officer of the United States from 2018 until 2020.
+      <br>
+      <a href="https://en.wikipedia.org/wiki/Suzette_Kent">Wikipedia article</a></p>
+     </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=TimO>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/TimOReilly.jpg" class="img-fluid " nairr-people=true %}
       </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Tim O'Reilly - Founder, CEO and Chairman, O'Reilly Media</p><p>Tim O'Reilly is the founder, CEO, and Chairman of O’Reilly Media, and the Principal Investigator and Co-Director of the AI Disclosures Project at the Social Science Research Council.  Known for coining terms such as “Open Source” and “Web 2.0,” Tim has pioneered technology publishing, conferences, digital media, and the concepts we use to understand technology trends.
+	<br>
+       <a href="https://en.wikipedia.org/wiki/Tim_O%27Reilly">Wikipedia article</a></p>
+       </td>
     </tr>
   </table>
 </div>
