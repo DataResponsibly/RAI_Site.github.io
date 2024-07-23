@@ -442,7 +442,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
         {% include figure.html path="assets/img/people/nairr/Ilkay Altintas.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş — Research Scientist, University of California </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
+        <p style="font-weight: bold; font-size: 1.1em;"> Ilkay Altintaş — Research Scientist, University of California San Diego </p> <p>İlkay Altıntaş is a Research Scientist at the University of California San Diego, Chief Data Science Officer of the San Diego Supercomputer Center as well as a Founding Fellow of the Halıcıoğlu Data Science Institute. She is the Founding Director of the Workflows for Data Science (WorDS) Center of Excellence and the WIFIRE Lab.
         <br>
         <a href="https://words.sdsc.edu/ilkay/">Institutional Website</a></p>
       </td>
@@ -547,7 +547,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
         {% include figure.html path="assets/img/people/nairr/Kristian J. Hammond.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Kristian J. Hammond — Bill and Cathy Osborn Professor of Computer Science, Northwestern University / Director, CASMI  </p> <p>Kristian J. Hammond is a Bill and Cathy Osborn Professor of Computer Science at Northwestern University. He is also the Director of the Master of Science in Artificial Intelligence Program, as well as Director of the Center for Advancing Safety of Machine Intelligence (CASMI).
+        <p style="font-weight: bold; font-size: 1.1em;"> Kristian J. Hammond — Bill and Cathy Osborn Professor of Computer Science and Director of CASMI, Northwestern University</p> <p>Kristian J. Hammond is a Bill and Cathy Osborn Professor of Computer Science at Northwestern University. He is also the Director of the Master of Science in Artificial Intelligence Program, as well as Director of the Center for Advancing Safety of Machine Intelligence (CASMI).
         <br>
         <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html">Institutional Website</a></p>
       </td>
@@ -628,6 +628,20 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=PaolaB>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Paola.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Paola Buitrago - Director of Artificial Intelligence and Big Data, Pittsburgh Supercomputing Center, Carnegie Melon University</p><p>Paola Buitrago leads the Artificial Intelligence and Big Data group at the Pittsburgh Supercomputing Center, which is a joint effort of Carnegie Mellon University and the University of Pittsburgh. Her group is focused on advancing and supporting the convergence of High Performance Computing (HPC), Artificial Intelligence (AI) and Big Data.
+	<br>
+	<a href="https://www.cmu.edu/psc/aibd/bio/bio-paola-buitrago.html">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=MichaelP>
   <table>
@@ -758,7 +772,7 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
       </td>
       <td>
         <p style="font-weight: bold; font-size: 1.1em;"> Srinivasan Parthasarathy — Professor, Department of Computer Science and Engineering, Ohio State University </p> <p>
-        Srinivasan Parthasarathy is a Professor in the Department of Computer Science and Engineering at Ohio State University. In 2024, he earned The Ohio State University Distinguished Scholar Award.
+Srinivasan Parthasarathy is a Professor and University Distinguished Scholar of Computer Science and Engineering at Ohio State. His research interests span databases, machine learning, high-performance computing and responsible data science.
         <br>
         <a href="https://data-analytics.osu.edu/people/parthasarathy.2">Institutional Website</a></p>
       </td>
@@ -781,6 +795,20 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=SusanA>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+      {% include figure.html path="assets/img/people/nairr/SusanA.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Susan Aaronson - Research Professor; Director, Digital Trade and Data Governance Hub, George Washington University</p> <p>Susan Ariel Aaronson is Research Professor of International Affairs at George Washington University (GWU). Aaronson is also co-principal investigator with the NSF-NIST Institute for Trustworthy AI in Law & Society (TRAILS), where she leads research on data and AI governance.
+	<br>
+        <a href="https://elliott.gwu.edu/susan-aaronson">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=SuzetteK>
   <table>
@@ -946,7 +974,7 @@ communities.
 
 <h5 id=room4>Session 4: Engaging industry partners</h5>
 
-**Moderators:** [Solon Barocas](#SolonB) and [Julia Stoyanovich](#JuliaS) 
+**Moderators:** [Julia Stoyanovich](#JuliaS) and [Solon Barocas](#SolonB) 
 
 **Summary:** The White House Executive Order directs the NSF to
   promote innovation by developing and strengthening “public-private
@@ -972,7 +1000,7 @@ communities.
 
 <h5 id=room6>Session 6: The NAIRR as a data equity infrastructure</h5>
 
-**Moderators:** [HV Jagadish](#Jag) and [Katie Shilton](#KatieS) 
+**Moderators:** [H V Jagadish](#Jag) and [Katie Shilton](#KatieS) 
 
 The NAIRR aims to democratize access to datasets and data products
 (most prominently, models) to accelerate AI R&D while facilitating
@@ -999,7 +1027,7 @@ which typically cannot afford the necessary upskilling of their staff.
  
 <h5 id=room8>Session 8: Responsible development and use of generative AI</h5>
 
-**Moderators:** [Yacine Jernite](#YacineJ) and [Jeanna Matthews](#JeannaM)
+**Moderators:** [Jeanna Matthews](#JeannaM) and [Yacine Jernite](#YacineJ) 
 
 **Summary:** Generative AI is seeing ever more research activity and
   ever broader commercial adoption.  To put generative AI into safe
