@@ -628,21 +628,6 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=PaolaB>
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Paola.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;">Paola Buitrago - Director of Artificial Intelligence and Big Data, Pittsburgh Supercomputing Center, Carnegie Melon University</p><p>Paola Buitrago leads the Artificial Intelligence and Big Data group at the Pittsburgh Supercomputing Center, which is a joint effort of Carnegie Mellon University and the University of Pittsburgh. Her group is focused on advancing and supporting the convergence of High Performance Computing (HPC), Artificial Intelligence (AI) and Big Data.
-	<br>
-	<a href="https://www.cmu.edu/psc/aibd/bio/bio-paola-buitrago.html">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=MichaelP>
   <table>
     <tr>
@@ -653,6 +638,21 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
         <p style="font-weight: bold; font-size: 1.1em;"> Michael E. Papka — Deputy Associate Laboratory Director/Director, Argonne Leadership Computing Facility (ALCF) / Professor, University of Illinois Chicago </p> <p>Michael E. Papka is a senior scientist at Argonne National Laboratory, where he is also deputy associate laboratory director for Computing, Environment and Life Sciences (CELS) and division director of the Argonne Leadership Computing Facility (ALCF). In addition to his duties at Argonne, Michael is a professor of computer science at University of Illinois Chicago.
 	<br>
         <a href="https://www.anl.gov/profile/michael-e-papka">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=PaolaB>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Paola.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Paola Buitrago - Director of Artificial Intelligence and Big Data, Pittsburgh Supercomputing Center, Carnegie Melon University</p><p>Paola Buitrago leads the Artificial Intelligence and Big Data group at the Pittsburgh Supercomputing Center, which is a joint effort of Carnegie Mellon University and the University of Pittsburgh. Her group is focused on advancing and supporting the convergence of High Performance Computing (HPC), Artificial Intelligence (AI) and Big Data.
+	<br>
+	<a href="https://www.cmu.edu/psc/aibd/bio/bio-paola-buitrago.html">Institutional Website</a></p>
       </td>
     </tr>
   </table>
