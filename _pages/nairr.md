@@ -1016,7 +1016,7 @@ mitigation requires lifecycle-wide support.
 
 **Summary:** Education and training are essential for meeting all four
 measurable goals of the NAIRR.  As a cyberinfrastructure, the NAIRR
-will offers training capabilities to ensure that its users have the
+will offer training capabilities to ensure that its users have the
 skills to use the resources.  However, to advance the goals of
 trustworthy AI, it is crucial to train researchers and students on the
 principles and techniques of responsible data engineering, algorithmic
