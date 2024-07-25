@@ -167,7 +167,7 @@ For background, please refer to the following resources
         {% include figure.html path="assets/img/people/nairr/Alondra Nelson.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Alondra Nelson — Harold F. Linder Professor, Institute for Advanced Study at Princeton University</p> <p>Alondra Nelson is the Harold F. Linder Professor at the Institute for Advanced Study at Princeton. She served as deputy assistant to President Joe Biden and acting director of the White House Office of Science and Technology Policy (OSTP).
+        <p style="font-weight: bold; font-size: 1.1em;"> Alondra Nelson — Harold F. Linder Professor, Institute for Advanced Study.</p> <p>Alondra Nelson is the Harold F. Linder Professor at the Institute for Advanced Study. She served as deputy assistant to President Joe Biden and acting director of the White House Office of Science and Technology Policy (OSTP).
         <br>
         <a href="http://www.alondranelson.com/">Personal Website</a></p>
       </td>
