@@ -69,7 +69,7 @@ For background, please refer to the following resources
    - [Julia Stoyanovich](#JuliaS)
 - **9:45 am - 10:30 am**: Introductions
 - **10:30 am - 11:00 am**: NAIRR Task Force panel
-  - [Dan Stanzione](#DanS), [Daniela Braga](#DanielaB), [Fred Streitz](#FredS), [Julia Lane](#JuliaL), and [Manish Parashar](#ManishP)
+  - [Daniela Braga](#DanielaB), [Fred Streitz](#FredS), [Julia Lane](#JuliaL), and [Manish Parashar](#ManishP)
 - **11:00 am - 11:15 am**: Open discussion
 - **11:15 am - 11:30 am**: Update on the NAIRR
    - [William Miller](#WilliamM) and [Alejandro Suarez](#AlejandroS)
@@ -250,22 +250,6 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DanS>
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Dan Stanzione.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Dan Stanzione — Associate Vice President For Research and Executive Director of the Texas Advanced Computing Center (TACC), University of Texas </p> <p>Dan Stanzione is Associate Vice President for Research at The University of Texas at Austin and Executive Director of the Texas Advanced Computing Center (TACC). He is the Principal Investigator for several projects including a National Science Foundation (NSF) grant to acquire and deploy Frontera, which will be the fastest supercomputer at a U.S. university.
-        <br>
-        <a href="https://tacc.utexas.edu/about/staff-directory/dan-stanzione/">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DanaeM>
   <table>
     <tr>
@@ -337,22 +321,6 @@ For background, please refer to the following resources
 Divesh Srivastava is the head of the Database Research Department at AT&T.  He is the President of the VLDB Endowment and co-chair of the ACM Publications Board.
       <br>
       <a href="https://divesh.net/">Personal Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=ElhamT>
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Elham.png" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;">Elham Tabassi —Associate Director for Emerging Technologies, Information Technology Laboratory, NIST</p><p>
-Elham Tabassi is a Senior Scientist at the National Institute of Standards and Technology (NIST) and the Associate Director for Emerging Technologies in the Information Technology Laboratory (ITL). She also leads NIST’s Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies.
-        <br>
-        <a href="https://www.nist.gov/people/elham-tabassi">Institutional Website</a></p>
       </td>
     </tr>
   </table>
@@ -689,6 +657,22 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=BeckyB>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Becky Boyles.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;"> Rebecca Boyles — Deputy Director, Renaissance Computing Institute (RENCI), University of North Carolina at Chapel Hill</p> <p> Rebecca Boyles is the Deputy Director of the Renaissance Computing Institute at UNC Chapel Hill.  Prior to joining RENCI, she was the Founding Director of the Center for Data Modernization Solutions at RTI International. Her mission is to transform and upgrade the data infrastructure of large public health and scientific agencies, enabling them to leverage data for better decision-making, research, and policy.
+        <br>
+        <a href="https://renci.org/news/leading-data-science-expert-joins-renci-as-deputy-director/">Institutional Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RobertB>
   <table>
     <tr>
@@ -704,20 +688,22 @@ Elham Tabassi is a Senior Scientist at the National Institute of Standards and T
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=BeckyB>
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RummanC>
   <table>
     <tr>
       <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Becky Boyles.jpg" class="img-fluid " nairr-people=true %}
+        {% include figure.html path="assets/img/people/nairr/Rumman.jpg" class="img-fluid " nairr-people=true %}
       </td>
       <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Rebecca Boyles — Deputy Director, Renaissance Computing Institute (RENCI), University of North Carolina at Chapel Hill</p> <p> Rebecca Boyles is the Deputy Director of the Renaissance Computing Institute at UNC Chapel Hill.  Prior to joining RENCI, she was the Founding Director of the Center for Data Modernization Solutions at RTI International. Her mission is to transform and upgrade the data infrastructure of large public health and scientific agencies, enabling them to leverage data for better decision-making, research, and policy.
+        <p style="font-weight: bold; font-size: 1.1em;">Rumman Chowdhury - CEO of Humane Intelligence and the United States Science Envoy for Artificial Intelligence</p><p>
+	Rumman Chowdhury is a data and social scientist, CEO of the tech nonprofit Humane Intelligence, and the United States Science Envoy for Artificial Intelligence. She is also a Responsible AI Fellow at Harvard's Berkman Klein Center. 
         <br>
-        <a href="https://renci.org/news/leading-data-science-expert-joins-renci-as-deputy-director/">Institutional Website</a></p>
+        <a href="https://www.humane-intelligence.org/">Institutional Website</a></p>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RussellW>
   <table>
@@ -836,6 +822,21 @@ Srinivasan Parthasarathy is a Professor and University Distinguished Scholar of 
 	<br>
        <a href="https://en.wikipedia.org/wiki/Tim_O%27Reilly">Wikipedia article</a></p>
        </td>
+    </tr>
+  </table>
+</div>
+
+<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=TomG>
+  <table>
+    <tr>
+      <td style="padding-right: 20px; width: 200px">
+        {% include figure.html path="assets/img/people/nairr/Goldstein.jpg" class="img-fluid " nairr-people=true %}
+      </td>
+      <td>
+        <p style="font-weight: bold; font-size: 1.1em;">Tom Goldstein - Volpi-Cupal Endowed Professor of Computer Science, University of Maryland</p><p>Tom Goldstein is a Volpi-Cupal Endowed Professor of Computer Science with an appointment in the University of Maryland Institute for Advanced Computer Studies, where he is also the director of the University of Maryland Center for Machine Learning. He is also co-principal investigator with the NSF-NIST Institute for Trustworthy AI in Law & Society (TRAILS), where he leads the methods and metrics research thrust.
+	<br>
+	<a href="https://www.cs.umd.edu/~tomg/">Institutional Website</a></p>
+      </td>
     </tr>
   </table>
 </div>
