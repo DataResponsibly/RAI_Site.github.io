@@ -310,22 +310,6 @@ For background, please refer to the following resources
   </table>
 </div>
 
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=DiveshS>
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Divesh Srivastava.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Divesh Srivastava — Head of Database Research, AT&T</p> <p>
-Divesh Srivastava is the head of the Database Research Department at AT&T.  He is the President of the VLDB Endowment and co-chair of the ACM Publications Board.
-      <br>
-      <a href="https://divesh.net/">Personal Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=FredS>
   <table>
     <tr>
@@ -672,21 +656,6 @@ Divesh Srivastava is the head of the Database Research Department at AT&T.  He i
   </table>
 </div>
 
-
-<div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RobertB>
-  <table>
-    <tr>
-      <td style="padding-right: 20px; width: 200px">
-        {% include figure.html path="assets/img/people/nairr/Robert Beverly.jpg" class="img-fluid " nairr-people=true %}
-      </td>
-      <td>
-        <p style="font-weight: bold; font-size: 1.1em;"> Robert Beverly — Program Director, National Science Foundation (NSF) </p> <p>Robert Beverly is currently on detail at the National Science Foundation as a Program Director in the CISE Office of Advanced Cyberinfrastructure. He leads the Center for Measurement and Analysis of Network Data (CMAND) lab. His group's research focuses on large-scale network traffic analysis and cybersecurity.
-        <br>
-        <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=rbeverly&org=OAC&from_org=OAC">Institutional Website</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div style="background-color: #F8F8FF; padding: 10px; margin-bottom: 20px;" id=RummanC>
   <table>
