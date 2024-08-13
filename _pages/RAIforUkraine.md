@@ -142,7 +142,7 @@ and sociology. But it was also practical because we were looking at data based o
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-      <b>Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8">this form</a> no later than August 31, 2024, to apply to the program for the Fall
+      <b>Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8">this form</a> no later than September 4, 2024, to apply to the program for the Fall
       2024 cycle.</b> Should you be selected to proceed to the next stage, we’ll contact you shortly after the deadline to invite you to attend a
       project open house, and then be matched with a research project that aligns with your interests and skills.
     </div>
@@ -179,7 +179,7 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b>Fill out <a href="https://forms.gle/dSjjFfqVFd3Thgi4A"> this form</a> no later than August 15, 2024, to propose a research project.</b>  By mentoring RAI Research Fellows, you  will play a crucial role in their academic and professional development. We are excited to hear from you!
+    <b>Fill out <a href="https://forms.gle/dSjjFfqVFd3Thgi4A"> this form</a> no later than August 31, 2024, to propose a research project.</b>  By mentoring RAI Research Fellows, you  will play a crucial role in their academic and professional development. We are excited to hear from you!
     </div>
   </div>
 </div>
