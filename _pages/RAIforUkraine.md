@@ -37,7 +37,7 @@ Financial support for the program is provided by NYU R/AI, and by
 generous contributions from [Simons
 Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
-Programs](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/global-programs/OfficeOfGlobalPrograms.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
+Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
 
 <hr>
 
