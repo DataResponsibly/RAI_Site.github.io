@@ -53,15 +53,6 @@ nav_order: 1
           </div>
     </div>
     </a>
-    <a href="/people/saadia">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/saadia.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Saadia Gabriel</b><br>
-              Faculty Fellow
-          </div>
-      </div>
-   </a>
     <a href="/people/falaah">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -71,10 +62,7 @@ nav_order: 1
           </div>
       </div>
     </a>
-</div>
-  
-<div class="row mt-3">
-   <a href="/people/andrew">
+    <a href="/people/andrew">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/andrew.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
@@ -83,32 +71,14 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/aradhita">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Aradhita Bhandari</b><br>
-              Graduate Research Fellow 
-          </div>
-      </div>
-    </a>
+</div>
+  
+<div class="row mt-3">
     <a href="/people/lucius">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucius.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Lucius Bynum</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
-    </a>
-</div>
-
-<div class="row mt-3">
- <a href="/people/raphael">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Raphael Meyer</b><br>
               Graduate Research Fellow
           </div>
       </div>
@@ -182,6 +152,38 @@ nav_order: 1
       </div>
     </a>
 
+</div>
+
+<h1 class="category" id="alumni">Alumni</h1> 
+***
+<div class="row mt-3">
+    <a href="/people/aradhita">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/aradhita.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Aradhita Bhandari</b><br>
+              Graduate Research Fellow 
+          </div>
+      </div>
+    </a>
+    <a href="/people/saadia">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/saadia.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Saadia Gabriel</b><br>
+              Faculty Fellow
+          </div>
+      </div>
+   </a>
+   <a href="/people/raphael">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/raphael.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Raphael Meyer</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
 </div>
 
 <!-- <h1 class="category" id="alumni">Alumni</h1> -->
