@@ -44,6 +44,15 @@ nav_order: 1
 </div>
 
 <div class="row mt-3">
+    <a href="/people/emily">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/emily.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Emily Black</b><br>
+              Assistant Professor
+          </div>
+    </div>
+    </a>
     <a href="/people/umang">
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/umang.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -62,6 +71,9 @@ nav_order: 1
           </div>
       </div>
     </a>
+</div>
+  
+<div class="row mt-3">
     <a href="/people/andrew">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/andrew.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -71,9 +83,6 @@ nav_order: 1
           </div>
       </div>
     </a>
-</div>
-  
-<div class="row mt-3">
     <a href="/people/lucius">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucius.png" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -92,6 +101,9 @@ nav_order: 1
           </div>
       </div>
     </a>
+</div>
+
+<div class="row mt-3">
     <a href="/people/lucas">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
