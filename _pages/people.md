@@ -32,7 +32,19 @@ nav_order: 1
           </div>
      </div>
   </a>
-  <a href="/people/armanda">
+  <a href="/people/emily">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/emily.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Emily Black</b><br>
+              Affiliated Faculty
+          </div>
+    </div>
+  </a>
+</div>
+
+<div class="row mt-3">
+<a href="/people/armanda">
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
@@ -41,35 +53,23 @@ nav_order: 1
           </div>
     </div>
   </a>
-</div>
-
-<div class="row mt-3">
-    <a href="/people/emily">
-    <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/emily.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+   <a href="/people/joao">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
-              <b>Emily Black</b><br>
-              Assistant Professor
+              <b>Joao Fonseca</b><br>
+              Postdoctoral Research Fellow
           </div>
-    </div>
+      </div>
     </a>
-    <a href="/people/umang">
+<a href="/people/umang">
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/umang.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Umang Bhatt</b><br>
-              Faculty Fellow
+              Affiliated Faculty
           </div>
     </div>
-    </a>
-    <a href="/people/falaah">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Falaah Arif Khan</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
     </a>
 </div>
   
@@ -113,6 +113,15 @@ nav_order: 1
           </div>
       </div>
     </a>
+    <a href="/people/falaah">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Falaah Arif Khan</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
 </div>
 
 
@@ -130,30 +139,6 @@ nav_order: 1
       </div>
     </a>
 
-   <a href="/people/joao">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Joao Fonseca</b><br>
-              Visiting Scholar
-          </div>
-      </div>
-    </a>
-
-
-    <a href="/people/rodrigo">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Rodrigo Kreis de Paula</b><br>
-             Visiting Scholar
-          </div>
-      </div>
-    </a>
-</div>
-
-<div class="row mt-3">
-
    <a href="/people/ian">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/ian.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -163,7 +148,16 @@ nav_order: 1
           </div>
       </div>
     </a>
-
+    
+    <a href="/people/rodrigo">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/rodrigo.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Rodrigo Kreis de Paula</b><br>
+             Visiting Scholar
+          </div>
+      </div>
+    </a>
 </div>
 
 <h1 class="category" id="alumni">Alumni</h1> 
