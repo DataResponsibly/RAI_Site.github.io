@@ -129,7 +129,7 @@ ownership of the debate about the role that AI should play in our
 lives.
 
 You can read the complete [We are AI
-comics](https://r-ai.co/WeAreAI_ComicsSeries) in English and Spanish.
+comics](https://r-ai.co/WeAreAI_ComicsSeries) in English, Spanish, and Ukrainian.
 The first volume of We are AI is also available in
 [Greek](https://dataresponsibly.github.io/comics/we-are-ai/Vol1_gk.pdf). Our
 [Data, Responsibly comics](https://dataresponsibly.github.io/comics/)
@@ -148,14 +148,18 @@ Portugueze](https://dataresponsibly.github.io/comics/vol1/mirror_br.pdf).
 <div class="publications-div"> 
 {% bibliography -f papers -q @*[keywords ^= *comics && keywords ^= *english]%}
 </div>
-<p><h5><b>Read the comics (Spanish)</b></h5>
 
+<p><h5><b>Read the comics (Spanish)</b></h5>
 <div class="publications-div"> 
 {% bibliography -f papers -q @*[keywords ^= *comics && keywords ^= *spanish]%}
 </div>
 
-<p><h5><b>Read the comics (other languages)</b></h5>
+<p><h5><b>Read the comics (Ukrainian)</b></h5>
+<div class="publications-div"> 
+{% bibliography -f papers -q @*[keywords ^= *comics && keywords ^= *ukrainian]%}
+</div>
 
+<p><h5><b>Read the comics (other languages)</b></h5>
 <div class="publications-div"> 
 {% bibliography -f papers -q @*[keywords ^= *comics && keywords ^= *other]%}
 </div>
