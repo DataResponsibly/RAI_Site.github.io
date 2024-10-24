@@ -23,16 +23,16 @@ nav_order: 1
           </div>
       </div>
    </a>
-  <a href="https://amyhurst.com/">
-     <div class="col-sm mt-3 mt-md-0">
-     {% include figure.html people-profile=true path="assets/img/people/amy.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
-     <div class="caption">
-              <b>Amy Hurst</b><br>
+    <a href="/people/umang">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/umang.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Umang Bhatt</b><br>
               Affiliated Faculty
           </div>
-     </div>
-  </a>
-  <a href="/people/emily">
+    </div>
+    </a>
+    <a href="/people/emily">
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/emily.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
@@ -44,16 +44,25 @@ nav_order: 1
 </div>
 
 <div class="row mt-3">
-<a href="/people/armanda">
+    <a href="https://amyhurst.com/">
+     <div class="col-sm mt-3 mt-md-0">
+     {% include figure.html people-profile=true path="assets/img/people/amy.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+     <div class="caption">
+              <b>Amy Hurst</b><br>
+              Affiliated Faculty
+          </div>
+     </div>
+  </a>
+  <a href="/people/ludovic">
     <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/ludovic.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
-              <b>Armanda Lewis</b><br>
-              Senior Research Scientist
+              <b>Ludovic Righetti</b><br>
+              Affiliated Faculty
           </div>
     </div>
   </a>
-   <a href="/people/joao">
+  <a href="/people/joao">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/joao.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
@@ -62,18 +71,18 @@ nav_order: 1
           </div>
       </div>
     </a>
-<a href="/people/umang">
-    <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/umang.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Umang Bhatt</b><br>
-              Affiliated Faculty
-          </div>
-    </div>
-    </a>
 </div>
   
 <div class="row mt-3">
+    <a href="/people/armanda">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/armanda.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Armanda Lewis</b><br>
+              Senior Research Scientist
+          </div>
+    </div>
+  </a>
     <a href="/people/andrew">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/andrew.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -83,6 +92,18 @@ nav_order: 1
           </div>
       </div>
     </a>
+    <a href="/people/falaah">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Falaah Arif Khan</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
+</div>
+
+<div class="row mt-3">
     <a href="/people/lucius">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucius.png" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -92,18 +113,6 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/venetia">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Venetia Pliatsika</b><br>
-              Graduate Research	Fellow
-          </div>
-      </div>
-    </a>
-</div>
-
-<div class="row mt-3">
     <a href="/people/lucas">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -113,12 +122,12 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/falaah">
+    <a href="/people/venetia">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
-              <b>Falaah Arif Khan</b><br>
-              Graduate Research Fellow
+              <b>Venetia Pliatsika</b><br>
+              Graduate Research	Fellow
           </div>
       </div>
     </a>
