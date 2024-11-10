@@ -39,7 +39,7 @@ Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
 Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
 
-Download [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyer.pdf) for a summary!
+Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyer.pdf) for a summary of the program!
 <hr>
 
 <h4 class="category" id="showcases">Program Showcases</h4>
