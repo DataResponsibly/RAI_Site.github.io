@@ -24,7 +24,7 @@ Moshe Y. Vardi is University Professor and the George Distinguished Service Prof
 ### **Event:**
 This is an in-person event open to the broader NYU community members with active NYU ID cards. All individuals must show the Daily Screener green pass to enter the building.
  
-#### **Talk: How to be an Ethical Computer Scientist
+#### **Talk: How to be an Ethical Computer Scientist**
 Many of us got involved in computing because programming was fun. The advantages of computing seemed intuitive to us. We truly believed that computing yields tremendous societal benefits; for example, the life-saving potential of driverless cars is enormous! Recently, however, computer scientists realized that computing is not a game — it is real — and it brings with it not only societal benefits, but also significant societal costs, such as labor polarization, disinformation, and smart-phone addiction. A common reaction to this crisis is to label it as an “ethics crisis”. But corporations are driven by profits, not ethics, and machines are just machines. Only people can be expected to act ethically. In this talk the speaker will discuss how computer scientists should behave ethically.
 
 **Date & Time:** Friday, February 10, 2023, 11 am-12 pm<br>
