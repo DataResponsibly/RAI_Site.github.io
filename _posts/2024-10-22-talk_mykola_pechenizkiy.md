@@ -6,7 +6,7 @@ description: R/AI Seminar Series
 tags: 
 categories: seminar 
 event: true
-preview: /assets/img/events/mykola_wide.png 
+preview: 
 ---
 
 <div class="row mt-3">
