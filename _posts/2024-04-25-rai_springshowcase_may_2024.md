@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  R/AI Research for Ukrainian Scholars – Spring 2024 Showcase
-date:   2024-04-25 12:30:00
+date:   2024-05-10 12:30:00
 description: R/AI Research Program
 tags: 
 categories: event collaboration RAIforUkraine
