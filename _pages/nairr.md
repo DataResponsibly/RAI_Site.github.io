@@ -13,27 +13,28 @@ nav: false
 
 #### Workshop Goals and Broad Overview
 
-On July 29-31, 2024, an in-person workshop will be convened at New
+On July 29-31, 2024, an in-person workshop was convened at New
 York University, bringing together leading experts in the
 cyberinfrastructure and AI policy / governance / responsible AI
-communities.  The goals of this workshop are to to obtain community
+communities.  The goals of this workshop were to to obtain community
 feedback regarding policies and best practices, and inform the
 development of priorities and policies for the National AI Research
 Resource (NAIRR). By convening a diverse group of stakeholders to
-offer their perspectives, the workshop will provide suggestions for
+offer their perspectives, the workshop aimed provide suggestions for
 improving the trustworthiness of the resources that are components of
 the NAIRR, and for supporting the equitable use of these resources by
 a diverse group of researchers and students.
 
-This workshop is convened by [Julia
-Stoyanovich](#JuliaS), and is co-hosted by the <a
+This workshop was convened by [Julia
+Stoyanovich](#JuliaS), and co-hosted by the <a
 href="https://r-ai.co/">NYU Tandon Center for Responsible AI</a> and
 the <a href="https://cds.nyu.edu/">NYU Center for Data
-Science</a>. This workshop is supported by <a
+Science</a>. This workshop was supported by <a
 href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432040">NSF
 Award No. 2432040</a> and by <a href="https://omidyar.com/">Omidyar
 Network</a>.
 
+**Read the workshop report <a href="https://r-ai.co/nairr_report">here</a>.**
 
 #### Resources
 
