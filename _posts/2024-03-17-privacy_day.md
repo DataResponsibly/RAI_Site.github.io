@@ -1,7 +1,7 @@
 ---
 layout: post
 title: R/AI Hosting the Spring 2024 NYC Privacy Day
-date: 2024-03-17 17:39:00
+date: 2024-04-19 17:39:00
 event: true
 preview: /assets/img/events/robot_sm.png
 categories: event 
