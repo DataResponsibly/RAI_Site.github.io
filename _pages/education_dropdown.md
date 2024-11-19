@@ -17,6 +17,9 @@ children:
     - title: Algorithmic transparency
       permalink: /education/#playbook
     - title: divider
+    - title: Algorithmia
+      permalink: /education/#algorithmia
+    - title: divider
     - title: We are AI
       permalink: /education/#weareai
     - title: divider

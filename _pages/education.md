@@ -82,6 +82,24 @@ transparency in your organization**.
 {% bibliography -f papers -q @*[keywords ^= *playbook]%}
 </div>
 
+<h4 class="category" id="algorithmia">Algorithmia: Animated shorts for AI literacy</h4>
+
+The animated short [Alice in Algorithmia](https://r-ai.co/alice) was created by [Julia Stoyanovich](https://airesponsibly.net/people/julia/) and award-winning animator [Alex Budovsky](https://vimeo.com/user11354572). The short premiered on September 27, 2024, at [NYU Tandon @ The Yard](https://engineering.nyu.edu/research/nyu-tandon-yard). **[Watch Alice on our YouTube channel](https://r-ai.co/alice)**, also available in [colorblind-friendly version](https://r-ai.co/alice_blue).
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="/assets/img/events/Alice_Thumb.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <i>Alice in Algorithmia</i> is an animated short that follows a day in the life of a regular person who navigates the pros and cons of AI. As she goes through her day, Alice moves from being surrounded and directed by this technology to regaining agency and control. 
+    </div>
+  </div>
+</div>
+<br>
+
+**Alice is the first animated short in our Algorithmia series.  Stay tuned for more!**
+
 <h4 class="category" id="weareai">We are AI: Taking control of technology</h4>
 
 Artificial Intelligence (“AI”) refers to a growing world of
