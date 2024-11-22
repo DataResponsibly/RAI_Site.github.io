@@ -4,7 +4,7 @@ title:  Meetup Series @UCU on Responsible AI
 date:   2024-11-19 12:00:00
 description: Ukrainian Catholic University (UCU) launched a series of online and in-person meet-ups on the topic of **Responsible AI**, in collaboration with the **Center for Responsible AI** at NYU. The first event featured Denys Herasymuk, one of the first research fellows in the \#RAIforUkraine program, who shared his personal experience as well as the results of his research. The event attracted a strong turnout! Read more details here.
 tags: 
-categories: seminar 
+categories: seminar event RAIforUkraine
 event: true
 preview: /assets/img/events/RAIforUkraine_Thumb_Meetup1.jpg
 ---
@@ -25,11 +25,11 @@ The goal was to invite individuals who contribute to the advancement of responsi
 
 
 **Abstract:** 
-The talk will cover my experience in the “RAI for Ukraine” program and highlight our research on responsible AI, focusing on advancements aimed at ensuring the stability and fairness of machine learning models. I will begin by sharing key insights and accomplishments from my time in the program, followed by a brief introduction to model stability and uncertainty quantification. Next, I will highlight the challenges of incorporating these dimensions of model performance into the model selection process. Building on this foundation, I will introduce our comprehensive software library for model auditing and responsible model selection, called Virny, along with an interactive tool called VirnyView. Finally, I will present our Shades-of-Null benchmark for responsible missing value imputation. This large-scale empirical study, involving 23,940 experimental pipelines, provides a comprehensive and rigorous evaluation of various families of imputation methods on a wide range of evaluation metrics, in plausible and socially meaningful missingness scenarios.
+The talk covers my experience in the “RAI for Ukraine” program and highlights our research on responsible AI, focusing on advancements aimed at ensuring the stability and fairness of machine learning models. I will begin by sharing key insights and accomplishments from my time in the program, followed by a brief introduction to model stability and uncertainty quantification. Next, I will highlight the challenges of incorporating these dimensions of model performance into the model selection process. Building on this foundation, I will introduce our comprehensive software library for model auditing and responsible model selection, called Virny, along with an interactive tool called VirnyView. Finally, I will present our Shades-of-Null benchmark for responsible missing value imputation. This large-scale empirical study, involving 23,940 experimental pipelines, provides a comprehensive and rigorous evaluation of various families of imputation methods on a wide range of evaluation metrics, in plausible and socially meaningful missingness scenarios.
 
-The talk will be based on these two papers:
+The talk is based on two papers:
 - Denys Herasymuk, Falaah Arif Khan, and Julia Stoyanovich: [Responsible Model Selection with Virny and VirnyView](https://dl.acm.org/doi/10.1145/3626246.3654738) (SIGMOD’24);
-- Falaah Arif Khan, Denys Herasymuk, Nazar Protsiv, Julia Stoyanovich: [Still More Shades of Null: A Benchmark for Responsible Missing Value Imputation](https://arxiv.org/abs/2409.07510) (under submission to VLDB’25).
+- Falaah Arif Khan, Denys Herasymuk, Nazar Protsiv, Julia Stoyanovich: [Still More Shades of Null: A Benchmark for Responsible Missing Value Imputation](https://arxiv.org/abs/2409.07510) (working paper).
 
 A big thank you to **Tetiana Zakharchenko** for co-hosting and organizing the event!
 
