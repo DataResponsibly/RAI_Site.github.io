@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Meetup Series @UCU on Responsible AI
+title:  RAI for Ukraine Meetup Series @UCU 
 date:   2024-11-19 12:00:00
-description: Ukrainian Catholic University (UCU) launched a series of online and in-person meet-ups on the topic of **Responsible AI**, in collaboration with the **Center for Responsible AI** at NYU. The first event featured Denys Herasymuk, one of the first research fellows in the \#RAIforUkraine program, who shared his personal experience as well as the results of his research. The event attracted a strong turnout! Read more details here.
+description: As part of the RAI for Ukraine program, Ukrainian Catholic University (UCU) launched a series of online and in-person meet-ups, in collaboration with the **Center for Responsible AI** at NYU. The first event featured Denys Herasymuk, one of the first **RAI for Ukraine Research Fellows**, who shared his personal experience as well as the results of his research. The event attracted a strong turnout! 
 tags: 
 categories: seminar event RAIforUkraine
 event: true
