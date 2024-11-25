@@ -7,7 +7,7 @@ nav: false
 ---
 
 
-**Associate Professor of Computer Science \& Engineering, and of Data Science, and Director of R/AI** -- *stoyanovich (at) nyu.edu*
+**Associate Professor of Computer Science & Engineering, and of Data Science, and Director of R/AI** -- *stoyanovich (at) nyu.edu*
 
 [CV](../../assets/pdf/Julia_CV.pdf)
 [Google Scholar](https://scholar.google.com/citations?user=UhJRkaIAAAAJ&hl=en)
