@@ -1,6 +1,0 @@
----
-layout: post
-title:  Cirss Seminar–RDS+AI Speaker Series "Teaching Responsible AI"
-date:   2021-10-13 18:49:1
----
-Although an increasing number of ethical data science and AI courses is available, pedagogical approaches used in these courses rely primarily on texts rather than on algorithmic development or data analysis. Technical students often consider these courses unimportant and a distraction from the “real” material. To develop instructional materials and methodologies that are thoughtful and engaging, we must strive for balance: between texts and coding, between critique and solution, and between cutting-edge research and practical applicability. In this talk, I will discuss responsible data science courses that I have been developing and teaching to technical students at New York University since 2019. I will also speak about a public education course called “We are AI” that is offered in a peer-learning setting. I will draw on these efforts to chart a path towards strengthening the distributed accountability structures, to make the design, development, use, and oversight of automated decision systems responsible.****
