@@ -133,6 +133,36 @@ nav_order: 1
     </a>
 </div>
 
+<div class="row mt-3">
+    <a href="/people/caterina">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/caterina.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Caterina Fuligni</b><br>
+              Research Scholar
+          </div>
+      </div>
+    </a>
+    <a href="/people/anya">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/anya.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Anya Kozorez</b><br>
+	      Editorial Consultant
+          </div>
+      </div>
+    </a>
+    <a href="/people/tanya">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/tanya.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Tetiana Zakharchenko</b><br>
+              Project coordinator
+          </div>
+      </div>
+    </a>
+</div>
+
 
 <h1 class="category" id="visitors">Visitors</h1>
 
