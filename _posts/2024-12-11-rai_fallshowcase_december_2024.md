@@ -28,7 +28,7 @@ Mathematics) and specifically in the critically important area of
 Responsible AI, and to catalyze the integration of Ukrainian
 researchers into the global research community.
 
-In Fall 2024, 32 Ukrainian students mentored by 27 academic experts from
+In Fall 2024, 39 Ukrainian students mentored by 29 academic experts from
 universities in the United States and Europe will present their research projects to the community. <a
 href="https://youtu.be/r7tBBcO1JIM">Watch previous showcases</a> to learn
 more about their expecting work on algorithmic fairness,
@@ -36,7 +36,7 @@ interpretability and explainability, privacy and data protection, data
 management for machine learning, causal inference, and evaluation and
 benchmarking.
 
-<!-- <iframe width="933" height="525" src="https://youtu.be/r7tBBcO1JIM" title="R/AI Research for Ukrainian Scholars – Fall 2024 Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<!-- <iframe width="933" height="525" src="https://www.youtube.com/watch?v=nt7rcNUyoJs" title="R/AI Research for Ukrainian Scholars – Fall 2024 Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
