@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**Editorial Consultant & Project Manager**
+**Editorial Consultant & Project Manager** -- Linkedin 
 
 {% include figure.html people-profile=true path="assets/img/people/tanya.png" title="tanya" class="img-fluid rounded z-depth-1" %}
 
