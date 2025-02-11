@@ -1,4 +1,72 @@
-<!DOCTYPE html> <html> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title>R/AI Newsletter - Research Highlights Issue, October 2022 | Welcome to the Center for Responsible AI at New York University</title> <meta name="author" content="Center for Responsible AI at New York University"> <meta name="description" content="Center for Responsible AI at New York University. "> <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website"> <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous"> <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css"> <link rel="canonical" href="https://airesponsibly.net/news_events/2022/rai_newsletter_october_2022/"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark"> <script src="/assets/js/theme.js"></script> <script src="/assets/js/dark_mode.js"></script> <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> <script type="text/javascript">window.MathJax={tex:{tags:"ams"}};</script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script> <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script src="/assets/js/distillpub/template.v2.js"></script> <script src="/assets/js/distillpub/transforms.v2.js"></script> <script src="/assets/js/distillpub/overrides.js"></script> </head> <body> <d-front-matter> <script async type="text/json">{
+<!DOCTYPE html>
+<!-- _layouts/distill.html --><html>
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>R/AI Newsletter - Research Highlights Issue, October 2022 | Welcome to the Center for Responsible AI at New York University</title>
+    <meta name="author" content="Center for Responsible AI at New York University">
+    <meta name="description" content="Center for Responsible AI at New York University.
+">
+    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="https://airesponsibly.net/news_events/2022/rai_newsletter_october_2022/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+
+
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- Distill js -->
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    <script src="/assets/js/distillpub/overrides.js"></script>
+    
+  </head>
+
+  <body>
+<d-front-matter>
+    <script async type="text/json">{
       "title": "R/AI Newsletter - Research Highlights Issue, October 2022",
       "description": "",
       "published": "October 10, 2022",
@@ -19,4 +87,467 @@
           }
         ]
       }
-    }</script> </d-front-matter> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top"> <div class="header-image"></div> <div class="container"> <div style="height: 100%"><a href="/"><img src="https://i.postimg.cc/QMJ7NxZ9/rai.png" alt="logo"></a></div> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">About</a> </li> <li class="nav-item "> <a class="nav-link" href="/blog/">News &amp; Events</a> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/people/#team">Team</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/people/#visitors">Visitors</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/research/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#data-centric">Data-centric AI</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#explainability">Explainability</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#fairness">Fairness</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#policy">Policy</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#privacy">Privacy</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#ranking">Ranking</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#education">RAI education</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Education</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/education/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#rds">Responsible data science</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#playground">Causal inference</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#playbook">Algorithmic transparency</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#algorithmia">Algorithmia</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#weareai">We are AI</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#comics">Comics</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Policy</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/policy/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/policy/#governance">AI governance</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/policy/#hiring">Algorithmic hiring</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">RAIforUkraine</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/RAIforUkraine/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#students">Students</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#mentors">Mentors</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#donors">Donors</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#publications">Publications</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#press">Press</a> </div> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="fas fa-moon"></i> <i class="fas fa-sun"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="post distill"> <d-title> <h1>R/AI Newsletter - Research Highlights Issue, October 2022</h1> <p></p> </d-title> <d-byline></d-byline> <d-article> <h2 id="personality-prediction-ai-used-for-pre-hiring-screening-is-shockingly-bad">Personality prediction AI used for pre-hiring screening is shockingly bad!</h2> <p>Our research team recently audited two popular commercial AI systems that compute “personality profiles” from resumes and social media profiles of job applicants. <br> <br> <a href="/news_events/2022/rai-september-2022/"><strong>Read on</strong></a> to learn about what we uncovered!</p> <div class="row mt-3"> <div class="col-sm mt-10 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/Hiring-AI.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <h2 id="what-weve-been-up-to">What we’ve been up to:</h2> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/lightbulb.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>We stand with Ukraine! Over the summer, we ran a 6-week-long summer research program on Responsible AI, in collaboration with the Ukrainian Catholic University. Our 18 research fellows comprised Ukrainian graduate and undergraduate students. <a href="/news_events/2022/rai_summerResearch_september_2022/"><strong>Read More</strong></a> about the program, the final project showcase, and testimonials from the fellows themselves! We are continuing this work in the Fall, stay tuned for updates.</p> <h2 id="what-we-have-been-working-on">What we have been working on:</h2> <h3 id="resume-format-linkedin-urls-and-other-unexpected-influences-on-ai-personality-prediction-in-hiring-results-of-an-audit"><a href="https://dl.acm.org/doi/10.1145/3514094.3534189" rel="external nofollow noopener" target="_blank">Resume Format, LinkedIn URLs and Other Unexpected Influences on AI Personality Prediction in Hiring: Results of an Audit</a></h3> <p>Alene Rhea, Kelsey Markey, Lauren D’Arinzo, Hilke Schellmann, Mona Sloane, Paul Squires, and Julia Stoyanovich. In 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES ‘22).</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/Personality-prediction.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>Algorithmic personality tests are in broad use in hiring today, but do they work? We sought to answer this question by interrogating the validity of algorithmic personality tests that claim to estimate a job seeker’s personality based on their resume or social media profile. We developed a methodology for auditing the stability of predictions made by these tests. Crucially, we framed our methodology around testing the assumptions made by the vendors of these tools. We used this methodology to conduct an external audit of two commercial systems, Humantic AI and Crystal, over a dataset of job applicant profiles collected through an IRB-approved study. The key take-away is that both systems show instability on key facets of measurement, and so cannot be considered valid testing instruments for pre-hire assessment.</p> <p><a href="/news_events/2022/rai-september-2022/"><strong>Read more</strong></a> about our audit, and <a href="https://www.youtube.com/watch?v=A4RSccTt3kQ&amp;t=1s" rel="external nofollow noopener" target="_blank"><strong>watch a 15-minute video</strong></a> for a summary of our methods and findings. And take a look at press coverage of these results in <a href="https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/?sh=77ab36af35d3" rel="external nofollow noopener" target="_blank"><strong>Forbes</strong></a> and <a href="https://www.hrdive.com/news/as-nyc-restricts-ai-in-hiring-next-steps-remain-cloudy/633576/" rel="external nofollow noopener" target="_blank"><strong>HR Drive</strong></a>.</p> <h3 id="its-just-not-that-simple-an-empirical-study-of-the-accuracy-explainability-trade-off-in-machine-learning-for-public-policy"><a href="https://dl.acm.org/doi/10.1145/3531146.3533090" rel="external nofollow noopener" target="_blank">It’s Just Not That Simple: An Empirical Study of the Accuracy-Explainability Trade-off in Machine Learning for Public Policy</a></h3> <p>Andrew Bell, Ian Solano-Kamaiko, Oded Nov, and Julia Stoyanovich In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22)</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/Explainability-Accuracy.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>There is a debate among machine learning researchers and practitioners about the nature – and even the existence – of the accuracy-explainability trade-off. Is it the case that accuracy and explainability are inversely related, and, therefore, that black-box models should be used whenever accuracy is important? Or is it the case that the trade-off rarely exists, and so interpretable models should be preferred in most cases? In this project, we looked at the relationship between accuracy and explainability in two public policy contexts. We neither observed a direct trade-off between accuracy and explainability nor found interpretable models to be superior in terms of explainability. It’s just not that simple!</p> <h3 id="fairness-in-ranking-part-i-score-based-rankingfairness-in-ranking-part-ii-learning-to-rank-and-recommender-systems">Fairness in Ranking Part I: <a href="https://dl.acm.org/doi/10.1145/3533379" rel="external nofollow noopener" target="_blank">Score-based Ranking</a><br>Fairness in Ranking Part II: <a href="https://dl.acm.org/doi/10.1145/3533380" rel="external nofollow noopener" target="_blank">Learning-to-Rank and Recommender Systems</a> </h3> <p>Meike Zehlike, Ke Yang, and Julia Stoyanovich in <strong>ACM Computing Surveys</strong> (April 2022)</p> <p>Consider Ann, a university admissions officer who uses an algorithmic ranker to select applicants from a large pool. Ann knows that applicants’ test scores and, to some extent, their grades, can track a history of disadvantage in access to educational opportunities–good schools and tutoring–and so a ranking based on test scores and grades can be unfair. How can Ann embed fairness requirements into her selection methodology, in a world where applicants’ qualifications and backgrounds are as incomparable as apples and oranges?</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/Minions-ranking.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>In a two-part survey that recently appeared in the ACM Computing Surveys, we set out to help decision-makers like Ann. We developed a common narrative around the value frameworks that motivate specific fairness-enhancing interventions in ranking. This allowed us to unify the mitigation objectives and the algorithmic techniques for fair ranking that have been proposed in several subfields of computer science. This unified view can help practitioners select a method that is responsive to their fairness requirements.</p> <h3 id="towards-substantive-conceptions-of-algorithmic-fairness-normative-guidance-from-equal-opportunity-doctrines"><a href="https://eaamo.org/papers/khan-19.pdf" rel="external nofollow noopener" target="_blank">Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines</a></h3> <p>Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich</p> <p>In 2022 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization <a href="https://eaamo.org/" rel="external nofollow noopener" target="_blank">(EAAMO ’22)</a></p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/p5.webp" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>We all agree that fairness is not a statistical concept, but rather a philosophical and moral one. But we don’t really understand the normative dimensions of fairness-enhancing interventions, and don’t have a way to debate in values… or at least we didn’t, until now! In this work we use Equal Opportunity doctrines from political philosophy to make explicit the value judgements embedded in different fairness criteria. This framing allows us to characterize the context of decision-making through the nature of opportunity being allocated, and to re-interpret the impossibility results from a moral perspective: different conceptions of a fair contest are mutually incompatible when people do not have fair life chances. This motivates the need for substantive framings of algorithmic fairness, which we outline in the rest of the paper.</p> <p><a href="https://dl.acm.org/doi/abs/10.1145/3551624.3555303" rel="external nofollow noopener" target="_blank"><strong>Read the full paper</strong></a>, and watch our <a href="https://www.youtube.com/watch?v=wIjcniWMElU" rel="external nofollow noopener" target="_blank"><strong>oral presentation</strong></a> at ACM EAAMO.</p> <h3 id="an-interactive-introduction-to-causal-inference"><a href="https://lbynum.github.io/interactive-causal-inference/" rel="external nofollow noopener" target="_blank">An Interactive Introduction to Causal Inference</a></h3> <p>Lucius E.J. Bynum, Falaah Arif Khan, Oleksandra Konopatska, Joshua R. Loftus, and Julia Stoyanovich</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/playground.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>What is causal inference? What is a causal question? How do we answer causal questions? In this interactive tutorial, we explore the basics of causal inference, and explain the role of randomization in answering causal questions. Join us at our Causal Inference Playground to first gain an intuition about causal inference without too much mathematical notation, and then dive deeper into more theory and causal inference in observational settings.</p> <h2 id="events-and-press-coverage">Events and Press Coverage</h2> <p>Members of R/AI spoke in the press about our recent research results and the recent developments in AI regulation.</p> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0 text-center"> <figure> <picture> <img src="/assets/img/newsletters/October_2022/press.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <p>Julia Stoyanovich spoke with Vox about the <a href="https://www.whitehouse.gov/ostp/ai-bill-of-rights/" rel="external nofollow noopener" target="_blank"><strong>White House Blueprint for an AI Bill of Rights:</strong></a> “I was very happy to see that the Bill discusses the effectiveness of AI systems prominently. Many systems that are in broad use today simply do not work, in any meaningful sense of that term. They produce arbitrary results and are not subjected to rigorous testing, and yet they are used in critical domains such as hiring and employment. We need to develop a culture of rigorously specifying the criteria against which we evaluate AI systems, testing systems before they are deployed, and re-testing them throughout their use to ensure that these criteria are still met. And removing them from use if the systems do not work.”</p> <p>Julia also spoke with <a href="https://www.hrdive.com/news/as-nyc-restricts-ai-in-hiring-next-steps-remain-cloudy/633576/" rel="external nofollow noopener" target="_blank"><strong>HR Drive</strong></a> about New York City’s Local Law 144 that aims to regulate the use of automated decision systems in hiring. She supports the law and thinks that it should be used to weed out bad actors who produce and sell tools that don’t work.</p> <p>Andrew Bell presented work on the Accuracy-Explainability trade-off at ACM FAccT in South Korea, in June!</p> <p>Lucius Bynum introduced the Causal Inference Playground at VISxAI, co-located with IEEE VIS</p> <p>Falaah Arif Khan discussed the connections between Equality of Opportunity doctrines from political philosophy and notions of algorithmic fairness at EAAMO in Washington, DC, in October.</p> <p>Julia attended Maker Faire Rome in October, and spoke about making Responsible AI synonymous with AI at the Opening Conference, in a talk titled “IA responsabile: verso l’innovazione socialmente sostenibile”.<br> <a href="[Twitter](https://twitter.com/stoyanoj/status/1575292964083056640)">Twitter</a> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6981060075687665664/" rel="external nofollow noopener" target="_blank">LinkedIn</a></p> <h2 id="what-were-looking-forward-to">What we’re looking forward to:</h2> <p><a href="https://unidir.org/events/2022-innovations-dialogue-ai-disruption-peace-and-security" rel="external nofollow noopener" target="_blank"><strong>UN Institute for Disarmament Research (UNIDIR):</strong></a> Register to attend the UNIDIR Innovations Dialogue on AI Disruption, Peace, and Security, in person in New York City or online. Julia will speak in the opening panel, discussing the state of play and the future of AI. <br> <a href="https://twitter.com/UNIDIR/status/1564238047096487936" rel="external nofollow noopener" target="_blank">Twitter</a> <a href="https://www.linkedin.com/posts/unidir_ai-id22-activity-6986334810428297216-kbj5" rel="external nofollow noopener" target="_blank">LinkedIn</a></p> <p><strong>When</strong>: October 20, 2022</p> <p><strong>Where</strong>: <a href="https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/" rel="external nofollow noopener" target="_blank">Ford Foundation Center for Social Justice</a>, 320 E 43rd St, New York, NY and online</p> <p><strong>RSVP</strong>: <a href="https://forms.office.com/r/3wZNbSCi2N" rel="external nofollow noopener" target="_blank">at this link</a></p> </d-article> <d-appendix> <d-footnote-list></d-footnote-list> <d-citation-list></d-citation-list> </d-appendix> <d-bibliography src="/assets/bibliography/"></d-bibliography> </div> <footer class="sticky-bottom mt-5"> <div class="container"> © Copyright 2024 Center for Responsible AI at New York University. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. <div class="contact-icons" style="display: flex; justify-content: center; margin: 25px;"> <a href="mailto:%72%65%73%70%6F%6E%73%69%62%6C%65%61%69@%6E%79%75.%65%64%75" title="email"><i class="fas fa-envelope" style="margin-right: 10px; font-size: 52px;"></i></a> <a href="https://airesponsibly.us21.list-manage.com/subscribe?u=fe132ea6ae0280345f9989e41&amp;id=8ebe38f466" title="newsletter" rel="external nofollow noopener" target="_blank"><i class="fab fa-telegram" style="margin-right: 10px; font-size: 52px;"></i></a> <a href="https://www.linkedin.com/company/ai-responsibly" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin" style="margin-right: 10px; font-size: 52px;"></i></a> <a href="https://twitter.com/AIResponsibly" title="Twitter" rel="external nofollow noopener" target="_blank"><i class="fab fa-twitter" style="margin-right: 10px; font-size: 52px; "></i></a> </div> </div> </footer> <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script> <script type="text/javascript">function progressBarSetup(){"max"in document.createElement("progress")?(initializeProgressElement(),$(document).on("scroll",function(){progressBar.attr({value:getCurrentScrollPosition()})}),$(window).on("resize",initializeProgressElement)):(resizeProgressBar(),$(document).on("scroll",resizeProgressBar),$(window).on("resize",resizeProgressBar))}function getCurrentScrollPosition(){return $(window).scrollTop()}function initializeProgressElement(){let e=$("#navbar").outerHeight(!0);$("body").css({"padding-top":e}),$("progress-container").css({"padding-top":e}),progressBar.css({top:e}),progressBar.attr({max:getDistanceToScroll(),value:getCurrentScrollPosition()})}function getDistanceToScroll(){return $(document).height()-$(window).height()}function resizeProgressBar(){progressBar.css({width:getWidthPercentage()+"%"})}function getWidthPercentage(){return getCurrentScrollPosition()/getDistanceToScroll()*100}const progressBar=$("#progress");window.onload=function(){setTimeout(progressBarSetup,50)};</script> </body> </html>
+    }</script>
+  </d-front-matter>
+
+  
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="header-image"></div>
+        <div class="container">
+          <div style="height: 100%"><a href="/"><img src="https://i.postimg.cc/QMJ7NxZ9/rai.png" alt="logo"></a></div>  <!-- https://i.ibb.co/ZJ0tqjG/rai.png -->
+          <!-- <a class="navbar-brand title font-weight-lighter" href="/">Welcome to the Center for Responsible AI at New York University</a> -->
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">About</a>
+              </li>
+<!-- Julia: commenting out for now -->
+              
+              <!-- Blog -->
+           <li class="nav-item ">
+                <a class="nav-link" href="/blog/">News &amp; Events</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/people/#team">Team</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/people/#visitors">Visitors</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/research/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#data-centric">Data-centric AI</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#explainability">Explainability</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#fairness">Fairness</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#policy">Policy</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#privacy">Privacy</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#ranking">Ranking</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#education">RAI education</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Education</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/education/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#rds">Responsible data science</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#playground">Causal inference</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#playbook">Algorithmic transparency</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#algorithmia">Algorithmia</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#weareai">We are AI</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#comics">Comics</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Policy</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/policy/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/policy/#governance">AI governance</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/policy/#hiring">Algorithmic hiring</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">RAIforUkraine</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/RAIforUkraine/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#students">Students</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#mentors">Mentors</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#donors">Donors</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#publications">Publications</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#press">Press</a>
+                </div>
+              </li>
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Scrolling Progress Bar -->
+      <progress id="progress" value="0">
+        <div class="progress-container">
+          <span class="progress-bar"></span>
+        </div>
+      </progress>
+    </header>
+
+
+    <!-- Content -->
+    <div class="post distill">
+
+      <d-title>
+        <h1>R/AI Newsletter - Research Highlights Issue, October 2022</h1>
+        <p></p>
+      </d-title>
+
+      <d-byline></d-byline>
+
+      <d-article>
+        
+
+        <h2 id="personality-prediction-ai-used-for-pre-hiring-screening-is-shockingly-bad">Personality prediction AI used for pre-hiring screening is shockingly bad!</h2>
+<p>Our research team recently audited two popular commercial AI systems that compute “personality profiles” from resumes and social media profiles of job applicants. <br>
+<br>
+<a href="/news_events/2022/rai-september-2022/"><strong>Read on</strong></a> to learn about what we uncovered!</p>
+
+<div class="row mt-3">   
+    <div class="col-sm mt-10 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/Hiring-AI.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h2 id="what-weve-been-up-to">What we’ve been up to:</h2>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/lightbulb.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>We stand with Ukraine! Over the summer, we ran a 6-week-long summer research program on Responsible AI, in collaboration with the Ukrainian Catholic University. Our 18 research fellows comprised Ukrainian graduate and undergraduate students. <a href="/news_events/2022/rai_summerResearch_september_2022/"><strong>Read More</strong></a> about the program, the final project showcase, and testimonials from the fellows themselves! We are continuing this work in the Fall, stay tuned for updates.</p>
+
+<h2 id="what-we-have-been-working-on">What we have been working on:</h2>
+<h3 id="resume-format-linkedin-urls-and-other-unexpected-influences-on-ai-personality-prediction-in-hiring-results-of-an-audit"><a href="https://dl.acm.org/doi/10.1145/3514094.3534189" rel="external nofollow noopener" target="_blank">Resume Format, LinkedIn URLs and Other Unexpected Influences on AI Personality Prediction in Hiring: Results of an Audit</a></h3>
+<p>Alene Rhea, Kelsey Markey, Lauren D’Arinzo, Hilke Schellmann, Mona Sloane, Paul Squires, and Julia Stoyanovich.
+In 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES ‘22).</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/Personality-prediction.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<p>Algorithmic personality tests are in broad use in hiring today, but do they work? We sought to answer this question by interrogating the validity of algorithmic personality tests that claim to estimate a job seeker’s personality based on their resume or social media profile. We developed a methodology for auditing the stability of predictions made by these tests. Crucially, we framed our methodology around testing the assumptions made by the vendors of these tools. We used this methodology to conduct an external audit of two commercial systems, Humantic AI and Crystal, over a dataset of job applicant profiles collected through an IRB-approved study. The key take-away is that both systems show instability on key facets of measurement, and so cannot be considered valid testing instruments for pre-hire assessment.</p>
+
+<p><a href="/news_events/2022/rai-september-2022/"><strong>Read more</strong></a> about our audit, and <a href="https://www.youtube.com/watch?v=A4RSccTt3kQ&amp;t=1s" rel="external nofollow noopener" target="_blank"><strong>watch a 15-minute video</strong></a> for a summary of our methods and findings.  And take a look at press coverage of these results in <a href="https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/?sh=77ab36af35d3" rel="external nofollow noopener" target="_blank"><strong>Forbes</strong></a> and <a href="https://www.hrdive.com/news/as-nyc-restricts-ai-in-hiring-next-steps-remain-cloudy/633576/" rel="external nofollow noopener" target="_blank"><strong>HR Drive</strong></a>.</p>
+
+<h3 id="its-just-not-that-simple-an-empirical-study-of-the-accuracy-explainability-trade-off-in-machine-learning-for-public-policy"><a href="https://dl.acm.org/doi/10.1145/3531146.3533090" rel="external nofollow noopener" target="_blank">It’s Just Not That Simple: An Empirical Study of the Accuracy-Explainability Trade-off in Machine Learning for Public Policy</a></h3>
+<p>Andrew Bell, Ian Solano-Kamaiko, Oded Nov, and Julia Stoyanovich
+In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22)</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/Explainability-Accuracy.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<p>There is a debate among machine learning researchers and practitioners about the nature – and even the existence – of the accuracy-explainability trade-off. Is it the case that accuracy and explainability are inversely related, and, therefore, that black-box models should be used whenever accuracy is important? Or is it the case that the trade-off rarely exists, and so interpretable models should be preferred in most cases? In this project, we looked at the relationship between accuracy and explainability in two public policy contexts. We neither observed a direct trade-off between accuracy and explainability nor found interpretable models to be superior in terms of explainability. It’s just not that simple!</p>
+
+<h3 id="fairness-in-ranking-part-i-score-based-rankingfairness-in-ranking-part-ii-learning-to-rank-and-recommender-systems">Fairness in Ranking Part I: <a href="https://dl.acm.org/doi/10.1145/3533379" rel="external nofollow noopener" target="_blank">Score-based Ranking</a><br>Fairness in Ranking Part II: <a href="https://dl.acm.org/doi/10.1145/3533380" rel="external nofollow noopener" target="_blank">Learning-to-Rank and Recommender Systems</a>
+</h3>
+<p>Meike Zehlike, Ke Yang, and Julia Stoyanovich
+in <strong>ACM Computing Surveys</strong> (April 2022)</p>
+
+<p>Consider Ann, a university admissions officer who uses an algorithmic ranker to select applicants from a large pool.  Ann knows that applicants’ test scores and, to some extent, their grades, can track a history of disadvantage in access to educational opportunities–good schools and tutoring–and so a ranking based on test scores and grades can be unfair.  How can Ann embed fairness requirements into her selection methodology, in a world where applicants’ qualifications and backgrounds are as incomparable as apples and oranges?</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/Minions-ranking.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<p>In a two-part survey that recently appeared in the ACM Computing Surveys, we set out to help decision-makers like Ann. We developed a common narrative around the value frameworks that motivate specific fairness-enhancing interventions in ranking. This allowed us to unify the mitigation objectives and the algorithmic techniques for fair ranking that have been proposed in several subfields of computer science.  This unified view can help practitioners select a method that is responsive to their fairness requirements.</p>
+
+<h3 id="towards-substantive-conceptions-of-algorithmic-fairness-normative-guidance-from-equal-opportunity-doctrines"><a href="https://eaamo.org/papers/khan-19.pdf" rel="external nofollow noopener" target="_blank">Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines</a></h3>
+<p>Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich</p>
+
+<p>In 2022 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization <a href="https://eaamo.org/" rel="external nofollow noopener" target="_blank">(EAAMO ’22)</a></p>
+
+<!-- Image needs hi res replacement-->
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/p5.webp" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<p>We all agree that fairness is not a statistical concept, but rather a philosophical and moral one. But we don’t really understand the normative dimensions of fairness-enhancing interventions, and don’t have a way to debate in values… or at least we didn’t, until now! In this work we use Equal Opportunity doctrines from political philosophy to make explicit the value judgements embedded in different fairness criteria. This framing allows us to characterize the context of decision-making through the nature of opportunity being allocated, and to re-interpret the impossibility results from a moral perspective: different conceptions of a fair contest are mutually incompatible when people do not have fair life chances. This motivates the need for substantive framings of algorithmic fairness, which we outline in the rest of the paper.</p>
+
+<p><a href="https://dl.acm.org/doi/abs/10.1145/3551624.3555303" rel="external nofollow noopener" target="_blank"><strong>Read the full paper</strong></a>, and watch our <a href="https://www.youtube.com/watch?v=wIjcniWMElU" rel="external nofollow noopener" target="_blank"><strong>oral presentation</strong></a> at ACM EAAMO.</p>
+
+<h3 id="an-interactive-introduction-to-causal-inference"><a href="https://lbynum.github.io/interactive-causal-inference/" rel="external nofollow noopener" target="_blank">An Interactive Introduction to Causal Inference</a></h3>
+<p>Lucius E.J. Bynum, Falaah Arif Khan, Oleksandra Konopatska, Joshua R. Loftus, and Julia Stoyanovich</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+       <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/playground.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>What is causal inference? What is a causal question? How do we answer causal questions? In this interactive tutorial, we explore the basics of causal inference, and explain the role of randomization in answering causal questions.  Join us at our Causal Inference Playground to first gain an intuition about causal inference without too much mathematical notation, and then dive deeper into more theory and causal inference in observational settings.</p>
+
+<h2 id="events-and-press-coverage">Events and Press Coverage</h2>
+
+<p>Members of R/AI spoke in the press about our recent research results and the recent developments in AI regulation.</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+       <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/newsletters/October_2022/press.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" style="width: auto; height: 400px;" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>Julia Stoyanovich spoke with Vox about the <a href="https://www.whitehouse.gov/ostp/ai-bill-of-rights/" rel="external nofollow noopener" target="_blank"><strong>White House Blueprint for an AI Bill of Rights:</strong></a> “I was very happy to see that the Bill discusses the effectiveness of AI systems prominently. Many systems that are in broad use today simply do not work, in any meaningful sense of that term. They produce arbitrary results and are not subjected to rigorous testing, and yet they are used in critical domains such as hiring and employment. We need to develop a culture of rigorously specifying the criteria against which we evaluate AI systems, testing systems before they are deployed, and re-testing them throughout their use to ensure that these criteria are still met. And removing them from use if the systems do not work.”</p>
+
+<p>Julia also spoke with <a href="https://www.hrdive.com/news/as-nyc-restricts-ai-in-hiring-next-steps-remain-cloudy/633576/" rel="external nofollow noopener" target="_blank"><strong>HR Drive</strong></a> about New York City’s Local Law 144 that aims to regulate the use of automated decision systems in hiring. She supports the law and thinks that it should be used to weed out bad actors who produce and sell tools that don’t work.</p>
+
+<p>Andrew Bell presented work on the Accuracy-Explainability trade-off at ACM FAccT in South Korea, in June!</p>
+
+<p>Lucius Bynum introduced the Causal Inference Playground at VISxAI, co-located with IEEE VIS</p>
+
+<p>Falaah Arif Khan discussed the connections between Equality of Opportunity doctrines from political philosophy and notions of algorithmic fairness at EAAMO in Washington, DC, in October.</p>
+
+<p>Julia attended Maker Faire Rome in October, and spoke about making Responsible AI synonymous with AI at the Opening Conference, in a talk titled “IA responsabile: verso l’innovazione socialmente sostenibile”.<br> 
+<a href="[Twitter](https://twitter.com/stoyanoj/status/1575292964083056640)">Twitter</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6981060075687665664/" rel="external nofollow noopener" target="_blank">LinkedIn</a></p>
+
+<h2 id="what-were-looking-forward-to">What we’re looking forward to:</h2>
+<p><a href="https://unidir.org/events/2022-innovations-dialogue-ai-disruption-peace-and-security" rel="external nofollow noopener" target="_blank"><strong>UN Institute for Disarmament Research (UNIDIR):</strong></a> Register to attend the UNIDIR Innovations Dialogue on AI Disruption, Peace, and Security, in person in New York City or online. Julia will speak in the opening panel, discussing the state of play and the future of AI. <br>
+<a href="https://twitter.com/UNIDIR/status/1564238047096487936" rel="external nofollow noopener" target="_blank">Twitter</a> 
+<a href="https://www.linkedin.com/posts/unidir_ai-id22-activity-6986334810428297216-kbj5" rel="external nofollow noopener" target="_blank">LinkedIn</a></p>
+
+<p><strong>When</strong>: October 20, 2022</p>
+
+<p><strong>Where</strong>: <a href="https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/" rel="external nofollow noopener" target="_blank">Ford Foundation Center for Social Justice</a>, 320 E 43rd St, New York, NY  and online</p>
+
+<p><strong>RSVP</strong>: <a href="https://forms.office.com/r/3wZNbSCi2N" rel="external nofollow noopener" target="_blank">at this link</a></p>
+
+      </d-article>
+
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
+
+      <d-bibliography src="/assets/bibliography/"></d-bibliography>
+    </div>
+
+    <!-- Footer -->    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        © Copyright 2025 Center for Responsible AI at New York University. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
+
+        <div class="contact-icons" style="display: flex; justify-content: center; margin: 25px;">
+          <a href="mailto:%72%65%73%70%6F%6E%73%69%62%6C%65%61%69@%6E%79%75.%65%64%75" title="email"><i class="fas fa-envelope" style="margin-right: 10px; font-size: 52px;"></i></a>
+            <a href="https://airesponsibly.us21.list-manage.com/subscribe?u=fe132ea6ae0280345f9989e41&amp;id=8ebe38f466" title="newsletter" rel="external nofollow noopener" target="_blank"><i class="fab fa-telegram" style="margin-right: 10px; font-size: 52px;"></i></a>
+            <a href="https://www.linkedin.com/company/ai-responsibly" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin" style="margin-right: 10px; font-size: 52px;"></i></a>
+            <a href="https://twitter.com/AIResponsibly" title="Twitter" rel="external nofollow noopener" target="_blank"><i class="fab fa-twitter" style="margin-right: 10px; font-size: 52px; "></i></a>
+            
+
+        </div>
+      </div>
+    </footer>
+
+    
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    
+    
+
+<!-- Scrolling Progress Bar -->
+<script type="text/javascript">
+  /*
+   * This JavaScript code has been adapted from the article 
+   * https://css-tricks.com/reading-position-indicator/ authored by Pankaj Parashar, 
+   * published on the website https://css-tricks.com on the 7th of May, 2014.
+   * Couple of changes were made to the original code to make it compatible 
+   * with the `al-foio` theme.
+   */
+  const progressBar = $("#progress");
+  /*
+   * We set up the bar after all elements are done loading.
+   * In some cases, if the images in the page are larger than the intended
+   * size they'll have on the page, they'll be resized via CSS to accomodate
+   * the desired size. This mistake, however, breaks the computations as the
+   * scroll size is computed as soon as the elements finish loading.
+   * To account for this, a minimal delay was introduced before computing the
+   * values.
+   */
+  window.onload = function () {
+    setTimeout(progressBarSetup, 50);
+  };
+  /*
+   * We set up the bar according to the browser.
+   * If the browser supports the progress element we use that.
+   * Otherwise, we resize the bar thru CSS styling
+   */
+  function progressBarSetup() {
+    if ("max" in document.createElement("progress")) {
+      initializeProgressElement();
+      $(document).on("scroll", function() {
+        progressBar.attr({ value: getCurrentScrollPosition() });
+      });
+      $(window).on("resize", initializeProgressElement);
+    } else {
+      resizeProgressBar();
+      $(document).on("scroll", resizeProgressBar);
+      $(window).on("resize", resizeProgressBar);
+    }
+  }
+  /*
+   * The vertical scroll position is the same as the number of pixels that
+   * are hidden from view above the scrollable area. Thus, a value > 0 is
+   * how much the user has scrolled from the top
+   */
+  function getCurrentScrollPosition() {
+    return $(window).scrollTop();
+  }
+
+  function initializeProgressElement() {
+    let navbarHeight = $("#navbar").outerHeight(true);
+    $("body").css({ "padding-top": navbarHeight });
+    $("progress-container").css({ "padding-top": navbarHeight });
+    progressBar.css({ top: navbarHeight });
+    progressBar.attr({
+      max: getDistanceToScroll(),
+      value: getCurrentScrollPosition(),
+    });
+  }
+  /*
+   * The offset between the html document height and the browser viewport
+   * height will be greater than zero if vertical scroll is possible.
+   * This is the distance the user can scroll
+   */
+  function getDistanceToScroll() {
+    return $(document).height() - $(window).height();
+  }
+
+  function resizeProgressBar() {
+    progressBar.css({ width: getWidthPercentage() + "%" });
+  }
+  // The scroll ratio equals the percentage to resize the bar
+  function getWidthPercentage() {
+    return (getCurrentScrollPosition() / getDistanceToScroll()) * 100;
+  }
+</script>
+
+  
+</body>
+</html>

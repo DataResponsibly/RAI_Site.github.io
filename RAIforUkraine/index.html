@@ -1,4 +1,565 @@
-<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> | Welcome to the Center for Responsible AI at New York University</title> <meta name="author" content="Center for Responsible AI at New York University"> <meta name="description" content="Center for Responsible AI at New York University. "> <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website"> <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous"> <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css"> <link rel="canonical" href="https://airesponsibly.net/RAIforUkraine/"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark"> <script src="/assets/js/theme.js"></script> <script src="/assets/js/dark_mode.js"></script> </head> <body class="fixed-top-nav sticky-bottom-footer"> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top"> <div class="header-image"></div> <div class="container"> <div style="height: 100%"><a href="/"><img src="https://i.postimg.cc/QMJ7NxZ9/rai.png" alt="logo"></a></div> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">About</a> </li> <li class="nav-item "> <a class="nav-link" href="/blog/">News &amp; Events</a> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/people/#team">Team</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/people/#visitors">Visitors</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/research/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#data-centric">Data-centric AI</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#explainability">Explainability</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#fairness">Fairness</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#policy">Policy</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#privacy">Privacy</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#ranking">Ranking</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/research/#education">RAI education</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Education</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/education/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#rds">Responsible data science</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#playground">Causal inference</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#playbook">Algorithmic transparency</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#algorithmia">Algorithmia</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#weareai">We are AI</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/education/#comics">Comics</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Policy</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/policy/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/policy/#governance">AI governance</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/policy/#hiring">Algorithmic hiring</a> </div> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">RAIforUkraine</a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="/RAIforUkraine/">Overview</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#students">Students</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#mentors">Mentors</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#donors">Donors</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#publications">Publications</a> <div class="dropdown-divider"></div> <a class="dropdown-item" href="/RAIforUkraine/#press">Press</a> </div> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="fas fa-moon"></i> <i class="fas fa-sun"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5"> <div class="post"> <header class="post-header"> <h1 class="post-title"></h1> <p class="post-description"></p> </header> <article> <div id="banner-other" style="background-image: url('/assets/img/banner/RAIforUkraine_Banner.png');"></div> <p>The ongoing war in Ukraine has severely disrupted the lives of hundreds of thousands of people, significantly impacting university students by displacing many and interrupting their education. To address this, NYU R/AI launched <strong>#RAIforUkraine</strong>, a fully remote academic research program in partnership with the <a href="https://ucu.edu.ua/en/" rel="external nofollow noopener" target="_blank">Ukrainian Catholic University (UCU)</a> in Lviv, Ukraine. In the short term, the program aims to provide a sense of normalcy, and high-quality research opportunities, to students in Ukraine. Its long-term goal is to strengthen Ukraine’s research capacity in responsible AI.</p> <p><strong>#RAIforUkraine</strong> launched in June 2022, and has been running on the academic calendar (September through August) since Fall 2023. The program is open to undergraduate and graduate students who live in Ukraine and are enrolled in degree programs in computer science, information systems and related fields at accredited Ukrainian universities. These students – <strong>RAI Research Fellows</strong> – are mentored by academic researchers from U.S. and European universities, and conduct cutting-edge collaborative research on a range of responsible AI topics. Students receive academic credit and competitive stipends.</p> <p>Financial support for the program is provided by NYU R/AI, and by generous contributions from <a href="https://www.simonsfoundation.org/" rel="external nofollow noopener" target="_blank">Simons Foundation</a> and from the <a href="https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html" rel="external nofollow noopener" target="_blank">NYU Office of Global Services</a>. <strong>Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai" rel="external nofollow noopener" target="_blank">here</a> to support #RAIforUkraine!</strong></p> <p><strong>Download the <a href="/assets/pdf/RAIforUkraineFlyer.pdf">RAI for Ukraine flyer</a> for a summary of the program!</strong></p> <hr> <h4 class="category" id="showcases">Program Showcases</h4> <p>RAI Resarch Fellows present their findings in public virtual showcases. Many of their projects lead to <a href="/RAIforUkraine/#publications">peer-reviewed publications at top conferences and journals</a>.</p> <div class="container"> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <a href="https://youtu.be/r7tBBcO1JIM" rel="external nofollow noopener" target="_blank"> <figure> <picture> <img src="/assets/img/events/Spring2024_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> <div class="col-sm mt-3 mt-md-0"> <a href="https://youtu.be/BrnVgvP-vp0" rel="external nofollow noopener" target="_blank"> <figure> <picture> <img src="/assets/img/events/Fall2023_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> </div> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <a href="https://youtu.be/GGO_JL5QUPg" rel="external nofollow noopener" target="_blank"> <figure> <picture> <img src="/assets/img/events/Spring2023_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> <div class="col-sm mt-3 mt-md-0"> <a href="https://youtu.be/27NXbZsmy1I" rel="external nofollow noopener" target="_blank"> <figure> <picture> <img src="/assets/img/events/Fall2022_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> </div> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <a href="https://youtu.be/hM4eRWO5DNI" rel="external nofollow noopener" target="_blank"> <figure> <picture> <img src="/assets/img/events/Summer2022_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> <div class="col-sm mt-3 mt-md-0">   </div> </div> </div> <hr> <h4 class="category" id="apply">Why join #RAIforUkraine?</h4> <p>Since the program’s inception, over 50 RAI Research Fellows have participated in the program. They worked with mentors from 10 academic institutions in the U.S., the U.K., France, The Netherlands, Portugal, and Hungary. We plan to enroll the next cohort in September 2024.</p> <h5 class="category" id="students">For Prospective Research Fellows</h5> <ul> <li> <p><strong>Gain research experience:</strong> You will work on a RAI research project of your choice, under the guidance of distinguished faculty from universities across the U.S. and Europe, and in close collaboration with their doctoral students or postdocs.</p> </li> <li> <p><strong>Build your resume:</strong> You will receive an affiliation as a Research Fellow at the NYU Center for Responsible AI, enhancing your academic profile with international credibility.</p> </li> <li> <p><strong>Receive academic credit / stipend:</strong> You will receive academic credit towards your degree in the Fall semester; and a competitive stipend if you are selected to continue in the Spring and Summer terms.</p> </li> <li> <p><strong>Establish global collaborations:</strong> You will collaborate with peers from diverse backgrounds, gaining valuable international perspectives and cultural insights.</p> </li> </ul> <div class="container"> <div class="row mt-3"> <div class="col-sm-4 mt-3 mt-md-0"> <figure> <picture> <img src="/assets/img/Stacy.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> <div class="col-sm-8 mt-3 mt-md-0"> <i>“This program had a great balance between practical and theory based learning. We spoke a lot about ethics, general fairness, philosophy and sociology. But it was also practical because we were looking at data based on everything we had discussed.”</i> <b>Anastasia Holovenko</b>, 2022 RAI Research Fellow, graduate student at Ukrainian Catholic University </div> </div> <div class="row mt-3"> <div class="col-sm-4 mt-3 mt-md-0"> <figure> <picture> <img src="/assets/img/Andrii.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> <div class="col-sm-8 mt-3 mt-md-0"> <i>"I met new people and I had never worked in this field and it was new to me. I got to learn what its about and we read others papers. Previously, I only had exposure to Machine Learning research, but this time I got to read papers on sociology which gave me a new perspective because I had no idea about it before. Just learnt a bunch of new things I had never tried or experienced."</i> <b>Andrii Standnik</b>, 2022 RAI Research Fellow, undergraduate student at Ukrainian Catholic University </div> </div> </div> <div class="container"> <div class="row mt-3"> <div class="col-sm-2 mt-3 mt-md-0"> <figure> <picture> <img src="/assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> <div class="col-sm-10 mt-3 mt-md-0"> <b>Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8" rel="external nofollow noopener" target="_blank">this form</a> no later than September 4, 2024, to apply to the program for the Fall 2024 cycle.</b> Should you be selected to proceed to the next stage, we’ll contact you shortly after the deadline to invite you to attend a project open house, and then be matched with a research project that aligns with your interests and skills. </div> </div> </div> <hr> <h5 class="category" id="mentors">For Prospective Mentors</h5> <ul> <li> <p><strong>Support Ukraine:</strong> You will support Ukrainian students during critical times, helping maintain and elevate educational standards.</p> </li> <li> <p><strong>Establish global collaborations:</strong> You will engage in cutting-edge research with motivated and talented students, leading to potential co-authored publications. These students will receive academic credit and competitive stipends, with funding provided by NYU R/AI.</p> </li> <li> <p><strong>Enhance your mentorship skills:</strong> You will enhance your mentorship skills by guiding students through collaborative research projects, and receive acknowledgement for your mentorship efforts, bolstering your academic and professional profile.</p> </li> <li> <p><strong>Participate in cultural exchange:</strong> You will gain insights into diverse cultural perspectives, enhancing your global understanding and intercultural skills.</p> </li> </ul> <div class="container"> <div class="row mt-3"> <div class="col-sm-2 mt-3 mt-md-0"> <figure> <picture> <img src="/assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> <div class="col-sm-10 mt-3 mt-md-0"> <b>Fill out <a href="https://forms.gle/dSjjFfqVFd3Thgi4A" rel="external nofollow noopener" target="_blank"> this form</a> no later than August 31, 2024, to propose a research project.</b> By mentoring RAI Research Fellows, you will play a crucial role in their academic and professional development. We are excited to hear from you! </div> </div> </div> <hr> <h5 class="category" id="donors">For Prospective Donors</h5> <ul> <li> <p><strong>Support Ukraine:</strong> You will leave a lasting impact on the educational landscape in Ukraine by empowering and supporting the next generation of scholars during a critical time.</p> </li> <li> <p><strong>Build a better future:</strong> You will contribute to the development of responsible AI principles and practices that will shape the future of technology and society. Your contribution will help make “responsible AI” synonymous with “AI”.</p> </li> <li> <p><strong>Strengthen international collaboration:</strong> You will support a unique program that bridges cultural and geographical gaps, promoting peace and cooperation between nations. By doing so, you will help create a diverse, international research community, fostering cross-cultural understanding and collaboration.</p> </li> </ul> <div class="container"> <div class="row mt-3"> <div class="col-sm-2 mt-3 mt-md-0"> <figure> <picture> <img src="/assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> <div class="col-sm-10 mt-3 mt-md-0"> <b>Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai" rel="external nofollow noopener" target="_blank">here</a> to support #RAIforUkraine.</b> We greatly appreciate your generosity and commitment to empowering the next generation of Ukrainian scholars! </div> </div> </div> <hr> <h4 class="category" id="publications">Selected Publications</h4> <div class="publications"> <ol class="bibliography"> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/shades.png"></div> <div id="khan2024shadesnullbenchmarkresponsible" class="col-sm-8"> <div class="title">Still More Shades of Null: A Benchmark for Responsible Missing Value Imputation</div> <div class="author"> Falaah Arif Khan, Denys Herasymuk, Nazar Protsiv, and Julia Stoyanovich</div> <div class="periodical"> <em>CoRR</em> 2024 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://doi.org/10.48550/arXiv.2409.07510" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> <a href="https://github.com/FalaahArifKhan/data-cleaning-stability" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">khan2024shadesnullbenchmarkresponsible</span><span class="p">,</span>
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> | Welcome to the Center for Responsible AI at New York University</title>
+    <meta name="author" content="Center for Responsible AI at New York University">
+    <meta name="description" content="Center for Responsible AI at New York University.
+">
+    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="https://airesponsibly.net/RAIforUkraine/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav sticky-bottom-footer">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="header-image"></div>
+        <div class="container">
+          <div style="height: 100%"><a href="/"><img src="https://i.postimg.cc/QMJ7NxZ9/rai.png" alt="logo"></a></div>  <!-- https://i.ibb.co/ZJ0tqjG/rai.png -->
+          <!-- <a class="navbar-brand title font-weight-lighter" href="/">Welcome to the Center for Responsible AI at New York University</a> -->
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">About</a>
+              </li>
+<!-- Julia: commenting out for now -->
+              
+              <!-- Blog -->
+           <li class="nav-item ">
+                <a class="nav-link" href="/blog/">News &amp; Events</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/people/#team">Team</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/people/#visitors">Visitors</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/research/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#data-centric">Data-centric AI</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#explainability">Explainability</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#fairness">Fairness</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#policy">Policy</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#privacy">Privacy</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#ranking">Ranking</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/research/#education">RAI education</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Education</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/education/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#rds">Responsible data science</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#playground">Causal inference</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#playbook">Algorithmic transparency</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#algorithmia">Algorithmia</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#weareai">We are AI</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/education/#comics">Comics</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Policy</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/policy/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/policy/#governance">AI governance</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/policy/#hiring">Algorithmic hiring</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">RAIforUkraine</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/RAIforUkraine/">Overview</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#students">Students</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#mentors">Mentors</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#donors">Donors</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#publications">Publications</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/RAIforUkraine/#press">Press</a>
+                </div>
+              </li>
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Scrolling Progress Bar -->
+      <progress id="progress" value="0">
+        <div class="progress-container">
+          <span class="progress-bar"></span>
+        </div>
+      </progress>
+    </header>
+
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- page.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h1 class="post-title"></h1>
+            <p class="post-description"></p>
+          </header>
+
+          <article>
+            <div id="banner-other" style="background-image: url('/assets/img/banner/RAIforUkraine_Banner.png');"></div>
+
+<!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
+
+<p>The ongoing war in Ukraine has severely disrupted the lives of
+hundreds of thousands of people, significantly impacting university
+students by displacing many and interrupting their education.  To
+address this, NYU R/AI launched <strong>#RAIforUkraine</strong>, a fully remote
+academic research program in partnership with the <a href="https://ucu.edu.ua/en/" rel="external nofollow noopener" target="_blank">Ukrainian Catholic University (UCU)</a>
+in Lviv, Ukraine.  In the short term, the program aims to provide a
+sense of normalcy, and high-quality research opportunities, to
+students in Ukraine.  Its long-term goal is to strengthen Ukraine’s
+research capacity in responsible AI.</p>
+
+<p><strong>#RAIforUkraine</strong> launched in June 2022, and has been running on the
+academic calendar (September through August) since Fall 2023.  The
+program is open to undergraduate and graduate students who live in
+Ukraine and are enrolled in degree programs in computer science,
+information systems and related fields at accredited Ukrainian
+universities.  These students – <strong>RAI Research Fellows</strong> – are
+mentored by academic researchers from U.S. and European universities,
+and conduct cutting-edge collaborative research on a range of
+responsible AI topics.  Students receive academic credit and
+competitive stipends.</p>
+
+<p>Financial support for the program is provided by NYU R/AI, and by
+generous contributions from <a href="https://www.simonsfoundation.org/" rel="external nofollow noopener" target="_blank">Simons
+Foundation</a> and from the <a href="https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html" rel="external nofollow noopener" target="_blank">NYU Office of
+Global
+Services</a>. <strong>Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai" rel="external nofollow noopener" target="_blank">here</a> to support #RAIforUkraine!</strong></p>
+
+<p><strong>Download the <a href="/assets/pdf/RAIforUkraineFlyer.pdf">RAI for Ukraine flyer</a> for a summary of the program!</strong></p>
+<hr>
+
+<h4 class="category" id="showcases">Program Showcases</h4>
+
+<p>RAI Resarch Fellows present their findings in
+public virtual showcases. Many of their projects lead to
+<a href="/RAIforUkraine/#publications">peer-reviewed publications at top conferences and journals</a>.</p>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://youtu.be/r7tBBcO1JIM" rel="external nofollow noopener" target="_blank">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/events/Spring2024_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://youtu.be/BrnVgvP-vp0" rel="external nofollow noopener" target="_blank">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/events/Fall2023_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+  </div>
+    <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://youtu.be/GGO_JL5QUPg" rel="external nofollow noopener" target="_blank">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/events/Spring2023_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://youtu.be/27NXbZsmy1I" rel="external nofollow noopener" target="_blank">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/events/Fall2022_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://youtu.be/hM4eRWO5DNI" rel="external nofollow noopener" target="_blank">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/events/Summer2022_Showcase.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+     
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<h4 class="category" id="apply">Why join #RAIforUkraine?</h4>
+
+<p>Since the program’s inception, over 50 RAI Research Fellows have
+participated in the program. They worked with mentors from 10 academic
+institutions in the U.S., the U.K., France, The Netherlands, Portugal,
+and Hungary.  We plan to enroll the next cohort in September 2024.</p>
+
+<h5 class="category" id="students">For Prospective Research Fellows</h5>
+
+<ul>
+  <li>
+    <p><strong>Gain research experience:</strong> You will work on a RAI research project of
+your choice, under the guidance of distinguished faculty from
+universities across the U.S. and Europe, and in close collaboration with
+their doctoral students or postdocs.</p>
+  </li>
+  <li>
+    <p><strong>Build your resume:</strong> You will receive an affiliation as a Research
+Fellow at the NYU Center for Responsible AI, enhancing your academic
+profile with international credibility.</p>
+  </li>
+  <li>
+    <p><strong>Receive academic credit / stipend:</strong> You will receive academic
+credit towards your degree in the Fall semester; and a competitive
+stipend if you are selected to continue in the Spring and Summer
+terms.</p>
+  </li>
+  <li>
+    <p><strong>Establish global collaborations:</strong> You will collaborate with peers
+from diverse backgrounds, gaining valuable international perspectives
+and cultural insights.</p>
+  </li>
+</ul>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Stacy.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <i>“This program had a great balance between practical and theory based learning. We spoke a lot about ethics, general fairness, philosophy
+and sociology. But it was also practical because we were looking at data based on everything we had discussed.”</i>
+   <b>Anastasia Holovenko</b>, 2022 RAI Research Fellow, graduate student at Ukrainian Catholic University
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+     <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Andrii.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+   <div class="col-sm-8 mt-3 mt-md-0">
+    <i>"I met new people and I had never worked in this field and it was new to me. I got to learn what its about and we read others papers. Previously, I only had exposure to Machine Learning research, but this time I got to read papers on sociology which gave me a new perspective because I had no idea about it before. Just learnt a bunch of new things I had never tried or experienced."</i>
+    <b>Andrii Standnik</b>, 2022 RAI Research Fellow, undergraduate student at Ukrainian Catholic University
+    </div>
+</div>
+</div>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm-2 mt-3 mt-md-0"> 
+      <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+      <b>Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8" rel="external nofollow noopener" target="_blank">this form</a> no later than September 4, 2024, to apply to the program for the Fall
+      2024 cycle.</b> Should you be selected to proceed to the next stage, we’ll contact you shortly after the deadline to invite you to attend a
+      project open house, and then be matched with a research project that aligns with your interests and skills.
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<h5 class="category" id="mentors">For Prospective Mentors</h5>
+
+<ul>
+  <li>
+    <p><strong>Support Ukraine:</strong> You will support Ukrainian students during
+critical times, helping maintain and elevate educational standards.</p>
+  </li>
+  <li>
+    <p><strong>Establish global collaborations:</strong> You will engage in cutting-edge
+  research with motivated and talented students, leading to
+  potential co-authored publications.  These students will receive
+  academic credit and competitive stipends, with funding provided by
+  NYU R/AI.</p>
+  </li>
+  <li>
+    <p><strong>Enhance your mentorship skills:</strong> You will enhance your mentorship
+skills by guiding students through collaborative research projects,
+and receive acknowledgement for your mentorship efforts, bolstering
+your academic and professional profile.</p>
+  </li>
+  <li>
+    <p><strong>Participate in cultural exchange:</strong> You will gain insights into
+  diverse cultural perspectives, enhancing your global understanding
+  and intercultural skills.</p>
+  </li>
+</ul>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm-2 mt-3 mt-md-0">
+      <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+    <b>Fill out <a href="https://forms.gle/dSjjFfqVFd3Thgi4A" rel="external nofollow noopener" target="_blank"> this form</a> no later than August 31, 2024, to propose a research project.</b>  By mentoring RAI Research Fellows, you  will play a crucial role in their academic and professional development. We are excited to hear from you!
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<h5 class="category" id="donors">For Prospective Donors</h5>
+
+<ul>
+  <li>
+    <p><strong>Support Ukraine:</strong> You will leave a lasting impact on the
+  educational landscape in Ukraine by empowering and supporting the
+  next generation of scholars during a critical time.</p>
+  </li>
+  <li>
+    <p><strong>Build a better future:</strong> You will contribute to the development of
+  responsible AI principles and practices that will shape the future
+  of technology and society.  Your contribution will help make
+  “responsible AI” synonymous with “AI”.</p>
+  </li>
+  <li>
+    <p><strong>Strengthen international collaboration:</strong> You will support a
+  unique program that bridges cultural and geographical gaps,
+  promoting peace and cooperation between nations.  By doing so, you
+  will help create a diverse, international research community,
+  fostering cross-cultural understanding and collaboration.</p>
+  </li>
+</ul>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm-2 mt-3 mt-md-0">
+      <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+    <b>Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai" rel="external nofollow noopener" target="_blank">here</a>
+    to support #RAIforUkraine.</b>  We greatly appreciate your generosity and commitment to empowering the next generation of Ukrainian scholars!
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<!-- <h4 class="category" id="projects">Selected Projects</h4> -->
+
+<h4 class="category" id="publications">Selected Publications</h4>
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/shades.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="khan2024shadesnullbenchmarkresponsible" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Still More Shades of Null: A Benchmark for Responsible Missing Value Imputation</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Falaah Arif Khan, Denys Herasymuk, Nazar Protsiv, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>CoRR</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://doi.org/10.48550/arXiv.2409.07510" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://github.com/FalaahArifKhan/data-cleaning-stability" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">khan2024shadesnullbenchmarkresponsible</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Still More Shades of Null: A Benchmark for Responsible Missing Value Imputation}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Khan, Falaah Arif and Herasymuk, Denys and Protsiv, Nazar and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
@@ -10,7 +571,44 @@
   <span class="na">eprinttype</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
   <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2409.07510}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{working,RAIforUkraine,data}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/virny.png"></div> <div id="DBLP:conf/sigmod/HerasymukKS24" class="col-sm-8"> <div class="title">Responsible Model Selection with Virny and VirnyView</div> <div class="author"> Denys Herasymuk, Falaah Arif Khan, and Julia Stoyanovich</div> <div class="periodical"> <em>In Companion of the International Conference on Management of Data, SIGMOD/PODS, Santiago, Chile</em> 2024 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://doi.org/10.1145/3626246.3654738" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> <a href="https://github.com/DataResponsibly/Virny" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">DBLP:conf/sigmod/HerasymukKS24</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/virny.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="DBLP:conf/sigmod/HerasymukKS24" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Responsible Model Selection with Virny and VirnyView</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Denys Herasymuk, Falaah Arif Khan, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>In Companion of the International Conference on Management of Data,
+                  SIGMOD/PODS, Santiago, Chile</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://doi.org/10.1145/3626246.3654738" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://github.com/DataResponsibly/Virny" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">DBLP:conf/sigmod/HerasymukKS24</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Herasymuk, Denys and Khan, Falaah Arif and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">editor</span> <span class="p">=</span> <span class="s">{Barcel{\'{o}}, Pablo and Pi, Nayat S{\'{a}}nchez and Meliou, Alexandra and Sudarshan, S.}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Responsible Model Selection with Virny and VirnyView}</span><span class="p">,</span>
@@ -23,7 +621,44 @@
   <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1145/3626246.3654738}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{conference,demo,RAIforUkraine,data}</span><span class="p">,</span>
   <span class="na">author+an</span> <span class="p">=</span> <span class="s">{1=self;2=self;3=self}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/epistemic_parity.png"></div> <div id="DBLP:journals/sigmod/RosenblattHHLLMRSHS24" class="col-sm-8"> <div class="title">Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy</div> <div class="author"> Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth McKinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, and Julia Stoyanovich</div> <div class="periodical"> <em>SIGMOD Rec.</em> 2024 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://doi.org/10.1145/3665252.3665267" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> <a href="https://github.com/DataResponsibly/SynRD" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/sigmod/RosenblattHHLLMRSHS24</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/epistemic_parity.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="DBLP:journals/sigmod/RosenblattHHLLMRSHS24" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Epistemic Parity: Reproducibility as an Evaluation Metric for Differential
+                  Privacy</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth McKinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>SIGMOD Rec.</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://doi.org/10.1145/3665252.3665267" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://github.com/DataResponsibly/SynRD" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/sigmod/RosenblattHHLLMRSHS24</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Rosenblatt, Lucas and Herman, Bernease and Holovenko, Anastasia and Lee, Wonkwon and Loftus, Joshua R. and McKinnie, Elizabeth and Rumezhak, Taras and Stadnik, Andrii and Howe, Bill and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Epistemic Parity: Reproducibility as an Evaluation Metric for Differential
                     Privacy}</span><span class="p">,</span>
@@ -36,7 +671,44 @@
   <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1145/3665252.3665267}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{journal,privacy,RAIforUkraine}</span><span class="p">,</span>
   <span class="na">author+an</span> <span class="p">=</span> <span class="s">{1=self;3=self;4=self;6=self;7=self;8=self;10=self}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/fairness_tree.png"></div> <div id="DBLP:conf/fat/BellBDZRS23" class="col-sm-8"> <div class="title">The Possibility of Fairness: Revisiting the Impossibility Theorem in Practice</div> <div class="author"> Andrew Bell, Lucius Bynum, Nazarii Drushchak, Tetiana Zakharchenko, Lucas Rosenblatt, and Julia Stoyanovich</div> <div class="periodical"> <em>In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, FAccT, Chicago, IL, USA</em> 2023 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://doi.org/10.1145/3593013.3594007" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">DBLP:conf/fat/BellBDZRS23</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/fairness_tree.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="DBLP:conf/fat/BellBDZRS23" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">The Possibility of Fairness: Revisiting the Impossibility Theorem
+                  in Practice</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Andrew Bell, Lucius Bynum, Nazarii Drushchak, Tetiana Zakharchenko, Lucas Rosenblatt, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>In Proceedings of the ACM Conference on Fairness, Accountability,
+                  and Transparency, FAccT, Chicago, IL, USA</em> 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://doi.org/10.1145/3593013.3594007" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">DBLP:conf/fat/BellBDZRS23</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Bell, Andrew and Bynum, Lucius and Drushchak, Nazarii and Zakharchenko, Tetiana and Rosenblatt, Lucas and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{The Possibility of Fairness: Revisiting the Impossibility Theorem
                     in Practice}</span><span class="p">,</span>
@@ -48,7 +720,42 @@
   <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1145/3593013.3594007}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{conference,fairness,RAIforUkraine}</span><span class="p">,</span>
   <span class="na">author+an</span> <span class="p">=</span> <span class="s">{1=self;2=self;3=self;4=self;5=self;6=self}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/rankersrankees.png"></div> <div id="DBLP:journals/corr/abs-2401-16744" class="col-sm-8"> <div class="title">ShaRP: A Novel Feature Importance Framework for Ranking</div> <div class="author"> Venetia Pliatsika, João Fonseca, Kateryna Akhynko, Ivan Shevchenko, and Julia Stoyanovich</div> <div class="periodical"> <em>CoRR</em> 2024 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://doi.org/10.48550/arXiv.2401.16744" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/corr/abs-2401-16744</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/rankersrankees.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="DBLP:journals/corr/abs-2401-16744" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">ShaRP: A Novel Feature Importance Framework for Ranking</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Venetia Pliatsika, João Fonseca, Kateryna Akhynko, Ivan Shevchenko, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>CoRR</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://doi.org/10.48550/arXiv.2401.16744" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/corr/abs-2401-16744</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Pliatsika, Venetia and Fonseca, Jo{\~{a}}o and Akhynko, Kateryna and Shevchenko, Ivan and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{ShaRP: A Novel Feature Importance Framework for Ranking}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{CoRR}</span><span class="p">,</span>
@@ -61,7 +768,42 @@
   <span class="na">biburl</span> <span class="p">=</span> <span class="s">{https://dblp.org/rec/journals/corr/abs-2401-16744.bib}</span><span class="p">,</span>
   <span class="na">bibsource</span> <span class="p">=</span> <span class="s">{dblp computer science bibliography, https://dblp.org}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{working,ranking,explainability,transparency,RAIforUkraine}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/heircare.png"></div> <div id="bynum2022interactive" class="col-sm-8"> <div class="title">An Interactive Introduction to Causal Inference</div> <div class="author"> Lucius E.J. Bynum, Falaah Arif Khan, Oleksandra Konopatska, Joshua R. Loftus, and Julia Stoyanovich</div> <div class="periodical"> <em>VISxAI: Workshop on Visualization for AI Explainability</em> 2022 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://r-ai.co/ci-playground" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">online resource</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">bynum2022interactive</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/heircare.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="bynum2022interactive" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">An Interactive Introduction to Causal Inference</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Lucius E.J. Bynum, Falaah Arif Khan, Oleksandra Konopatska, Joshua R. Loftus, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>VISxAI: Workshop on Visualization for AI Explainability</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://r-ai.co/ci-playground" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">online resource</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">bynum2022interactive</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Bynum, Lucius E.J. and Khan, Falaah Arif and Konopatska, Oleksandra and Loftus, Joshua R. and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{An Interactive Introduction to Causal Inference}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{VISxAI: Workshop on Visualization for AI Explainability}</span><span class="p">,</span>
@@ -69,7 +811,44 @@
   <span class="na">site</span> <span class="p">=</span> <span class="s">{https://r-ai.co/ci-playground}</span><span class="p">,</span>
   <span class="na">publisher</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{workshop,education,playground,RAIforUkraine}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/epistemic_parity.png"></div> <div id="DBLP:journals/pvldb/RosenblattHHLLM23" class="col-sm-8"> <div class="title">Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy</div> <div class="author"> Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth Mckinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, and Julia Stoyanovich</div> <div class="periodical"> <em>Proc. VLDB Endow.</em> 2023 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://www.vldb.org/pvldb/vol16/p3178-rosenblatt.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> <a href="https://github.com/DataResponsibly/SynRD" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/pvldb/RosenblattHHLLM23</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/epistemic_parity.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="DBLP:journals/pvldb/RosenblattHHLLM23" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Epistemic Parity: Reproducibility as an Evaluation Metric for Differential
+                  Privacy</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth Mckinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proc. VLDB Endow.</em> 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://www.vldb.org/pvldb/vol16/p3178-rosenblatt.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://github.com/DataResponsibly/SynRD" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/pvldb/RosenblattHHLLM23</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Rosenblatt, Lucas and Herman, Bernease and Holovenko, Anastasia and Lee, Wonkwon and Loftus, Joshua R. and Mckinnie, Elizabeth and Rumezhak, Taras and Stadnik, Andrii and Howe, Bill and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Epistemic Parity: Reproducibility as an Evaluation Metric for Differential
                     Privacy}</span><span class="p">,</span>
@@ -83,7 +862,42 @@
   <span class="na">biburl</span> <span class="p">=</span> <span class="s">{https://dblp.org/rec/journals/pvldb/RosenblattHHLLM23.bib}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{journal,privacy,RAIforUkraine}</span><span class="p">,</span>
   <span class="na">author+an</span> <span class="p">=</span> <span class="s">{1=self;3=self;4=self;6=self;7=self;8=self;10=self}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row"> <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/lightbulb.png"></div> <div id="DBLP:journals/corr/abs-2302-04525" class="col-sm-8"> <div class="title">On Fairness and Stability: Is Estimator Variance a Friend or a Foe?</div> <div class="author"> Falaah Arif Khan, Denys Herasymuk, and Julia Stoyanovich</div> <div class="periodical"> <em>CoRR</em> 2023 </div> <div class="links"> <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a> <a href="https://doi.org/10.48550/arXiv.2302.04525" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> </div> <div class="bibtex hidden"> <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/corr/abs-2302-04525</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/lightbulb.png"></div>
+
+        <!-- Entry bib key -->
+        <div id="DBLP:journals/corr/abs-2302-04525" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">On Fairness and Stability: Is Estimator Variance a Friend or a Foe?</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Falaah Arif Khan, Denys Herasymuk, and Julia Stoyanovich</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>CoRR</em> 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Cite</a>
+            <a href="https://doi.org/10.48550/arXiv.2302.04525" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">DBLP:journals/corr/abs-2302-04525</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Khan, Falaah Arif and Herasymuk, Denys and Stoyanovich, Julia}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{On Fairness and Stability: Is Estimator Variance a Friend or a Foe?}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{CoRR}</span><span class="p">,</span>
@@ -93,4 +907,187 @@
   <span class="na">eprinttype</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
   <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2302.04525}</span><span class="p">,</span>
   <span class="na">keywords</span> <span class="p">=</span> <span class="s">{working,fairness,stability,RAIforUkraine}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <hr> <h4 class="category" id="press">Press Coverage</h4> <div class="container"> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <a href="/assets/pdf/FriendsInDeed.pdf"> <figure> <picture> <img src="/assets/img/press/asee-prism.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> <div class="col-sm mt-3 mt-md-0"> <a href="https://casmi.northwestern.edu/news/articles/2023/resilience-in-the-face-of-war-ukrainian-researchers-investigate-ai-fairness.html" rel="external nofollow noopener" target="_blank"> <figure> <picture> <img src="/assets/img/press/casmi_0712.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </a> </div> </div> </div> </article> </div> </div> <footer class="sticky-bottom mt-5"> <div class="container"> © Copyright 2024 Center for Responsible AI at New York University. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. <div class="contact-icons" style="display: flex; justify-content: center; margin: 25px;"> <a href="mailto:%72%65%73%70%6F%6E%73%69%62%6C%65%61%69@%6E%79%75.%65%64%75" title="email"><i class="fas fa-envelope" style="margin-right: 10px; font-size: 52px;"></i></a> <a href="https://airesponsibly.us21.list-manage.com/subscribe?u=fe132ea6ae0280345f9989e41&amp;id=8ebe38f466" title="newsletter" rel="external nofollow noopener" target="_blank"><i class="fab fa-telegram" style="margin-right: 10px; font-size: 52px;"></i></a> <a href="https://www.linkedin.com/company/ai-responsibly" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin" style="margin-right: 10px; font-size: 52px;"></i></a> <a href="https://twitter.com/AIResponsibly" title="Twitter" rel="external nofollow noopener" target="_blank"><i class="fab fa-twitter" style="margin-right: 10px; font-size: 52px; "></i></a> </div> </div> </footer> <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script> <script defer src="/assets/js/masonry.js" type="text/javascript"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script> <script defer src="/assets/js/zoom.js"></script> <script defer src="/assets/js/common.js"></script> <script type="text/javascript">window.MathJax={tex:{tags:"ams"}};</script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script> <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script type="text/javascript">function progressBarSetup(){"max"in document.createElement("progress")?(initializeProgressElement(),$(document).on("scroll",function(){progressBar.attr({value:getCurrentScrollPosition()})}),$(window).on("resize",initializeProgressElement)):(resizeProgressBar(),$(document).on("scroll",resizeProgressBar),$(window).on("resize",resizeProgressBar))}function getCurrentScrollPosition(){return $(window).scrollTop()}function initializeProgressElement(){let e=$("#navbar").outerHeight(!0);$("body").css({"padding-top":e}),$("progress-container").css({"padding-top":e}),progressBar.css({top:e}),progressBar.attr({max:getDistanceToScroll(),value:getCurrentScrollPosition()})}function getDistanceToScroll(){return $(document).height()-$(window).height()}function resizeProgressBar(){progressBar.css({width:getWidthPercentage()+"%"})}function getWidthPercentage(){return getCurrentScrollPosition()/getDistanceToScroll()*100}const progressBar=$("#progress");window.onload=function(){setTimeout(progressBarSetup,50)};</script> </body> </html>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+</ol>
+</div>
+
+<hr>
+
+<h4 class="category" id="press">Press Coverage</h4>
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/pdf/FriendsInDeed.pdf">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/press/asee-prism.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://casmi.northwestern.edu/news/articles/2023/resilience-in-the-face-of-war-ukrainian-researchers-investigate-ai-fairness.html" rel="external nofollow noopener" target="_blank">
+    <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/press/casmi_0712.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </a>
+    </div>
+  </div>
+</div>
+
+
+          </article>
+
+        </div>
+
+    </div>
+
+    <!-- Footer -->    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        © Copyright 2025 Center for Responsible AI at New York University. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
+
+        <div class="contact-icons" style="display: flex; justify-content: center; margin: 25px;">
+          <a href="mailto:%72%65%73%70%6F%6E%73%69%62%6C%65%61%69@%6E%79%75.%65%64%75" title="email"><i class="fas fa-envelope" style="margin-right: 10px; font-size: 52px;"></i></a>
+            <a href="https://airesponsibly.us21.list-manage.com/subscribe?u=fe132ea6ae0280345f9989e41&amp;id=8ebe38f466" title="newsletter" rel="external nofollow noopener" target="_blank"><i class="fab fa-telegram" style="margin-right: 10px; font-size: 52px;"></i></a>
+            <a href="https://www.linkedin.com/company/ai-responsibly" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin" style="margin-right: 10px; font-size: 52px;"></i></a>
+            <a href="https://twitter.com/AIResponsibly" title="Twitter" rel="external nofollow noopener" target="_blank"><i class="fab fa-twitter" style="margin-right: 10px; font-size: 52px; "></i></a>
+            
+
+        </div>
+      </div>
+    </footer>
+
+    
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script defer src="/assets/js/common.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+    
+
+<!-- Scrolling Progress Bar -->
+<script type="text/javascript">
+  /*
+   * This JavaScript code has been adapted from the article 
+   * https://css-tricks.com/reading-position-indicator/ authored by Pankaj Parashar, 
+   * published on the website https://css-tricks.com on the 7th of May, 2014.
+   * Couple of changes were made to the original code to make it compatible 
+   * with the `al-foio` theme.
+   */
+  const progressBar = $("#progress");
+  /*
+   * We set up the bar after all elements are done loading.
+   * In some cases, if the images in the page are larger than the intended
+   * size they'll have on the page, they'll be resized via CSS to accomodate
+   * the desired size. This mistake, however, breaks the computations as the
+   * scroll size is computed as soon as the elements finish loading.
+   * To account for this, a minimal delay was introduced before computing the
+   * values.
+   */
+  window.onload = function () {
+    setTimeout(progressBarSetup, 50);
+  };
+  /*
+   * We set up the bar according to the browser.
+   * If the browser supports the progress element we use that.
+   * Otherwise, we resize the bar thru CSS styling
+   */
+  function progressBarSetup() {
+    if ("max" in document.createElement("progress")) {
+      initializeProgressElement();
+      $(document).on("scroll", function() {
+        progressBar.attr({ value: getCurrentScrollPosition() });
+      });
+      $(window).on("resize", initializeProgressElement);
+    } else {
+      resizeProgressBar();
+      $(document).on("scroll", resizeProgressBar);
+      $(window).on("resize", resizeProgressBar);
+    }
+  }
+  /*
+   * The vertical scroll position is the same as the number of pixels that
+   * are hidden from view above the scrollable area. Thus, a value > 0 is
+   * how much the user has scrolled from the top
+   */
+  function getCurrentScrollPosition() {
+    return $(window).scrollTop();
+  }
+
+  function initializeProgressElement() {
+    let navbarHeight = $("#navbar").outerHeight(true);
+    $("body").css({ "padding-top": navbarHeight });
+    $("progress-container").css({ "padding-top": navbarHeight });
+    progressBar.css({ top: navbarHeight });
+    progressBar.attr({
+      max: getDistanceToScroll(),
+      value: getCurrentScrollPosition(),
+    });
+  }
+  /*
+   * The offset between the html document height and the browser viewport
+   * height will be greater than zero if vertical scroll is possible.
+   * This is the distance the user can scroll
+   */
+  function getDistanceToScroll() {
+    return $(document).height() - $(window).height();
+  }
+
+  function resizeProgressBar() {
+    progressBar.css({ width: getWidthPercentage() + "%" });
+  }
+  // The scroll ratio equals the percentage to resize the bar
+  function getWidthPercentage() {
+    return (getCurrentScrollPosition() / getDistanceToScroll()) * 100;
+  }
+</script>
+
+  </body>
+</html>
