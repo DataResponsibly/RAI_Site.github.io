@@ -164,6 +164,19 @@ nav_order: 1
 </div>
 
 
+<div class="row mt-3">
+    <a href="/people/nathan">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/nathan.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Nathan Behailu</b><br>
+              Research Assistant
+          </div>
+      </div>
+    </a>
+</div>
+
+
 <h1 class="category" id="visitors">Visitors</h1>
 
 <div class="row mt-3">

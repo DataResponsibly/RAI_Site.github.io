@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-**Research Scholar & Lab coordinator**
+**Research Scholar & Lab Coordinator**
 
 {% include figure.html people-profile=true path="assets/img/people/caterina.jpg" title="caterina" class="img-fluid rounded z-depth-1" %}
 
