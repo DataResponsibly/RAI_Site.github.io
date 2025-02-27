@@ -90,10 +90,7 @@ public virtual showcases. Many of their projects lead to
 
 <h4 class="category" id="apply">Why join #RAIforUkraine?</h4>
 
-Since the program's inception, over 50 RAI Research Fellows have
-participated in the program. They worked with mentors from 10 academic
-institutions in the U.S., the U.K., France, The Netherlands, Portugal,
-and Hungary.  We plan to enroll the next cohort in September 2024.
+Since 2022, our program has supported 72 students from 11 Ukrainian universities. Guided by 47 mentors, ranging from faculty to PhD students and postdocs at 23 academic institutions across the U.S. and Europe, our Research Fellows have engaged in 68 research projects, leading to six peer-reviewed publications in top computer science and data science venues— a number that continues to grow as more projects reach completion. As the program expands, so do these achievements, strengthening global collaboration and fostering peace and cooperation across borders.
 
 <h5 class="category" id="students">For Prospective Research Fellows</h5>
 
@@ -143,12 +140,10 @@ and sociology. But it was also practical because we were looking at data based o
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-      <b>Fill out <a href="https://forms.gle/9QhJEuQdMzb9CM5E8">this form</a> no later than September 4, 2024, to apply to the program for the Fall
-      2024 cycle.</b> Should you be selected to proceed to the next stage, we’ll contact you shortly after the deadline to invite you to attend a
-      project open house, and then be matched with a research project that aligns with your interests and skills.
+     Stay tuned for an announcement for the when we are ready to recruit the next cohort of RAI Research Fellows. 
     </div>
   </div>
-</div>
+</div> 
 
 <hr>
 
