@@ -52,6 +52,18 @@ public virtual showcases. Many of their projects lead to
 <div class="container">
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=ohjggulSOkI">
+    {% include figure.html path="/assets/img/events/Spring2025.png" class="img-fluid rounded z-depth-1" %}
+    </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=nt7rcNUyoJs">
+    {% include figure.html path="assets/img/events/Fall2024_Showcase.png" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <div>
+    </div>
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
     <a href="https://youtu.be/r7tBBcO1JIM">
     {% include figure.html path="/assets/img/events/Spring2024_Showcase.png" class="img-fluid rounded z-depth-1" %}
     </a>
@@ -61,8 +73,8 @@ public virtual showcases. Many of their projects lead to
     {% include figure.html path="assets/img/events/Fall2023_Showcase.png" class="img-fluid rounded z-depth-1" %}
     </a>
     </div>
-  </div>
-    <div class="row mt-3">
+    </div>
+  <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
     <a href="https://youtu.be/GGO_JL5QUPg">
     {% include figure.html path="/assets/img/events/Spring2023_Showcase.png" class="img-fluid rounded z-depth-1" %}
@@ -73,7 +85,7 @@ public virtual showcases. Many of their projects lead to
     {% include figure.html path="assets/img/events/Fall2022_Showcase.png" class="img-fluid rounded z-depth-1" %}
     </a>
     </div>
-  </div>
+    </div>
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
     <a href="https://youtu.be/hM4eRWO5DNI">
