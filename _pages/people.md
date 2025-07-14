@@ -85,7 +85,7 @@ nav_order: 1
   </a>
     <a href="/people/lucas">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/lucas_photo.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Lucas Rosenblatt</b><br>
               Graduate Research Fellow 
@@ -106,7 +106,7 @@ nav_order: 1
 <div class="row mt-3">
     <a href="/people/seungeun">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/seungeun.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/seungeun.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Seungeun Lee</b><br>
               Graduate Research Fellow
@@ -115,7 +115,7 @@ nav_order: 1
     </a>
     <a href="/people/reetahan">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/reetahan.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/reetahan.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Reetahan Mukhopadhyay</b><br>
 	      Graduate Research	Fellow
@@ -124,7 +124,7 @@ nav_order: 1
     </a>
     <a href="/people/caterina">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/caterina.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/caterina.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Caterina Fuligni</b><br>
               Research Scholar
@@ -136,7 +136,7 @@ nav_order: 1
 <div class="row mt-3">
     <a href="/people/anya">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/anya.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/anya.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Anya Kozorez</b><br>
               Editorial Consultant
@@ -235,7 +235,7 @@ nav_order: 1
     </a>
     <a href="/people/falaah">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/falaah.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/falaah.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Falaah Arif Khan</b><br>
 	      Graduate Research Fellow
@@ -266,7 +266,7 @@ nav_order: 1
     </a>
     <a href="/people/nathan">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/falaah.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/nathan.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Nathan Behailu</b><br>
 	      Research Assistant
