@@ -115,7 +115,7 @@ nav_order: 1
     </a>
     <a href="/people/reetahan">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/reetahan.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/reetahan_2.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Reetahan Mukhopadhyay</b><br>
 	      Graduate Research	Fellow
