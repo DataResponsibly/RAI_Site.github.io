@@ -23,11 +23,11 @@ nav_order: 1
           </div>
       </div>
    </a>
-    <a href="/people/umang">
+    <a href="/people/oded">
     <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/umang.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/oded.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
-              <b>Umang Bhatt</b><br>
+              <b>Oded Nov</b><br>
               Affiliated Faculty
           </div>
     </div>
