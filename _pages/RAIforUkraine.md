@@ -24,10 +24,10 @@ research capacity in responsible AI.
 
 **#RAIforUkraine** launched in June 2022, and has been running on the
 academic calendar (September through August) since Fall 2023.  The
-program is open to undergraduate and graduate students who live in
+program is open to advanced undergraduate and graduate students who live in
 Ukraine and are enrolled in degree programs in computer science,
 information systems and related fields at accredited Ukrainian
-universities.  These students -- **RAI Research Fellows** -- are
+universities.  These students—**RAI Research Fellows**—are
 mentored by academic researchers from U.S. and European universities,
 and conduct cutting-edge collaborative research on a range of
 responsible AI topics.  Students receive academic credit and
@@ -39,7 +39,7 @@ Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
 Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
 
-**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVJun12.pdf) for a summary of the program!**
+**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVJul29.pdf) for a summary of the program!**
 <hr>
 
 <h4 class="category" id="showcases">Program Showcases</h4>
@@ -104,7 +104,7 @@ public virtual showcases. Many of their projects lead to
 
 <h4 class="category" id="apply">Why join #RAIforUkraine?</h4>
 
-Since 2022, our program has supported over 70 students from 12 Ukrainian universities. Guided by 48 mentors, ranging from faculty to PhD students and postdocs at 24 academic institutions across the U.S. and Europe, our Research Fellows have engaged in 40 research projects, leading to 15 peer-reviewed publications in top computer science and data science venues to date— a number that continues to grow with each completed project. As the program expands, so do these achievements, strengthening global collaboration and fostering peace and cooperation across borders.
+Launched in 2022, the program has supported **70+ students** from **12 Ukrainian universities**, guided by **48 mentors** at **24 academic institutions** in the U.S. and Europe. Our Research Fellows have completed over **40 projects** and co-authored **17 peer-reviewed publications** in top computer science and data science venues—a number that continues to grow as more projects reach completion. Research topics span a range of responsible AI areas, including **fairness, interpretability, privacy, data management, evaluation, and more.**
 
 <h5 class="category" id="students">For Prospective Research Fellows</h5>
 
@@ -125,6 +125,18 @@ terms.
 - **Establish global collaborations:** You will collaborate with peers
 from diverse backgrounds, gaining valuable international perspectives
 and cultural insights.
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-sm-2 mt-3 mt-md-0"> 
+      {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
+    </div>
+    <div class="col-sm-10 mt-3 mt-md-0">
+
+     <b>Applications are now open for the Fall 2025 Cohort! <a href="https://docs.google.com/forms/d/1dhGAFFEoVGE5gdfI09ts2N97p6fr7vsCaT-srrNzjG4/edit"> Apply Here</a> Deadline: August 25, 2025.</b> If selected, you’ll attend an Open House and be matched with a research project aligned with your interests.
+     </div>
+  </div>
+</div> 
 
 <div class="container">
   <div class="row mt-3">
@@ -193,18 +205,6 @@ and sociology. But it was also practical because we were looking at data based o
 </div>
 </div>
 
-<div class="container">
-  <div class="row mt-3">
-    <div class="col-sm-2 mt-3 mt-md-0"> 
-      {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
-    </div>
-    <div class="col-sm-10 mt-3 mt-md-0">
-
-     <b>We'll be announcing our next call for RAI Research Fellows soon—check back here and subscribe to our <a href="https://airesponsibly.us21.list-manage.com/subscribe?u=fe132ea6ae0280345f9989e41&id=8ebe38f466"> newsletter</a> to stay updated!</b>
-     </div>
-  </div>
-</div> 
-
 <hr>
 
 <h5 class="category" id="mentors">For Prospective Mentors</h5>
@@ -235,7 +235,7 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b>If you'd like to participate in the program as a mentor, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu.</b> By mentoring RAI Research Fellows, you  will play a crucial role in their academic and professional development. We are excited to hear from you!
+    <b>If you'd like to participate in the program as a mentor in the Fall 2025, <a href="https://docs.google.com/forms/d/1ePSSphFBM2PASjpO8rL1CyL6gRHFUacRO3BnQ-PUafE/edit"> submit your interest here.</a> Deadline: August 20, 2025.</b> Beyond Fall 2025, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We are excited to hear from you!
     </div>
   </div>
 </div>
