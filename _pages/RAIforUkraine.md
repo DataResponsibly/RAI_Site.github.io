@@ -133,7 +133,7 @@ and cultural insights.
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
 
-     <b>Applications are now open for the Fall 2025 Cohort! <a href="https://docs.google.com/forms/d/1dhGAFFEoVGE5gdfI09ts2N97p6fr7vsCaT-srrNzjG4/edit"> Apply Here</a> Deadline: August 25, 2025.</b> If selected, you’ll attend an Open House and be matched with a research project aligned with your interests.
+     <b>Applications are now open for the Fall 2025 Cohort! <a href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform?pli=1"> Apply Here</a> Deadline: August 25, 2025.</b> If selected, you’ll attend an Open House and be matched with a research project aligned with your interests.
      </div>
   </div>
 </div> 
@@ -235,7 +235,7 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b>If you'd like to participate in the program as a mentor in the Fall 2025, <a href="https://docs.google.com/forms/d/1ePSSphFBM2PASjpO8rL1CyL6gRHFUacRO3BnQ-PUafE/edit"> submit your interest here.</a> Deadline: August 20, 2025.</b> Beyond Fall 2025, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We are excited to hear from you!
+    <b>If you'd like to participate in the program as a mentor in the Fall 2025, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNF6OcgsdWz5ZSsdzUJgQPjZ0gFnJEBJ-jlrgNxR57D-_CBw/viewform"> submit your interest here.</a> Deadline: August 20, 2025.</b> Beyond Fall 2025, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We are excited to hear from you!
     </div>
   </div>
 </div>
