@@ -12,9 +12,9 @@ nav_order: 5
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
 **Applications for the RAIforUkraine Fall 2025 Cohort are closing soon! 
-Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNF6OcgsdWz5ZSsdzUJgQPjZ0gFnJEBJ-jlrgNxR57D-_CBw/viewform">here</a> if you are a Prospective mentor (deadline: August 20, 2025)
+Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNF6OcgsdWz5ZSsdzUJgQPjZ0gFnJEBJ-jlrgNxR57D-_CBw/viewform">here</a> if you are a Prospective Mentor (deadline: August 20, 2025)
 and <a
-href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform?pli=1">here</a> if you are a Prospective Research Fellow (deadline: August 25, 2025). More details below.**
+href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform">here</a> if you are a Prospective Research Fellow (deadline: August 25, 2025). More details below.**
 
 The ongoing war in Ukraine has severely disrupted the lives of
 hundreds of thousands of people, significantly impacting university
@@ -138,7 +138,7 @@ and cultural insights.
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
 
-     <b>Applications are now open for the Fall 2025 Cohort! <a href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform?pli=1"> Apply Here</a> Deadline: August 25, 2025.</b> If selected, you’ll attend an Open House and be matched with a research project aligned with your interests.
+     <b>Applications are now open for the Fall 2025 Cohort! <a href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform"> Apply Here</a> Deadline: August 25, 2025.</b> If selected, you’ll attend an Open House and be matched with a research project aligned with your interests.
      </div>
   </div>
 </div> 
