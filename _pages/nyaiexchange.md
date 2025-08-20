@@ -29,18 +29,18 @@ Throughout the year, we will host in-person events at NYU and venues across New 
 
 #### Session 1: Shaping the Future of AI Education
 
-Our kickoff event will convene **educators, librarians, education researchers, and policy leaders** to explore why AI education matters and how we can work together to advance it.
+<!-- Our kickoff event will convene **educators, librarians, education researchers, and policy leaders** to explore why AI education matters and how we can work together to advance it. -->
 
-**What to Expect:** Opening remarks from NYU Tandon leadership, a joint presentation by Profs. <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a> and <a href="https://engineering.nyu.edu/faculty/ludovic-righetti">Ludovic Righetti</a> on Tandon’s new NSF-funded initiative to strengthen responsible AI education, followed by a panel discussion with education and policy leaders. Attendees will have the opportunity to join in dialogue and network. Refreshments will be served.
+<!-- **What to Expect:** Opening remarks from NYU Tandon leadership, a joint presentation by Profs. <a href="https://engineering.nyu.edu/faculty/julia-stoyanovich">Julia Stoyanovich</a> and <a href="https://engineering.nyu.edu/faculty/ludovic-righetti">Ludovic Righetti</a> on Tandon’s new NSF-funded initiative to strengthen responsible AI education, followed by a panel discussion with education and policy leaders. Attendees will have the opportunity to join in dialogue and network. Refreshments will be served. -->
 
 📅 September 26, 2025, 5:00 PM – 8:00 PM
 
 📍 NYU Tandon, 370 Jay Street, Seminar Room 1201
 
-**<a href="https://docs.google.com/forms/d/e/1FAIpQLScbhxXuG4PzoCww-AVPfpB8xdCt-e60xsmWbG500u8MW3hycQ/viewform">RSVP</a> to Join Us!**
+<!-- **<a href="https://docs.google.com/forms/d/e/1FAIpQLScbhxXuG4PzoCww-AVPfpB8xdCt-e60xsmWbG500u8MW3hycQ/viewform">RSVP</a> to Join Us!** -->
 
-**Let's Work Together**
-We are actively partnering with educators, libraries, businesses, and community organizations across New York and beyond. If you’d like to co-host a session, invite a speaker, or bring the Exchange to your community, please get in touch! 
+<!-- **Let's Work Together** -->
+<!-- We are actively partnering with educators, libraries, businesses, and community organizations across New York and beyond. If you’d like to co-host a session, invite a speaker, or bring the Exchange to your community, please get in touch! -->
 
 **Stay in the Loop**
 Subscribe to our <a href="https://airesponsibly.us21.list-manage.com/subscribe?u=fe132ea6ae0280345f9989e41&id=8ebe38f466">monthly newsletter</a> for updates on upcoming sessions, research highlights, and opportunities to get involved.
