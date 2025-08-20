@@ -8,7 +8,7 @@ nav: false
 
 ### **THE NEW YORK AI EXCHANGE**
 
-{% include figure.html people-profile=false path="/assets/img/events/nyaiexchange_banner.tif" class="img-fluid" width="850px" robot=false %}
+{% include figure.html people-profile=false path="/assets/img/events/nyaiexchange_banner.jpg" class="img-fluid" width="850px" robot=false %}
 <br>
 
 **The rapid pace of AI adoption is reshaping society and raising urgent questions about its impact and direction. The NY AI Exchange is our response: a hub for bold ideas, shared insight, and collective action.**
@@ -27,7 +27,7 @@ Throughout the year, we will host in-person events at NYU and venues across New 
 
 **Upcoming Events**
 
-#### Session 1: Shaping the Future of AI Education**
+#### Session 1: Shaping the Future of AI Education
 
 Our kickoff event will convene **educators, librarians, education researchers, and policy leaders** to explore why AI education matters and how we can work together to advance it.
 
@@ -37,9 +37,9 @@ Our kickoff event will convene **educators, librarians, education researchers, a
 
 📍 NYU Tandon, 370 Jay Street, Seminar Room 1201
 
-**RSVP to Join Us!**
+**<a href="https://docs.google.com/forms/d/e/1FAIpQLScbhxXuG4PzoCww-AVPfpB8xdCt-e60xsmWbG500u8MW3hycQ/viewform">RSVP</a> to Join Us!**
 
-**Lets’ Work Together**
+**Let's Work Together**
 We are actively partnering with educators, libraries, businesses, and community organizations across New York and beyond. If you’d like to co-host a session, invite a speaker, or bring the Exchange to your community, please get in touch! 
 
 **Stay in the Loop**
