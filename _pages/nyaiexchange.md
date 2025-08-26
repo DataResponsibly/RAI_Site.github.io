@@ -27,7 +27,7 @@ Throughout the year, we will host in-person events at NYU and venues across New 
 
 **Upcoming Events**
 
-#### Session 1: Shaping the Future of AI Education
+#### Session 1: Shaping the Future of AI Education, Training, and Literacy
 
 <!-- Our kickoff event will convene **educators, librarians, education researchers, and policy leaders** to explore why AI education matters and how we can work together to advance it. -->
 
