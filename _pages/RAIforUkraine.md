@@ -11,11 +11,6 @@ nav_order: 5
 
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
-**Applications for the RAIforUkraine Fall 2025 Cohort are closing soon! 
-Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNF6OcgsdWz5ZSsdzUJgQPjZ0gFnJEBJ-jlrgNxR57D-_CBw/viewform">here</a> if you are a Prospective Mentor (deadline: August 20, 2025)
-and <a
-href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform">here</a> if you are a Prospective Research Fellow (deadline: August 25, 2025). More details below.**
-
 The ongoing war in Ukraine has severely disrupted the lives of
 hundreds of thousands of people, significantly impacting university
 students by displacing many and interrupting their education.  To
@@ -138,7 +133,7 @@ and cultural insights.
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
 
-     <b>Applications are now open for the Fall 2025 Cohort! <a href="https://docs.google.com/forms/d/e/1FAIpQLSfz5Lj36d8V1kKFY8ZZLGzd_tAQi7k0ZBcrWujvLDyF4zi0mQ/viewform"> Apply Here</a> Deadline: August 25, 2025.</b> If selected, you’ll attend an Open House and be matched with a research project aligned with your interests.
+     <b>Applications are for the Fall 2025 cohort are now closed. Stay tuned for further updates!</b> 
      </div>
   </div>
 </div> 
@@ -240,7 +235,7 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b>If you'd like to participate in the program as a mentor in the Fall 2025, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNF6OcgsdWz5ZSsdzUJgQPjZ0gFnJEBJ-jlrgNxR57D-_CBw/viewform"> submit your interest here.</a> Deadline: August 20, 2025.</b> Beyond Fall 2025, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We are excited to hear from you!
+    <b>Expressions of interest for the Fall 2025 cohort are now closed.</b> Beyond Fall 2025, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We are excited to hear from you!
     </div>
   </div>
 </div>
