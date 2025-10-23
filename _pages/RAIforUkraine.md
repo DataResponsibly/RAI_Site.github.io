@@ -39,7 +39,7 @@ Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
 Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
 
-**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVJul29.pdf) for a summary of the program!**
+**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVOct15.pdf) for a summary of the program!**
 <hr>
 
 <h4 class="category" id="showcases">Program Showcases</h4>
@@ -104,7 +104,7 @@ public virtual showcases. Many of their projects lead to
 
 <h4 class="category" id="apply">Why join #RAIforUkraine?</h4>
 
-Launched in 2022, the program has supported **70+ students** from **12 Ukrainian universities**, guided by **48 mentors** at **24 academic institutions** in the U.S. and Europe. Our Research Fellows have completed over **40 projects** and co-authored **17 peer-reviewed publications** in top computer science and data science venues—a number that continues to grow as more projects reach completion. Research topics span a range of responsible AI areas, including **fairness, interpretability, privacy, data management, evaluation, and more.**
+Since 2022, our program has supported **112 students** from **18 Ukrainian universities** (including 40 new recruits in the Fall 2025 cohort). Guided by **70 mentors**, ranging from faculty to PhD students and postdocs at **35 academic institutions** across **12 countries**, our Research Fellows have engaged in **50+ projects**, leading to **17 peer-reviewed publications** in top computer science and data science venues to date—a number that continues to grow with each completed project. As the program expands, so do these achievements, strengthening global collaboration and fostering peace and cooperation.
 
 <h5 class="category" id="students">For Prospective Research Fellows</h5>
 
@@ -133,7 +133,7 @@ and cultural insights.
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
 
-     <b>Applications are for the Fall 2025 cohort are now closed. Stay tuned for further updates!</b> 
+     <b>Applications for the Fall 2025 cohort are now closed. Stay tuned for further updates!</b> 
      </div>
   </div>
 </div> 
