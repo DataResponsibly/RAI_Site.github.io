@@ -113,12 +113,12 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/reetahan">
+    <a href="/people/tanya">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/reetahan_2.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          {% include figure.html people-profile=true path="assets/img/people/tanya.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
-              <b>Reetahan Mukhopadhyay</b><br>
-	      Graduate Research	Fellow
+              <b>Tetiana Zakharchenko</b><br>
+	      Project Coordinator
           </div>
       </div>
     </a>
@@ -140,15 +140,6 @@ nav_order: 1
           <div class="caption">
               <b>Anya Kozorez</b><br>
               Editorial Consultant
-          </div>
-      </div>
-    </a>
-    <a href="/people/tanya">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/tanya.png" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Tetiana Zakharchenko</b><br>
-	      Project Coordinator
           </div>
       </div>
     </a>
