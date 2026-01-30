@@ -17,13 +17,13 @@ children:
     - title: Fairness
       permalink: /research/#fairness
     - title: divider
-    - title: Policy
+    - title: Policy and Regulation
       permalink: /research/#policy
     - title: divider
-    - title: Privacy
+    - title: Privacy and Safety
       permalink: /research/#privacy
     - title: divider
-    - title: Ranking
+    - title: Ranking and Matching
       permalink: /research/#ranking
     - title: divider
     - title: RAI education

@@ -3,12 +3,12 @@ layout: page
 permalink: /research/
 title: 
 description: 
-#years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
+#years: [i2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]  # replace with your own years
 years_priv: [2025,2024, 2023, 2022, 2020, 2018, 2017]  
-years_rank: [2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015]  
+years_rank: [2025, 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015]  
 years_edu: [2025, 2024, 2023, 2022, 2021, 2020]  
-years_fair: [2024, 2023, 2022, 2021, 2020, 2019, 2017]  
-years_expl: [2025, 2024, 2023, 2022, 2020, 2019]  
+years_fair: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2017]  
+years_expl: [2026, 2025, 2024, 2023, 2022, 2020, 2019]  
 years_pol: [2025, 2024, 2023, 2022, 2019, 2018, 2017]  
 nav: false
 nav_order: 2
@@ -111,19 +111,19 @@ and algoroithmic fairness, and investigating the trade-offs between fairness and
     {% bibliography -f papers -q @*[year={{y}} && keywords ^= *policy]* %}
   {% endfor %}
   
-  <h2 class="category" id="privacy">Privacy</h2>
+  <h2 class="category" id="privacy">Safety and Privacy</h2>
   Our work in privacy includes peer-reviewed papers, as well as tools and benchmarks.
   Take a look at the <a href="https://github.com/DataResponsibly/DataSynthesizer">Data Synthesizer</a> tool
   that we've been using to teach differentially private data synthesis.  
   And check out our latest DP synethetic data benchmarking package,
   <a href="https://github.com/DataResponsibly/SynRD">SynRD</a>, posing the question: 
   "Can a DP synthesizer produce private (tabular) data that preserves scientific findings?" 
-  In other words, do DP synthesizers satisfy epistemic parity?
+  In other words, do DP synthesizers satisfy epistemic parity?  
+  We also started working on safety assessment and interventions, take a look at our <a href="https://github.com/joaopfonseca/SafeNudge">SafeNudge</a> project.
 
-  <!-- Add your category specific text here -->
   {% for y in page.years_priv %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}} && keywords ^= *privacy && keywords ^= *priv] %}
+    <h2 class="year">{{ y }}</h2>
+    {% bibliography -f papers -q @*[year={{y}} && keywords ~= privacy|safety]* %}
   {% endfor %}
 
   <h2 class="category" id="ranking">Ranking</h2> One kind of algorithm
