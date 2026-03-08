@@ -55,7 +55,7 @@ nav: false
     - **Speaker 9**: Lily Xu (Columbia) (5:00–5:15 PM)  
       *Incentivizing Agents to Optimally Explore, and Other Problems in AI for Biodiversity*
     - **Speaker 10**: Rumi Chunara (NYU) (5:15–5:30 PM)  
-      *HealthA AI*
+      *Evaluating and Mitigating Clinical AI Challenges Across Heterogeneous Healthcare Systems*
 <br>
 <br>
 
