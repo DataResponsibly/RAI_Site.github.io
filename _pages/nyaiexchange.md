@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /nyaiexchange_2025/
+permalink: /nyaiexchange/
 title: 
 description:
 nav: false
