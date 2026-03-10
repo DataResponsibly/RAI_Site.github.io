@@ -27,35 +27,33 @@ nav: false
     - **Speakers**: Julia Stoyanovich and Emily Black (NYU)
 <br>
 
-- **2:45–4:15 PM**: Session 1 — Methods and Evaluation  
-    - **Speaker 1**: Emily Black (NYU) (2:45–3:00 PM)  
-      *TBD*
-    - **Speaker 2**: Angelina Wang (Cornell Tech) (3:00–3:15 PM)  
+- **2:45–4:00 PM**: Session 1 — Methods and Evaluation  
+    - **Speaker 1**: Angelina Wang (Cornell Tech) (2:45 PM)  
       *The Inadequacy of Offline LLM Evaluations: A Need to Account for Personalization in Model Behavior*
-    - **Speaker 3**: Agathe Balayn (Microsoft Research) (3:15–3:30 PM)  
+    - **Speaker 2**: Agathe Balayn (Microsoft Research) (3:00 PM)  
       *A Framework to Characterize Reporting on Generative AI Use*
-    - **Speaker 4**: Daniel Neill (NYU) (3:30–3:45 PM)  
+    - **Speaker 3**: Daniel Neill (NYU) (3:15 PM)  
       *End-to-End Fairness in AI*
-    - **Speaker 5**: Senjuti Basu Roy (NJIT) (3:45–4:00 PM)  
+    - **Speaker 4**: Senjuti Basu Roy (NJIT) (3:30 PM)  
       *Promoting Fairness and Priority in k-Winners Selection Using Instant-Runoff Voting*
-    - **Speaker 6**: Juan Carlos Perdomo (NYU) (4:00–4:15 PM)  
+    - **Speaker 5**: Juan Carlos Perdomo (NYU) (3:45 PM)  
       *Empirically Understanding the Value of Prediction in Allocation*
 <br>
 <br>
 
-- **4:15–4:30 PM**: Break  
+- **4:00–4:30 PM**: Break  
   Coffee and informal conversation.
 <br>
 
 - **4:30–5:30 PM**: Session 2 — Responsible AI in Practice  
-    - **Speaker 7**: Nina Loshkajian & Vincent Southerland (NYU Law) (4:30–4:45 PM)  
+    - **Speaker 6**: Nina Loshkajian & Vincent Southerland (NYU Law) (4:30 PM)  
       *Technology & Racial Justice Collaborative: Building Alternatives to Surveillance and State Violence*
-    - **Speaker 8**: Shalmali Joshi (Columbia) (4:45–5:00 PM)  
-      *On Robust Reasoning with Foundation Models in Health and Medicine*
-    - **Speaker 9**: Lily Xu (Columbia) (5:00–5:15 PM)  
+    - **Speaker 7**: Lily Xu (Columbia) (4:45 PM)  
       *Incentivizing Agents to Optimally Explore, and Other Problems in AI for Biodiversity*
-    - **Speaker 10**: Rumi Chunara (NYU) (5:15–5:30 PM)  
+    - **Speaker 8**: Rumi Chunara (NYU) (5:00 PM)  
       *Evaluating and Mitigating Clinical AI Challenges Across Heterogeneous Healthcare Systems*
+    - **Speaker 9**: Emily Black (NYU) (5:15 PM)  
+      *Algorithmic UDAP*
 <br>
 <br>
 
