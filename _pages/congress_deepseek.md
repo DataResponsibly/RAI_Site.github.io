@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rai_congress_deepseekI/
+permalink: /rai_congress_deepseek/
 title:
 categories: event policy 
 description:

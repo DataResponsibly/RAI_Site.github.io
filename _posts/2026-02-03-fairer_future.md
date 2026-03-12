@@ -6,7 +6,7 @@ description: Building a Fairer Future for NYC
 tags: 
 categories: event collaboration
 event: true
-preview: /assets/img/events/fairerfuture_thumb.jpeg 
+preview: /assets/img/events/fairerfuture_thumb.jpg 
 ---
 
 <div class="row mt-3">

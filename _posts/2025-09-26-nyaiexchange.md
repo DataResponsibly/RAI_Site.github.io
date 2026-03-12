@@ -27,7 +27,7 @@ The launch event, ***Shaping the Future of AI Education***, convened more than 8
         {% include figure.html path="/assets/img/events/gonzalez_nyaiexchange.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-10 mt-md-0">
-      {% include figure.html path="/assets/img/events/roundtable_nyaiexchange.heic" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="/assets/img/events/roundtable_nyaiexchange.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 <div>
 
