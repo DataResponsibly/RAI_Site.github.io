@@ -14,7 +14,7 @@ preview: /assets/img/events/Youth_UN_thumb.jpg
         {% include figure.html path="/assets/img/events/1.Julia_UN.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-10 mt-md-0">
-        {% include figure.html path="/assets/img/events/2.Julia_UN2.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/events/2.Julia_UN2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
