@@ -65,7 +65,6 @@ This in-person gathering brings together researchers from across the greater New
     - **Speaker 9**: Emily Black (NYU) (5:15 PM)  
       *Algorithmic UDAP*
 <br>
-<br>
 
 - **5:30–7:00 PM**: Posters, Food, Networking  
    - **Poster 1**: Allison Koenecke (Cornell Tech) 
