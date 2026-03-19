@@ -101,9 +101,11 @@ This in-person gathering brings together researchers from across the greater New
      *Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows*
    - **Poster 17**: Subhodeep Ghosh (NJIT)  
      *Rethinking Fairness in LLM Embedding*
-   - **Poster 18**: Vrushali Koli (NJIT)  
+   - **Poster 18**: Sara Matijevic (Columbia/ University of Oxford)
+     *Bootstrapping-based Regularisation for Reducing Individual Prediction Instability in Clinical Risk Prediction Models*
+   - **Poster 19**: Vrushali Koli (NJIT)  
      *Interactive Visualization for Calibrating Instructional Effectiveness*
-   - **Poster 19**: Yuta Kobayashi (Columbia)  
+   - **Poster 20**: Yuta Kobayashi (Columbia)  
      *Aligning Probabilistic Beliefs under Informative Missingness: LLM Steerability in Clinical Reasoning*
 
 ***  
