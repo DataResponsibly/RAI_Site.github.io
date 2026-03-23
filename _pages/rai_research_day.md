@@ -79,7 +79,7 @@ This in-person gathering brings together researchers from across the greater New
      *Who Gets Attributed: Attribution Patterns and Demographic Biases in Large Language Models*
    - **Poster 6**: Emma Harvey (Cornell Tech)  
      *A Framework for Auditing Chatbots for Dialect-Based Quality-of-Service Harms*
-   - **Poster 7**: Irene Globus-Harris (Cornell)  
+   - **Poster 7**: Ira Globus-Harris (Cornell)  
      *Reimagining Meaningful Model Multiplicity*
    - **Poster 8**: Isabel Corpus (Cornell)  
      *Into the Unknown: Accounting for Missing Demographic Data When Mitigating Ad Delivery Skew*
