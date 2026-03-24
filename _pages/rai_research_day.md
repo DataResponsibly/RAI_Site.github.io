@@ -38,13 +38,13 @@ This in-person gathering brings together researchers from across the greater New
 <br>
 
 - **3:00–4:00 PM**: Session 1 — Methods and Evaluation  
-    - **Speaker 1**: Angelina Wang (Cornell Tech) (2:45 PM)  
+    - **Speaker 1**: Angelina Wang (Cornell Tech) (3:00 PM)  
       *The Inadequacy of Offline LLM Evaluations: A Need to Account for Personalization in Model Behavior*
-    - **Speaker 2**: Agathe Balayn (Microsoft Research) (3:00 PM)  
+    - **Speaker 2**: Agathe Balayn (Microsoft Research) (3:15 PM)  
       *A Framework to Characterize Reporting on Generative AI Use*
-    - **Speaker 3**: Daniel Neill (NYU) (3:15 PM)  
+    - **Speaker 3**: Daniel Neill (NYU) (3:30 PM)  
       *End-to-End Fairness in AI*
-    - **Speaker 4**: Senjuti Basu Roy (NJIT) (3:30 PM)  
+    - **Speaker 4**: Senjuti Basu Roy (NJIT) (3:45 PM)  
       *Promoting Fairness and Priority in k-Winners Selection Using Instant-Runoff Voting*
 <br>
 <br>
@@ -54,11 +54,11 @@ This in-person gathering brings together researchers from across the greater New
 <br>
 
 - **4:30–5:30 PM**: Session 2 — Responsible AI in Practice  
-    - **Speaker 5**: Juan Carlos Perdomo (NYU) (3:45 PM)  
+    - **Speaker 5**: Juan Carlos Perdomo (NYU) (4:30 PM)  
       *Empirically Understanding the Value of Prediction in Allocation*
-    - **Speaker 6**: Nina Loshkajian & Vincent Southerland (NYU Law) (4:30 PM)  
+    - **Speaker 6**: Nina Loshkajian & Vincent Southerland (NYU Law) (4:45 PM)  
       *Technology & Racial Justice Collaborative: Building Alternatives to Surveillance and State Violence*
-    - **Speaker 7**: Lily Xu (Columbia) (4:45 PM)  
+    - **Speaker 7**: Lily Xu (Columbia) (5:00 PM)  
       *Incentivizing Agents to Optimally Explore, and Other Problems in AI for Biodiversity*
     - **Speaker 8**: Emily Black (NYU) (5:15 PM)  
       *Algorithmic UDAP*
