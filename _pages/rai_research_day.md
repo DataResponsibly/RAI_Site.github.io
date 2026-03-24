@@ -56,7 +56,7 @@ This in-person gathering brings together researchers from across the greater New
 - **4:30–5:30 PM**: Session 2 — Responsible AI in Practice  
     - **Speaker 5**: Juan Carlos Perdomo (NYU) (4:30 PM)  
       *Empirically Understanding the Value of Prediction in Allocation*
-    - **Speaker 6**: Nina Loshkajian & Vincent Southerland (NYU Law) (4:45 PM)  
+    - **Speaker 6**: Nina Loshkajian (NYU Law) (4:45 PM)  
       *Technology & Racial Justice Collaborative: Building Alternatives to Surveillance and State Violence*
     - **Speaker 7**: Lily Xu (Columbia) (5:00 PM)  
       *Incentivizing Agents to Optimally Explore, and Other Problems in AI for Biodiversity*
