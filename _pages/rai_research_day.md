@@ -30,14 +30,14 @@ This in-person gathering brings together researchers from across the greater New
 </div>   
 <br>   
 
-- **2:00–2:30 PM**: Arrival, Coffee  
+- **2:00–2:45 PM**: Arrival, Coffee  
   Informal arrival, coffee, and time to settle in.
 
-- **2:30–2:45 PM**: Welcome  
+- **2:45–3:00 PM**: Welcome  
     - **Speakers**: Julia Stoyanovich and Emily Black (NYU)
 <br>
 
-- **2:45–4:00 PM**: Session 1 — Methods and Evaluation  
+- **3:00–4:00 PM**: Session 1 — Methods and Evaluation  
     - **Speaker 1**: Angelina Wang (Cornell Tech) (2:45 PM)  
       *The Inadequacy of Offline LLM Evaluations: A Need to Account for Personalization in Model Behavior*
     - **Speaker 2**: Agathe Balayn (Microsoft Research) (3:00 PM)  
@@ -46,8 +46,6 @@ This in-person gathering brings together researchers from across the greater New
       *End-to-End Fairness in AI*
     - **Speaker 4**: Senjuti Basu Roy (NJIT) (3:30 PM)  
       *Promoting Fairness and Priority in k-Winners Selection Using Instant-Runoff Voting*
-    - **Speaker 5**: Juan Carlos Perdomo (NYU) (3:45 PM)  
-      *Empirically Understanding the Value of Prediction in Allocation*
 <br>
 <br>
 
@@ -56,13 +54,13 @@ This in-person gathering brings together researchers from across the greater New
 <br>
 
 - **4:30–5:30 PM**: Session 2 — Responsible AI in Practice  
+    - **Speaker 5**: Juan Carlos Perdomo (NYU) (3:45 PM)  
+      *Empirically Understanding the Value of Prediction in Allocation*
     - **Speaker 6**: Nina Loshkajian & Vincent Southerland (NYU Law) (4:30 PM)  
       *Technology & Racial Justice Collaborative: Building Alternatives to Surveillance and State Violence*
     - **Speaker 7**: Lily Xu (Columbia) (4:45 PM)  
       *Incentivizing Agents to Optimally Explore, and Other Problems in AI for Biodiversity*
-    - **Speaker 8**: Rumi Chunara (NYU) (5:00 PM)  
-      *Evaluating and Mitigating Clinical AI Challenges Across Heterogeneous Healthcare Systems*
-    - **Speaker 9**: Emily Black (NYU) (5:15 PM)  
+    - **Speaker 8**: Emily Black (NYU) (5:15 PM)  
       *Algorithmic UDAP*
 <br>
 
