@@ -67,43 +67,45 @@ This in-person gathering brings together researchers from across the greater New
 - **5:30–7:00 PM**: Posters, Food, Networking  
    - **Poster 1**: Allison Koenecke (Cornell Tech) 
      *LLMs in Social Services: How Does Chatbot Accuracy Affect Human Accuracy?*
-   - **Poster 2**: Bayan Divaaniaazar (NJIT)  
+   - **Poster 2**: Aparajita Kashyap (Columbia)
+     *A Pipeline for Enabling Path-Specific Causal Fairness in Observational Health Data*
+   - **Poster 3**: Bayan Divaaniaazar (NJIT)  
      *AI-Assistants for Decision-Making via Algorithmic Rankers*
-   - **Poster 3**: Camille Harris (Cornell Tech)  
+   - **Poster 4**: Camille Harris (Cornell Tech)  
      *Towards Responsible Human-Chatbot Interaction for Social Well-being*
-   - **Poster 4**: Conlan Olson (Columbia)  
+   - **Poster 5**: Conlan Olson (Columbia)  
      *Fair Decision Making Under Performativity*
-   - **Poster 5**: Eliza Berman (NYU Courant)  
+   - **Poster 6**: Eliza Berman (NYU Courant)  
      *Who Gets Attributed: Attribution Patterns and Demographic Biases in Large Language Models*
-   - **Poster 6**: Emma Harvey (Cornell Tech)  
+   - **Poster 7**: Emma Harvey (Cornell Tech)  
      *A Framework for Auditing Chatbots for Dialect-Based Quality-of-Service Harms*
-   - **Poster 7**: Ira Globus-Harris (Cornell)  
+   - **Poster 8**: Ira Globus-Harris (Cornell)  
      *Reimagining Meaningful Model Multiplicity*
-   - **Poster 8**: Isabel Corpus (Cornell)  
+   - **Poster 9**: Isabel Corpus (Cornell)  
      *Into the Unknown: Accounting for Missing Demographic Data When Mitigating Ad Delivery Skew*
-   - **Poster 9**: Jenna Gosciak (Cornell Tech)  
+   - **Poster 10**: Jenna Gosciak (Cornell Tech)  
      *Bias Delayed is Bias Denied? Assessing the Effect of Reporting Delays on Disparity Assessments*
-   - **Poster 10**: João Fonseca (INESC-ID / NYU)  
+   - **Poster 11**: João Fonseca (INESC-ID / NYU)  
      *ExplainerPFN: Towards Tabular Foundation Models for Model-Free Zero-Shot Feature Importance Estimations*
-   - **Poster 11**: Kevin Ren (Cornell Tech)  
+   - **Poster 12**: Kevin Ren (Cornell Tech)  
      *On the Validity of AI Text Detection, and Positive-Unlabeled Learning as a Partial Solution*
-   - **Poster 12**: Koduvayur Parthasarathy Subbalakshmi & Sabbir Hossain Ujjal (Stevens Institute of Technology)  
+   - **Poster 13**: Koduvayur Parthasarathy Subbalakshmi & Sabbir Hossain Ujjal (Stevens Institute of Technology)  
      *Listen to the Layers: Mitigating Hallucinations with Inter-Layer Disagreement*
-   - **Poster 13**: Mateo Dulce Rubio (NYU)  
+   - **Poster 14**: Mateo Dulce Rubio (NYU)  
      *The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty*
-   - **Poster 14**: Miao Zhang (NYU)  
+   - **Poster 15**: Miao Zhang (NYU)  
      *Identity-Robust Language Model Generation via Content Integrity Preservation*
-   - **Poster 15**: Olawale Salaudeen (MIT)  
+   - **Poster 16**: Olawale Salaudeen (MIT)  
      *Domain Generalization Benchmarks with Accuracy on the Line are Misspecified*
-   - **Poster 16**: Sajel Surati (NYU)  
+   - **Poster 17**: Sajel Surati (NYU)  
      *Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows*
-   - **Poster 17**: Subhodeep Ghosh (NJIT)  
+   - **Poster 18**: Subhodeep Ghosh (NJIT)  
      *Rethinking Fairness in LLM Embedding*
-   - **Poster 18**: Sara Matijevic (Columbia/ University of Oxford)
+   - **Poster 19**: Sara Matijevic (Columbia/ University of Oxford)
      *Bootstrapping-based Regularisation for Reducing Individual Prediction Instability in Clinical Risk Prediction Models*
-   - **Poster 19**: Vrushali Koli (NJIT)  
+   - **Poster 20**: Vrushali Koli (NJIT)  
      *Interactive Visualization for Calibrating Instructional Effectiveness*
-   - **Poster 20**: Yuta Kobayashi (Columbia)  
+   - **Poster 21**: Yuta Kobayashi (Columbia)  
      *Aligning Probabilistic Beliefs under Informative Missingness: LLM Steerability in Clinical Reasoning*
 
 ***  
