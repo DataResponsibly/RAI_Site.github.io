@@ -6,7 +6,7 @@ description: Berlin Science Week
 tags: 
 categories: event education
 event: true
-preview: /assets/img/events/berlinscienceweeklogo.jpeg 
+preview: /assets/img/events/berlinscienceweeklogo_thumb.jpg 
 ---
 
 <div class="row mt-3">
