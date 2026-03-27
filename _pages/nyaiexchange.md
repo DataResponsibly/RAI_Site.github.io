@@ -68,12 +68,6 @@ The Exchange is not just a series of events—it is a growing network shaping ho
 
 <strong>Researchers | Educators | Policymakers | Artists | Entrepreneurs | Curious New Yorkers</strong>
 
-<strong>We want to hear from you!</strong>
-
-<p>
-{% include figure.html people-profile=false path="/assets/img/events/qrcode_nyaiexchange.png" class="img-fluid" width="850px" robot=false %}
-</p>
-
 Join a convening.
 	Propose a theme.
 	Start a collaboration.
