@@ -18,7 +18,7 @@ nav: false
 
 **Where:** [370 Jay Street, Room 1201, Brooklyn, NY 11201](https://maps.app.goo.gl/Kek9KxvEnoqQEQru9)
 
-We were pleased to host NYC Responsible AI Research Day, organized by the NYU Tandon Center for Responsible AI (R/AI) as part of the New York AI Exchange, our ongoing initiative to convene diverse voices in sustained dialogue around the future of AI.
+We were pleased to host NYC Responsible AI Research Day, organized by the NYU Tandon Center for Responsible AI (R/AI) as part of the [New York AI Exchange](https://r-ai.co/exchange), our ongoing initiative to convene diverse voices in sustained dialogue around the future of AI.
 
 This in-person gathering brought together 70 researchers from across the greater New York City area who are advancing Responsible AI across disciplines, methods, and perspectives, highlighting current research—published, in progress, or exploratory. The program also included a curated poster session and dedicated time for discussion and informal exchange, with refreshments throughout the afternoon.
 
