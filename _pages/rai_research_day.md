@@ -18,10 +18,17 @@ nav: false
 
 **Where:** [370 Jay Street, Room 1201, Brooklyn, NY 11201](https://maps.app.goo.gl/Kek9KxvEnoqQEQru9)
 
-We are pleased to host NYC Responsible AI Research Day, organized by the NYU Tandon Center for Responsible AI (R/AI) as part of the New York AI Exchange, our ongoing initiative to convene diverse voices in sustained dialogue around the future of AI.
+We were pleased to host NYC Responsible AI Research Day, organized by the NYU Tandon Center for Responsible AI (R/AI) as part of the New York AI Exchange, our ongoing initiative to convene diverse voices in sustained dialogue around the future of AI.
 
-This in-person gathering brings together researchers from across the greater New York City area who are advancing Responsible AI across disciplines, methods, and perspectives, highlighting current research—published, in progress, or exploratory. The program also includes a curated poster session and dedicated time for discussion and informal exchange, with refreshments throughout the afternoon.
+This in-person gathering brought together 70 researchers from across the greater New York City area who are advancing Responsible AI across disciplines, methods, and perspectives, highlighting current research—published, in progress, or exploratory. The program also included a curated poster session and dedicated time for discussion and informal exchange, with refreshments throughout the afternoon.
 
+#### 🏆 Congratulations to the poster award winners!
+Best poster award: **Kevin Ren (Cornell Tech)** *On the Validity of AI Text Detection, and Positive-Unlabeled Learning as a Partial Solution*
+
+Runner-up awards:
+   **Sajel Surati (NYU)**  *Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows*;
+   **Subhodeep Ghosh (NJIT)**  *Rethinking Fairness in LLM Embedding*;
+   **Sara Matijevic (Columbia/ University of Oxford)** *Bootstrapping-based Regularisation for Reducing Individual Prediction Instability in Clinical Risk Prediction Models*.
 
 ### Schedule
 
@@ -87,7 +94,7 @@ This in-person gathering brings together researchers from across the greater New
      *Bias Delayed is Bias Denied? Assessing the Effect of Reporting Delays on Disparity Assessments*
    - **Poster 11**: João Fonseca (INESC-ID / NYU)  
      *ExplainerPFN: Towards Tabular Foundation Models for Model-Free Zero-Shot Feature Importance Estimations*
-   - **Poster 12**: Kevin Ren (Cornell Tech)  
+   - 🏆**Best poster award: Poster 12**: Kevin Ren (Cornell Tech)  
      *On the Validity of AI Text Detection, and Positive-Unlabeled Learning as a Partial Solution*
    - **Poster 13**: Koduvayur Parthasarathy Subbalakshmi & Sabbir Hossain Ujjal (Stevens Institute of Technology)  
      *Listen to the Layers: Mitigating Hallucinations with Inter-Layer Disagreement*
@@ -97,11 +104,11 @@ This in-person gathering brings together researchers from across the greater New
      *Identity-Robust Language Model Generation via Content Integrity Preservation*
    - **Poster 16**: Olawale Salaudeen (MIT)  
      *Domain Generalization Benchmarks with Accuracy on the Line are Misspecified*
-   - **Poster 17**: Sajel Surati (NYU)  
+   - 🏆**Best poster runner-up: Poster 17**: Sajel Surati (NYU)  
      *Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows*
-   - **Poster 18**: Subhodeep Ghosh (NJIT)  
+   - 🏆**Best poster runner-up: Poster 18**: Subhodeep Ghosh (NJIT)  
      *Rethinking Fairness in LLM Embedding*
-   - **Poster 19**: Sara Matijevic (Columbia/ University of Oxford)
+   - 🏆**Best poster runner-up: Poster 19**: Sara Matijevic (Columbia/ University of Oxford)
      *Bootstrapping-based Regularisation for Reducing Individual Prediction Instability in Clinical Risk Prediction Models*
    - **Poster 20**: Vrushali Koli (NJIT)  
      *Interactive Visualization for Calibrating Instructional Effectiveness*
