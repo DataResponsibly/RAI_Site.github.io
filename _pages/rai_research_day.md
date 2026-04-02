@@ -11,16 +11,17 @@ nav: false
 {% include figure.html people-profile=false path="/assets/img/banner/rai_research_banner.jpg" class="img-fluid" width="850px" robot=false %}
 <br>
 
-
-### Event details
-
-**When:** Friday, **March 27, 2026**, 2-7:00 pm EDT 
-
-**Where:** [370 Jay Street, Room 1201, Brooklyn, NY 11201](https://maps.app.goo.gl/Kek9KxvEnoqQEQru9)
-
 We were pleased to host NYC Responsible AI Research Day, organized by the NYU Tandon Center for Responsible AI (R/AI) as part of the [New York AI Exchange](https://r-ai.co/exchange), our ongoing initiative to convene diverse voices in sustained dialogue around the future of AI.
 
 This in-person gathering brought together 70 researchers from across the greater New York City area who are advancing Responsible AI across disciplines, methods, and perspectives, highlighting current research—published, in progress, or exploratory. The program also included a curated poster session and dedicated time for discussion and informal exchange, with refreshments throughout the afternoon.
+
+{% include figure.html 
+  people-profile=false 
+  path="/assets/img/events/rairesearchday.jpeg" 
+  class="img-fluid mx-auto d-block" 
+  width="1500px" 
+  robot=true 
+%}
 
 #### 🏆 Congratulations to the poster award winners!
 Best poster award: **Kevin Ren (Cornell Tech)** *On the Validity of AI Text Detection, and Positive-Unlabeled Learning as a Partial Solution*
@@ -30,12 +31,13 @@ Runner-up awards:
    **Subhodeep Ghosh (NJIT)**  *Rethinking Fairness in LLM Embedding*;
    **Sara Matijevic (Columbia/ University of Oxford)** *Bootstrapping-based Regularisation for Reducing Individual Prediction Instability in Clinical Risk Prediction Models*.
 
-### Schedule
+### Event details
 
-<div class="note">
-<strong>Note:</strong> The schedule and sessions are subject to change. Please check back for the latest updates.
-</div>   
-<br>   
+**When:** Friday, **March 27, 2026**, 2-7:00 pm EDT 
+
+**Where:** [370 Jay Street, Room 1201, Brooklyn, NY 11201](https://maps.app.goo.gl/Kek9KxvEnoqQEQru9)
+
+### Schedule  
 
 - **2:00–2:45 PM**: Arrival, Coffee  
   Informal arrival, coffee, and time to settle in.
