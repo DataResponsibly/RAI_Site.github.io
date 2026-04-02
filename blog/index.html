@@ -45,6 +45,9 @@ pagination:
   </div>
   {% endif %}
 
+  <h4 class="category" id="news">News</h4>
+{% include news.html %}
+
 <!--  Because of the public-facing nature of our work, we often host
   visitors and organize or participate in academic and
   general-audience events.  On this page, you can read about our
@@ -166,7 +169,7 @@ pagination:
   </div>
   {% endif %}      
 
-   {% assign featured_posts = site.posts | where: "newsletter", "true" %}
+  {% assign featured_posts = site.posts | where: "newsletter", true %}
   {% if featured_posts.size > 0 %}
     <br>
     <div class="container featured-posts">
