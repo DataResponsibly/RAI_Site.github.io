@@ -3,14 +3,27 @@ layout: about
 title: About
 permalink: /
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Our goal is to build a future in which responsible AI is synonymous with AI.**  Our work centers around [interdisciplinary research](research/), [technology policy](policy/), and [education and training](education/) for AI practitioners, decision makers, and the public at large.
+<div class="about-centered">
+  
+  <p markdown="1">
+  **Our goal is to build a future in which responsible AI is synonymous with AI.**
 
-**What is responsible AI?**  We use this term to refer to making the design, development and use of AI socially sustainable: using technology for good while controlling the risks.  Responsible AI is about respecting human values, ensuring fairness, maintaining transparency, and upholding accountability.  It's about taking hype and magical thinking out of the conversation about AI.  And about giving people the ability to understand, control and take responsibility for AI-assisted decisions.
+  
+  Our work centers around [interdisciplinary research](research/), [technology policy](policy/), and [education and training](education/) for AI practitioners, decision makers, and the public at large.
+  </p>
+
+  <p markdown="1">
+  **What is responsible AI?** 
+  
+  We use this term to refer to making the design, development and use of AI socially sustainable: using technology for good while controlling the risks. Responsible AI is about respecting human values, ensuring fairness, maintaining transparency, and upholding accountability. It's about taking hype and magical thinking out of the conversation about AI. And about giving people the ability to understand, control and take responsibility for AI-assisted decisions.
+  </p>
+
+</div>
 
 <!-- [Responsible AI](), as we see it, is the principled development and application of AI in a way that respects human values, ensures fairness, maintains transparency, and upholds accountability.
 

@@ -54,16 +54,32 @@
                 </a>
               </li>
 <!-- Julia: commenting out for now -->
-              {% if site.blog_nav_title %}
-              <!-- Blog -->
-           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
-                  {%- if page.url contains 'blog' -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
-              </li>
-              {%- endif %}
+{% comment %}
+{% if site.blog_nav_title %}
+<!-- Blog -->
+<li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+  <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+    {% if page.url contains 'blog' %}
+    <span class="sr-only">(current)</span>
+    {% endif %}
+  </a>
+</li>
+{% endif %}
+{% endcomment %}
+
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    News & Events
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    <a class="dropdown-item" href="{{ '/blog#news' | relative_url }}">News</a>
+    <a class="dropdown-item" href="{{ '/blog#events' | relative_url }}">Events</a>
+    <a class="dropdown-item" href="{{ '/blog#press' | relative_url }}">Press</a>
+    <a class="dropdown-item" href="{{ '/blog#newsletters' | relative_url }}">Newsletters</a>
+  </div>
+</li>
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}

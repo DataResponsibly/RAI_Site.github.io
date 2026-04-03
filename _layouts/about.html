@@ -1,5 +1,7 @@
 ---
 layout: default
+news: false
+selected_papers: false
 ---
 
 <!-- about.html -->
@@ -40,6 +42,13 @@ layout: default
 
           <div class="clearfix">
             {{ content }}
+          </div>
+          
+          <!-- Download button -->
+          <div style="text-align: center; margin: 20px 0;">
+            <a href="/assets/pdf/C_RAI_Brochure.pdf" class="btn-download" target="_blank">
+              Download our brochure
+            </a>
           </div>
 
           {% if page.news -%}
