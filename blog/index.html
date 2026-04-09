@@ -62,7 +62,7 @@ pagination:
     <div class="container featured-posts">
       <h4 class="category" id="events">Events</h4>
 
-   {% for post in featured_posts %} 
+    {% for post in featured_posts limit: 10 %} 
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
