@@ -7,7 +7,23 @@ nav: false
 nav_order: 6
 ---
 
-<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div>
+<!-- <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div> -->
+
+<div id="banner-other"></div>
+
+<style>
+#banner-other {
+  width: 100%;
+  max-width: 800px;   /* match your content width */
+  margin: 0 auto;     /* centers it */
+  height: 250px;
+
+  background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+</style>
 
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
@@ -38,7 +54,7 @@ href="https://r-ai.co/aix-connect">https://r-ai.co/aix-connect</a>**
     {% include figure.html path="/assets/img/events/rairesearchday1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/events/rairesearchday2.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/events/rairesearchday2.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
