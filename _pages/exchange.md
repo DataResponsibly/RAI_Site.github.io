@@ -7,23 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-<!-- <div id="banner-other" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div> -->
-
-<div id="banner-other"></div>
-
-<style>
-#banner-other {
-  width: 100%;
-  max-width: 800px;   /* match your content width */
-  margin: 0 auto;     /* centers it */
-  height: 250px;
-
-  background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-</style>
+<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div>
 
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
