@@ -13,7 +13,6 @@ nav: false
 [Google Scholar](https://scholar.google.com/citations?user=UhJRkaIAAAAJ&hl=en)
 [DBLP](https://dblp.uni-trier.de/search?q=stoyanovich)
 [LinkedIn](https://www.linkedin.com/in/julia-stoyanovich-b184851/) 
-[Twitter](https://twitter.com/stoyanoj)
 
 
 {% include figure.html people-profile=true path="assets/img/people/julia.jpg" title="julia" class="img-fluid rounded z-depth-1" %}
@@ -24,7 +23,7 @@ Julia’s research interests include AI ethics and legal compliance, and data ma
 
 Julia is engaged in technology policy and regulation in the US and internationally, having served on the New York City Automated Decision Systems Task Force, by mayoral appointment, among other roles. 
 
-Julia received her M.S. and Ph.D. degrees in Computer Science from Columbia University, and a B.S. in Computer Science and in Mathematics & Statistics from the University of Massachusetts at Amherst. She is a recipient of the NSF CAREER Award and a Senior Member of the ACM.
+Julia received her M.S. and Ph.D. degrees in Computer Science from Columbia University, and a B.S. in Computer Science and in Mathematics & Statistics from the University of Massachusetts at Amherst. She is a recipient of the NSF CAREER Award and a Senior Member of the ACM.  Julia was awarded the Presidential Early Career Award for Scientists and Engineers (PECASE).
 
 
 
