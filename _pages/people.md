@@ -92,18 +92,6 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/venetia">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Venetia Pliatsika</b><br>
-              Graduate Research Fellow
-          </div>
-      </div>
-    </a>
-</div>
-
-<div class="row mt-3">
     <a href="/people/seungeun">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/seungeun.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
@@ -113,33 +101,33 @@ nav_order: 1
           </div>
       </div>
     </a>
-    <a href="/people/tanya">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html people-profile=true path="assets/img/people/tanya.png" class="img-fluid rounded z-depth-1" my-style=true %}
-          <div class="caption">
-              <b>Tetiana Zakharchenko</b><br>
-	      Project Coordinator
-          </div>
-      </div>
-    </a>
+</div>
+
+<div class="row mt-3">
     <a href="/people/caterina">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/caterina.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Caterina Fuligni</b><br>
-              Research Scholar
+              Ops Manager and Research Scholar
           </div>
       </div>
     </a>
-</div>
-
-<div class="row mt-3">
     <a href="/people/anya">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/anya.png" class="img-fluid rounded z-depth-1" my-style=true %}
           <div class="caption">
               <b>Anya Kozorez</b><br>
               Editorial Consultant
+          </div>
+      </div>
+    </a>
+    <a href="/people/tanya">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/tanya.png" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Tetiana Zakharchenko</b><br>
+	      Project Coordinator
           </div>
       </div>
     </a>
@@ -176,6 +164,27 @@ nav_order: 1
           <div class="caption">
               <b>Rodrigo Kreis de Paula</b><br>
              Visiting Scholar
+          </div>
+      </div>
+    </a>
+</div>
+
+<div class="row mt-3">
+    <a href="/people/hyunseung">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/Hyunseung.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Hyunseung (Daniel) Hwang</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
+    <a href="/people/enver">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/Enver.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Enver Menadjiev</b><br>
+              Graduate Research Fellow
           </div>
       </div>
     </a>
@@ -246,6 +255,15 @@ nav_order: 1
 
 
 <div class="row mt-3">
+    <a href="/people/venetia">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html people-profile=true path="assets/img/people/venetia.jpeg" class="img-fluid rounded z-depth-1" my-style=true %}
+          <div class="caption">
+              <b>Venetia Pliatsika</b><br>
+              Graduate Research Fellow
+          </div>
+      </div>
+    </a>
     <a href="/people/umang">
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html people-profile=true path="assets/img/people/umang.jpg" class="img-fluid rounded z-depth-1" my-style=true %}
