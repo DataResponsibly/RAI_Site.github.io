@@ -35,7 +35,7 @@ Award No. 2432040</a> and by <a href="https://omidyar.com/">Omidyar
 Network</a>.
 
 **Read the workshop report <a href="https://r-ai.co/nairr_report">here</a>.**
-**Read the workshop report addendum, Training as Inrastructure <a href="https://r-ai.co/training_report">here</a>.**
+**Read the workshop report addendum, Training as Infrastructure <a href="https://r-ai.co/training_report">here</a>.**
 
 #### Resources
 
