@@ -7,7 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-<div id="banner-other" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div>
+<div id="banner-exchange" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div>
 
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
