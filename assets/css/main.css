@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*******************************************************************************
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
@@ -890,19 +891,22 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   #banner-other {
     display: none;
   }
+  #banner-exchange {
+    display: none;
+  }
 }
 .banner-light {
   background: url(Landing_Banner_V1.png) no-repeat center center;
   background-size: auto 600px;
   height: 600px;
-  width: 100vw; /* Use vw (viewport width) units */
-  position: relative; /* Added */
-  left: 50%; /* Added */
-  right: 50%; /* Added */
-  margin-left: -50vw; /* Added */
-  margin-right: -50vw; /* Added */
-  margin-bottom: 20px; /* Added */
-  margin-top: -10px; /* Added */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-bottom: 20px;
+  margin-top: -10px;
 }
 
 .banner-dark {
@@ -921,15 +925,20 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 
 #banner-other {
   background-size: cover;
-  height: 500px;
-  width: 100vw; /* Use vw (viewport width) units */
-  position: relative; /* Added */
-  left: 50%; /* Added */
-  right: 50%; /* Added */
-  margin-left: -50vw; /* Added */
-  margin-right: -50vw; /* Added */
-  margin-bottom: 20px; /* Added */
-  margin-top: -10px; /* Added */
+  background-position: center;
+  aspect-ratio: 2600/866;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: -10px;
+}
+
+#banner-exchange {
+  background-size: cover;
+  background-position: center;
+  padding-top: 18.7%; /* 487/2600 — preserves natural aspect ratio */
+  width: 100%; /* stays within content column, no full-bleed */
+  margin-bottom: 20px;
+  margin-top: -10px;
 }
 
 .publications-div {
