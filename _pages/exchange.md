@@ -23,24 +23,29 @@ Artificial intelligence is increasingly woven into the systems and decisions tha
 href="https://r-ai.co/aix-connect">https://r-ai.co/aix-connect</a>**
 
 <div class="container">
+
+  <!-- First row -->
   <div class="row mt-3 justify-content-center">
     <div class="col-md-4 mt-3">
       {% include figure.html path="/assets/img/events/group_nyaiexchange.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
+
     <div class="col-md-4 mt-3">
-      {% include figure.html path="assets/img/events/roundtable_nyaiexchange.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div>
+      {% include figure.html path="/assets/img/events/roundtable_nyaiexchange.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
-  <div class="row mt-3">
-    <div class="col-md-4 mt-3 justify-content-center">
-    {% include figure.html path="/assets/img/events/rairesearchday1.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
+
+  <!-- Second row -->
+  <div class="row mt-3 justify-content-center">
     <div class="col-md-4 mt-3">
-    {% include figure.html path="assets/img/events/rairesearchday2.jpg" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="/assets/img/events/rairesearchday1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-md-4 mt-3">
+      {% include figure.html path="/assets/img/events/rairesearchday2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
+
 </div>
 
 <hr>
