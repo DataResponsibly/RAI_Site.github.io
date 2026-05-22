@@ -6,8 +6,7 @@ description: Fordham University
 tags: 
 categories: event education
 event: true
-preview: /assets/img/events/fordham_thumb.jpg 
-preview: 
+preview: /assets/img/events/fordham_thumb.jpg  
 ---
 
 <div class="row mt-3">
