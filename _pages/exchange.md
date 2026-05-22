@@ -7,7 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-<div id="banner-exchange" style="background-image: url('{{ "/assets/img/banner/exchange_banner.jpg" | relative_url }}');"></div>
+<div id="banner-exchange" style="background-image: url('{{ "/assets/img/banner/NYAIExchange_updatedbanner.jpg" | relative_url }}');"></div>
 
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
@@ -78,10 +78,12 @@ The Exchange hosts in-person events at NYU and venues across the city, organized
 
 **UPCOMING EVENTS**
 
-**NYC Privacy Day** — May 1, 2026
+Stay tuned for upcoming events
 
 
 **PAST EVENTS**
+
+**<a href="https://sites.google.com/view/nyc-privacy-day/home">NYC Privacy Day</a>**, May 1, 2026
 
 **High School AI Literacy Day at NYU**, March 31, 2026
 
