@@ -12,34 +12,25 @@ nav_order: 5
 <!-- <h4 class="category" id="collaboration">#RAIforUkraine: Responsible AI Research for Ukrainian Scholars</h4> -->
 
 The ongoing war in Ukraine has severely disrupted the lives of
-hundreds of thousands of people, significantly impacting university
-students by displacing many and interrupting their education.  To
-address this, NYU R/AI launched **\#RAIforUkraine**, a fully remote
+millions of people, significantly impacting university
+students by displacing many and interrupting their education. In response, NYU R/AI launched **\#RAIforUkraine**, a fully remote
 academic research program in partnership with the <a
-href="https://ucu.edu.ua/en/">Ukrainian Catholic University (UCU)</a>
-in Lviv, Ukraine.  In the short term, the program aims to provide a
-sense of normalcy, and high-quality research opportunities, to
-students in Ukraine.  Its long-term goal is to strengthen Ukraine's
+href="https://apps.ucu.edu.ua/en/center_for_dais/">Center for Data, AI & Society at the Ukrainian Catholic University (UCU)</a>
+in Lviv, Ukraine.  In the short term, the program aims to provide students in Ukraine with a sense of normalcy and access to high-quality research opportunities.  Its long-term goal is to strengthen Ukraine's
 research capacity in responsible AI.
 
-**#RAIforUkraine** launched in June 2022, and has been running on the
-academic calendar (September through August) since Fall 2023.  The
-program is open to advanced undergraduate and graduate students who live in
-Ukraine and are enrolled in degree programs in computer science,
-information systems and related fields at accredited Ukrainian
-universities.  These students—**RAI Research Fellows**—are
-mentored by academic researchers from U.S. and European universities,
-and conduct cutting-edge collaborative research on a range of
-responsible AI topics.  Students receive academic credit and
-competitive stipends.
+**#RAIforUkraine** launched in June 2022 and has been running on the
+academic calendar (September-August) since Fall 2023.  The
+program is open to undergraduate and graduate students living in
+Ukraine and enrolled in computer science, information systems, and related fields at accredited Ukrainian universities.  **RAI Research Fellows** conduct collaborative research on responsible AI under the guidance of mentors at U.S. and European academic institutions. Fellows receive academic credit, with research stipends available to support selected projects.
 
-Financial support for the program is provided by NYU R/AI, and by
+<!--Financial support for the program is provided by NYU R/AI, and by
 generous contributions from [Simons
 Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
-Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**
+Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**-->
 
-**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVOct15.pdf) for a summary of the program!**
+**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVJul2026.pdf) for a summary of the program!**
 <hr>
 
 <h4 class="category" id="showcases">Program Showcases</h4>
@@ -102,7 +93,7 @@ public virtual showcases. Many of their projects lead to
 
 <hr>
 
-<h4 class="category" id="apply">Why join #RAIforUkraine?</h4>
+<h4 class="category" id="apply">Why Join #RAIforUkraine?</h4>
 
 Since 2022, our program has supported **112 students** from **18 Ukrainian universities** (including 40 new recruits in the Fall 2025 cohort). Guided by **70 mentors**, ranging from faculty to PhD students and postdocs at **35 academic institutions** across **12 countries**, our Research Fellows have engaged in **50+ projects**, leading to **17 peer-reviewed publications** in top computer science and data science venues to date—a number that continues to grow with each completed project. As the program expands, so do these achievements, strengthening global collaboration and fostering peace and cooperation.
 
@@ -132,9 +123,14 @@ and cultural insights.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-
-     <b>Applications for the Fall 2025 cohort are now closed. Stay tuned for further updates!</b> 
-     </div>
+     <span style="color: red;">
+  <b>
+    Applications are now open for the Fall 2026 cohort.
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScSu4q2GQzozAfoCmVYcf1s88UxwKTZnE8pfrgYIg4XhNfGMA/viewform?usp=preview">Apply here</a> by August 28, 2026.
+  </b>
+  Selected applicants will be invited to an Open House and matched with a research project aligned with their interests.
+</span> 
+    </div>
   </div>
 </div> 
 
@@ -235,7 +231,12 @@ your academic and professional profile.
       {% include figure.html path="assets/img/publication_preview/lightbulb.png" class="img-fluid rounded" style="box-shadow: none;" %}
     </div>
     <div class="col-sm-10 mt-3 mt-md-0">
-    <b>Expressions of interest for the Fall 2025 cohort are now closed.</b> Beyond Fall 2025, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We are excited to hear from you!
+    <span style="color: red;">
+  <b>
+  Interested in joining #RAIforUkraine as a mentor? <a href="https://docs.google.com/forms/d/e/1FAIpQLScvMKT4nqlvg8VePhQ4EhJqsFQT00iKUTgNX-Q0nyllwNHJNw/viewform?usp=preview">Submit your interest here</a> by August 25, 2026.
+  </b> 
+    For mentoring opportunities beyond Fall 2026, please reach out to Julia Stoyanovich at stoyanovich@nyu.edu. We look forward to hearing from you!
+</span>
     </div>
   </div>
 </div>
