@@ -33,6 +33,6 @@ The forum brought together faculty and students to share these developments, dis
     <img src="/assets/img/events/atandonforum3.jpg" alt="AI Across the Curriculum: Tandon Forum, photo 3" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
   </div>
   <div class="col-sm-6">
-    <img src="/assets/img/events/atandonforum4.jpg" alt="AI Across the Curriculum: Tandon Forum, photo 4" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
+    <img src="/assets/img/events/atandonforum4.jpeg" alt="AI Across the Curriculum: Tandon Forum, photo 4" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
   </div>
 </div>
