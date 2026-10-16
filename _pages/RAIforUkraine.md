@@ -30,7 +30,7 @@ Foundation](https://www.simonsfoundation.org/) and from the [NYU Office of
 Global
 Services](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html). **Click <a href="https://www.givecampus.com/campaigns/25654/donations/new?designation=thecenterforresponsibleai">here</a> to support #RAIforUkraine!**-->
 
-**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVJul2026.pdf) for a summary of the program!**
+**Download the [RAI for Ukraine flyer](/assets/pdf/RAIforUkraineFlyerVOct2026.pdf) for a summary of the program!**
 <hr>
 
 <h4 class="category" id="showcases">Program Showcases</h4>
@@ -40,62 +40,85 @@ public virtual showcases. Many of their projects lead to
 [peer-reviewed publications at top conferences and journals](/RAIforUkraine/#publications).
 
 
+
 <div class="container">
+
+  <!-- Two newest videos -->
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://youtu.be/PrhCJnwoydY?si=LMCvGNK6RuGaH4kI">
+        {% include figure.html path="/assets/img/events/Spring2026_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://youtu.be/jUeql8BI3O8?si=NixT4UW_BH7noOyF">
+        {% include figure.html path="/assets/img/events/Fall2025_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+  </div>
+
+  <!-- Spring 2025 and Fall 2024 -->
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
       <a href="https://www.youtube.com/watch?v=ohjggulSOkI">
-      {% include figure.html path="/assets/img/events/Spring2025_Showcase.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/events/Spring2025_Showcase.png" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
       <a href="https://www.youtube.com/watch?v=nt7rcNUyoJs">
-      {% include figure.html path="assets/img/events/Fall2024_Showcase.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/events/Fall2024_Showcase.png" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
-    <div>
+  </div>
+
+  <!-- Spring 2024 and Fall 2023 -->
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://youtu.be/r7tBBcO1JIM">
+        {% include figure.html path="/assets/img/events/Spring2024_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://youtu.be/BrnVgvP-vp0">
+        {% include figure.html path="assets/img/events/Fall2023_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
     </div>
   </div>
+
+  <!-- Spring 2023 and Fall 2022 -->
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-    <a href="https://youtu.be/r7tBBcO1JIM">
-    {% include figure.html path="/assets/img/events/Spring2024_Showcase.png" class="img-fluid rounded z-depth-1" %}
-    </a>
+      <a href="https://youtu.be/GGO_JL5QUPg">
+        {% include figure.html path="/assets/img/events/Spring2023_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-    <a href="https://youtu.be/BrnVgvP-vp0">
-    {% include figure.html path="assets/img/events/Fall2023_Showcase.png" class="img-fluid rounded z-depth-1" %}
-    </a>
-    </div>
-    </div>
-  <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-    <a href="https://youtu.be/GGO_JL5QUPg">
-    {% include figure.html path="/assets/img/events/Spring2023_Showcase.png" class="img-fluid rounded z-depth-1" %}
-    </a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    <a href="https://youtu.be/27NXbZsmy1I">
-    {% include figure.html path="assets/img/events/Fall2022_Showcase.png" class="img-fluid rounded z-depth-1" %}
-    </a>
-    </div>
-    </div>
-  <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-    <a href="https://youtu.be/hM4eRWO5DNI">
-    {% include figure.html path="assets/img/events/Summer2022_Showcase.png" class="img-fluid rounded z-depth-1" %}
-    </a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    &nbsp;
+      <a href="https://youtu.be/27NXbZsmy1I">
+        {% include figure.html path="assets/img/events/Fall2022_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
     </div>
   </div>
+
+  <!-- Summer 2022 -->
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://youtu.be/hM4eRWO5DNI">
+        {% include figure.html path="assets/img/events/Summer2022_Showcase.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      &nbsp;
+    </div>
+  </div>
+
 </div>
+
 
 <hr>
 
 <h4 class="category" id="apply">Why Join #RAIforUkraine?</h4>
 
-Since 2022, our program has supported **112 students** from **18 Ukrainian universities** (including 40 new recruits in the Fall 2025 cohort). Guided by **70 mentors**, ranging from faculty to PhD students and postdocs at **35 academic institutions** across **12 countries**, our Research Fellows have engaged in **50+ projects**, leading to **17 peer-reviewed publications** in top computer science and data science venues to date—a number that continues to grow with each completed project. As the program expands, so do these achievements, strengthening global collaboration and fostering peace and cooperation.
+Since 2022, our program has supported **141 Research Fellows** from **19 Ukrainian universities** (including 40 new recruits in the Fall 2025 cohort). Guided by **80+ mentors**, ranging from faculty to PhD students and postdocs at **40 academic institutions** across **13 countries**, our Fellows have participated in over **60 research projects**, leading to **24 peer-reviewed publications** to date, with several more in the pipeline. As the program continues to grow, so do its achievements, strengthening international research collaborations and supporting the next generation of Ukrainian researchers.
 
 <h5 class="category" id="students">For Prospective Research Fellows</h5>
 
@@ -117,6 +140,7 @@ terms.
 from diverse backgrounds, gaining valuable international perspectives
 and cultural insights.
 
+{% comment %}
 <div class="container">
   <div class="row mt-3">
     <div class="col-sm-2 mt-3 mt-md-0"> 
@@ -133,6 +157,7 @@ and cultural insights.
     </div>
   </div>
 </div> 
+{% endcomment %}
 
 <div class="container">
   <div class="row mt-3">
@@ -224,7 +249,7 @@ your academic and professional profile.
     and intercultural skills.
 
 
-
+{% comment %}
 <div class="container">
   <div class="row mt-3">
     <div class="col-sm-2 mt-3 mt-md-0">
@@ -240,6 +265,7 @@ your academic and professional profile.
     </div>
   </div>
 </div>
+{% endcomment %}
 
 <hr>
 
