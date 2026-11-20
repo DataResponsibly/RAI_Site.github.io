@@ -7,5 +7,5 @@ tags: newsletter lab publications events
 categories: newsletter
 newsletter: true
 preview: 
-redirect: https://mailchi.mp/nyu/rai-september2026-newsletter
+redirect: https://mailchi.mp/nyu/rai-sep2026-newsletter
 ---
